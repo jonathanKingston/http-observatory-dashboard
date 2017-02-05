@@ -1,198 +1,1395 @@
 {
   "sites": {
-    "Bug Bounty Sites": [],
-    "ABSearch": [
-      "search.services.mozilla.com"
+    "Algeria": [],
+    "Banque Exterieure D’Algerie": [
+      "bea.dz"
     ],
-    "Addons": [
-      "addon.mozilla.org",
-      "addons.mozilla.org",
-      "addons.cdn.mozilla.net",
-      "blocklist.addons.mozilla.org",
-      "builder.addons.mozilla.org",
-      "compatibility-lookup.services.mozilla.com",
-      "discovery.addons.mozilla.org",
-      "firefoxusercontent.com",
-      "services.addons.mozilla.org",
-      "static.addons.mozilla.net",
-      "versioncheck-bg.addons.mozilla.org",
-      "versioncheck.addons.mozilla.org"
+    "Banque Nationale D’Algerie": [
+      "www.bna.dz"
     ],
-    "Bedrock (www)": [
-      "mozilla.org",
-      "www.mozilla.com",
-      "www.mozilla.org",
-      "www.firefox.com",
-      "www.getfirefox.com"
+    "Banque de l'Agriculture et du Developpement Rural": [
+      "www.badr-bank.dz"
     ],
-    "Bugzilla": [
-      "bugzilla.mozilla.org",
-      "bugzilla-dev.allizom.org"
+    "Banque de Developpement Locale": [
+      "www.bdl.dz"
     ],
-    "Crash Reports": [
-      "crash-reports-xpsp2.mozilla.com",
-      "crash-reports.mozilla.com",
-      "crash-stats.mozilla.com"
+    "Credit Populaire d'Algerie": [
+      "www.cpa-bank.dz",
+      "ebanking.cpa-bank.dz"
     ],
-    "Downloads (Product Delivery)": [
-      "archive.mozilla.org",
-      "download-installer.cdn.mozilla.net",
-      "download.cdn.mozilla.net",
-      "download.mozilla.org",
-      "ftp.mozilla.org"
+    "Cassie d'Eparge et de Prevoyance": [
+      "www.caisse-epargne.fr"
     ],
-    "Firefox Accounts": [
-      "accounts.firefox.com",
-      "api.accounts.firefox.com",
-      "firefoxusercontent.com",
-      "mozillausercontent.com",
-      "oauth.accounts.firefox.com",
-      "profile.accounts.firefox.com",
-      "verifier.accounts.firefox.com"
+    "Cassie Nationale de Mutualite Agricole": [
+      "cnma.dz"
     ],
-    "Firefox Hello": [
-      "hello.firefox.com"
+    "Banque Al Baraka Algerie": [
+      "albaraka-bank.com"
     ],
-    "Firefox Settings": [
-      "firefox.settings.services.mozilla.com",
-      "webextensions.settings.services.mozilla.com"
+    "Arab Banking Corporation": [
+      "bank-abc.com"
     ],
-    "Firefox Sync": [
-      "sync-264-us-west-2.sync.services.mozilla.com",
-      "token.services.mozilla.com"
+    "Natixis Banque": [
+      "www.natixis.com"
     ],
-    "Firefox Updates (AUS/Balrog)": [
-      "aus3.mozilla.org",
-      "aus4.mozilla.org",
-      "aus5.mozilla.org"
+    "Societe Generale Algerie": [
+      "www.societegenerale.dz"
     ],
-    "Location (MLS)": [
-      "location.services.mozilla.com",
-      "location-leaderboard.services.mozilla.com"
+    "Arab Bank": [
+      "www.arabbank.dz"
     ],
-    "Marketplace": [
-      "casttv.services.mozilla.com",
-      "marketplace.firefox.com",
-      "receiptcheck.marketplace.firefox.com",
-      "static.marketplace.firefox.com",
-      "syncto.services.mozilla.com"
+    "BNP Paribas el Djazair": [
+      "www.bnpparibas.dz"
     ],
-    "Observatory": [
-      "http-observatory.security.mozilla.org",
-      "observatory.mozilla.org",
-      "tls-observatory.services.mozilla.com"
+    "Trust Bank Algeria": [
+      "www.trust-bank-algeria.com"
     ],
-    "Push": [
-      "push.services.mozilla.com",
-      "updates.push.services.mozilla.com"
+    "Gulf Bank Algeria": [
+      "www.ag-bank.com"
     ],
-    "Single Sign-On": [
-      "sso.mozilla.com"
+    "Housing Bank for Trade and Finance": [
+      "hbtf.com"
     ],
-    "Telemetry": [
-      "aggregates.telemetry.mozilla.org",
-      "analysis-output.telemetry.mozilla.org",
-      "analysis.telemetry.mozilla.org",
-      "gauss.telemetry.mozilla.org",
-      "incoming.telemetry.mozilla.org",
-      "metrics.services.mozilla.com",
-      "pipeline-cep.prod.mozaws.net",
-      "reports.telemetry.mozilla.org",
-      "start.telemetry.mozilla.org",
-      "telemetry.mozilla.org",
-      "telemetry-experiment.cdn.mozilla.net",
-      "metrics.services.mozilla.com"
+    "Fransabank el Djazair": [
+      "fransabank.dz",
+      "www.fransabank.dz"
     ],
-    "Test Pilot": [
-      "testpilot.firefox.com"
+    "Calyon Algerie SPA": [
+      "www.ca-cib.com"
     ],
-    "Tiles": [
-      "tiles.cdn.mozilla.net",
-      "tiles.services.mozilla.com"
+    "Al Salaam Bank Algeria": [
+      "www.alsalamalgeria.com",
+      "moubachir.alsalamalgeria.com"
     ],
-    "Tracking Protection": [
-      "shavar.services.mozilla.com",
-      "tracking.services.mozilla.com"
+    "HSBC Algeria": [
+      "www.algeria.hsbc.com"
     ],
-    "Non-Bounty Sites": [],
-    "Blogs": [
-      "blog.sensorweb.io",
-      "blog.getfirebug.com",
-      "blog.mozilla.com",
-      "blog.mozilla.org",
-      "blog.seamonkey-project.org",
-      "planet.mozilla.org"
+
+    "Angola": [],
+    "Banco Nacional de Angola": [
+      "bna.ao"
     ],
-    "Branding & Marketing": [
-      "assets.mozilla.org",
-      "events.mozilla.org"
+    "Banco Africano de Investimentos": [
+      "bancobai.ao",
+      "ib.bancobai.ao"
     ],
-    "Communication Tools": [
-      "www.standu.ps"
+    "Banco Angolano de Negócios e Comércio": [
+      "banc.co.ao",
+      "www.banc.co.ao"
     ],
-    "Documentation": [
-      "developer.mozilla.org",
-      "wiki.mozilla.org"
+    "Banco Yetu": [
+      "www.bancoyetu.ao",
+      "netparticulares.bancoyetu.ao"
     ],
-    "Mailing Lists": [
-      "lists.mozilla.org",
-      "mail.mozilla.org"
+    "Banco BIC Angola": [
+      "www.bancobic.ao"
     ],
-    "Miscellaneous": [
-      "air.mozilla.org",
-      "careers.mozilla.org",
-      "contributejson.org",
-      "login.mozilla.com",
-      "mozillausercontent.com",
-      "mozillians.org",
-      "people.mozilla.org",
-      "publicsuffix.org",
-      "restmail.net"
+    "Banco do Brasil": [
+      "bancobrasil.com.br",
+      "www.bb.com.br"
     ],
-    "Public Relations & PR Campaigns": [
-      "advocacy.mozilla.org",
-      "codemoji.org",
-      "fundraising.mozilla.org",
-      "games.mozilla.org",
-      "internethealthreport.org",
-      "learning.mozilla.org",
-      "petitions.mozilla.org"
+    "Banco Comercial Angolano": [
+      "www.bca.co.ao",
+      "www.bcanet.co.ao"
     ],
-    "Redirectors": [
-      "click.e.mozilla.org",
-      "mzl.la"
+    "Banco de Comércio e Indústria": [
+      "www.bci.ao",
+      "part.bci.ao"
     ],
-    "Shield": [
-      "qsurvey.mozilla.com",
-      "self-repair.mozilla.org"
+    "Banco de Desenvolvimento de Angola": [
+      "bda.ao"
     ],
-    "Snippets": [
-      "snippets.mozilla.com",
-      "snippets.cdn.mozilla.net"
+    "Banco Espírito Santo Angola": [
+      "www.bancoeconomico.ao",
+      "net.bancoeconomico.ao"
     ],
-    "Source Control": [
-      "dxr.mozilla.org",
-      "hg.mozilla.org",
-      "searchfox.org",
-      "svn.mozilla.org"
+    "Banco de Fomento Angola": [
+      "www.bfo.ao"
     ],
-    "Staging Instances": [
-      "mozillausercontent.com"
+    "BFA": [
+      "www.bfa.ao"
     ],
-    "Status Dashboards": [
-      "arewefastyet.com",
-      "riskheatmap.security.mozilla.org",
-      "treestatus.mozilla.org"
+    "Banco Mundial": [
+      "www.bancomundial.org"
     ],
-    "Testing and Continuous Integration": [
-      "moztrap.mozilla.org"
+    "Banco Privado Atlântico": [
+      "www.atlantico.ao"
     ],
-    "Translation Services": [
-      "pontoon.mozilla.org"
+    "Banco de Poupança e Crédito": [
+      "www.bpc.ao"
     ],
-    "Vidyo": [
-      "v.mozilla.com",
-      "vreplay.mozilla.com"
+    "Banco de Negócios Internacional": [
+      "www.bni.ao",
+      "private.bni.ao"
+    ],
+    "Banco Regional do Keve": [
+      "www.bancokeve.ao",
+      "particulares.bancokeve.ao"
+    ],
+    "Banco Sol": [
+      "www.bancosol.ao",
+      "particulares.solnet.ao"
+    ],
+    "Banco Millenium Angola": [
+      "www.millenniumangola.ao"
+    ],
+    "Banco VTB Africa": [
+      "www.vtb.ao",
+      "particulares.vtb.ao"
+    ],
+    "Finibanco Angola": [
+      "www.finibancoangola.co.ao"
+    ],
+    "BMF": [
+      "www.bancobmf.ao"
+    ],
+    "Caixa Angola": [
+      "www.caixaangola.ao",
+      "caixadirecta.particulares.caixaangola.ao"
+    ],
+    "Banco Kwanza Invest": [
+      "www.bancokwanzainvest.com"
+    ],
+    "BCH": [
+      "www.bch.co.ao"
+    ],
+    "Standard bank": [
+      "www.standardbank.co.ao",
+      "particulares.standardbank.co.ao"
+    ],
+    "Banco Valor": [
+      "www.bancovalor.com",
+      "particulares.bancovalor.ao",
+      "www.bancovalor.ao"
+    ],
+
+    "Armenia": [],
+    "ACBA-Credit Agricole Bank": [
+      "www.acba.am",
+      "online.acba.am"
+    ],
+    "Anelik Bank": [
+      "www.anelik.am",
+      "bankclient.anelik.am"
+    ],
+    "Araratbank": [
+      "www.araratbank.am"
+    ],
+    "ArdShinInvest": [
+      "ashib.am"
+    ],
+    "AreximBank": [
+      "www.ardshinbank.am"
+    ],
+    "Armbusiness": [
+      "www.armbusinessbank.am"
+    ],
+    "ArmEconomBank": [
+      "aeb.am"
+    ],
+    "Ameriabank": [
+      "www.ameriabank.am"
+    ],
+    "ArmSwissBank": [
+      "www.armswissbank.am"
+    ],
+    "Artsakhbank": [
+      "www.artsakhbank.com"
+    ],
+    "Converse Bank Corp": [
+      "www.conversebank.am"
+    ],
+    "HSBC Bank Armenia": [
+      "www.hsbc.am"
+    ],
+    "InecoBank": [
+      "www.inecobank.am"
+    ],
+    "Byblos Bank Armenia": [
+      "www.byblosbankarmenia.am",
+      "online.byblosbankarmenia.am"
+    ],
+    "Mellat Bank": [
+      "www.mellatbank.am"
+    ],
+    "Prometey Bank": [
+      "www.prometeybank.am"
+    ],
+    "Unibank": [
+      "www.unibank.am"
+    ],
+    "VTB Bank": [
+      "www.vtb.am"
+    ],
+
+    "Australia": [],
+    "CommBank Europe": [
+      "www.commbank.com.au"
+    ],
+    "National Australia Bank": [
+      "www.nab.com.au",
+      "ib.nab.com.au"
+    ],
+    "Australia and New Zealand Banking Group": [
+      "anz.com",
+      "anz.com.au"
+    ],
+    "Westpac": [
+      "banking.westpac.com.au",
+      "www.westpac.com.au"
+    ],
+
+
+"Azerbaijan": [],
+"Bank of Baku": [
+  "www.bankofbaku.com"
+],
+"NBC Bank": [
+  "www.nbcbank.az"
+],
+
+"Bangladesh": [],
+"Agrani bank": [
+  "www.agranibank.org"
+],
+"Basic bank": [
+  "basicbanklimited.com"
+],
+"Janata bank": [
+  "janatabank-bd.com"
+],
+"Rupali bank": [
+  "rupalibank.org"
+],
+"Sonali Bank": [
+  "sonalibank.com.bd"
+],
+"Bangladesh Development Bank": [
+  "www.bdbl.com.bd"
+],
+
+    "Belgium": [],
+    "Belfius": [
+      "www.belfius.com"
+    ],
+    "BNP Paribas Fortis": [
+      "www.bnpparibasfortis.com",
+      "www.bnpparibasfortis.be"
+    ],
+    "ING Bank": [
+      "ing.be"
+    ],
+    "KBC Bank": [
+      "kbc.com",
+      "kbc.be",
+      "kbctouch.kbc.be" 
+    ],
+
+
+"Bhutan": [],
+"Bhutan national bank": [
+  "bnb.bt"
+],
+
+    "Brazil": [],
+    "Banco do Brasil": [
+      "www.bb.com.br",
+      "www.bancobrasil.com.br"
+    ],
+    "Itaú Unibanco": [
+      "www.itau.com.br"
+    ],
+    "Caixa Econômica Federal": [
+      "www.caixa.gov.br",
+      "internetbanking.caixa.gov.br"
+    ],
+    "Banco Bradesco": [
+      "banco.bradesco"
+    ],
+
+"Brunei": [],
+"Baiduri Bank Berhad": [
+  "www.baiduri.com.bn",
+  "www.ibanking.baiduri.com.bn"
+],
+"Bank Islam Brunei Darussalam Berhad": [
+  "www.bibd.com.bn"
+],
+"Perbadanan Tabung Amanah Islam Brunei": [
+  "www.taib.com.bn"
+],
+"Maybank": [
+  "maybank.com"
+],
+"RHB Bank": [
+  "www.rhbgroup.com",
+  "rhbnow.com.my",
+  "www.rhbbank.com.sg"
+],
+"UOB Bank": [
+  "www.uobgroup.com",
+  "www.uob.com.sg",
+  "pib.uob.com.sg"
+],
+"Standard Chartered Bank": [
+  "bn.online.standardchartered.com"
+],
+
+
+    "Burundi": [],
+    "FinBank Burundi": [
+      "www.finbank.co.bi"
+    ],
+    "Banque Commerciale du Burundi": [
+      "www.bancobu.com"
+    ],
+    "Banque Burundaise pour le Commerce et l'Investissement": [
+      "www.bbcibank.com"
+    ],
+    "Banque de Credit de Bujumbura": [
+      "bcb.bi"
+    ],
+    "CRDB Bank Burundi": [
+      "crdbbank.com"
+    ],
+    "Diamond Trust Bank Burundi": [
+      "www.dtbafrica.com",
+      "www.dtbk.dtbafrica.com",
+      "e-channels.dtbafrica.com"
+    ],
+    "Ecobank Burundi": [
+      "www.ecobank.com",
+      "rib.ecobank.com",
+      "omni.ecobank.com"
+    ],
+    "Interbank Burundi": [
+      "www.interbankbdi.com"
+    ],
+    "KCB Burundi": [
+      "kcbbankgroup.com",
+      "bi-en.kcbbankgroup.com",
+      "bi-fr.kcbbankgroup.com",
+      "onlinebanking.kcbbankgroup.com"
+    ],
+
+"Kenya": [],
+"KCB Kenya": [
+  "https://ke.kcbbankgroup.com/"
+],
+
+"Tanzania": [],
+"KCB Tanzania": [
+  "https://tz-en.kcbbankgroup.com/"
+],
+
+"Rwanda": [],
+"KCB Rwanda": [
+  "https://rw-en.kcbbankgroup.com/"
+],
+
+"South Sudan": [],
+"KCB South Sudan": [
+  "https://ss-en.kcbbankgroup.com/"
+],
+
+
+    "Canada": [],
+    "Royal Bank of Canada": [
+      "rbc.com",
+      "www1.royalbank.com"
+    ],
+    "Toronto-Dominion Bank": [
+      "td.com",
+      "www.tdcanadatrust.com",
+      "easyweb.td.com"
+    ],
+    "Bank of Nova Scotia": [
+      "www.scotiabank.com",
+      "www.scotiaonline.scotiabank.com"
+    ],
+    "Bank of Montreal": [
+      "bmocm.com",
+      "www.bmo.com"
+    ],
+    "Canadian Imperial Bank of Commerce": [
+      "cibc.com"
+    ],
+
+"Cambodia": [],
+
+    "China": [],
+    "Bank of China": [
+      "www.boc.cn",
+      "ebsnew.boc.cn"
+    ],
+    "China Construction Bank": [
+      "www.ccb.com",
+      "login.ccb.com"
+    ],
+    "Industrial and Commercial Bank of China": [
+      "www.icbc.com.cn",
+      "epass.icbc.com.cn"
+    ],
+    "Agricultural Bank of China": [
+      "www.abchina.com",
+      "www.95599.cn"
+    ],
+
+    "Finland": [],
+    "Nordea": [
+      "nordea.com",
+      "nettbanken.nordea.no"
+    ],
+    "Danske": [
+      "www.danskebank.fi"
+    ],
+    "Osuuspankki": [
+      "www.op.fi"
+    ],
+    "Aktia": [
+      "www.aktia.fi",
+      "auth.aktia.fi"
+    ],
+    "S-pankki": [
+      "www.s-pankki.fi"
+    ],
+    "Ålandsbanken": [
+      "www.alandsbanken.fi",
+      "online.alandsbanken.fi"
+    ],
+
+    "France": [],
+    "BNP Paribas": [
+      "group.bnpparibas",
+      "mabanque.bnpparibas"
+    ],
+    "Crédit Agricole": [
+      "www.credit-agricole.com",
+      "www.credit-agricole.fr"
+    ],
+    "Société Générale": [
+      "www.societegenerale.com",
+      "www.privatebanking.societegenerale.com",
+      "particuliers.societegenerale.fr"
+    ],
+    "BPCE": [
+      "www.groupebpce.fr",
+      "www.palatine.fr",
+      "www.epalatine.fr",
+      "www.caisse-epargne.fr",
+      "www.banquepopulaire.fr"
+    ],
+
+
+"Georgia": [],
+"Kazakhstan": [],
+"Korea": [],
+"Kyrgyzstan": [],
+"Labuan": [],
+"Laos": [],
+"Malaysia": [],
+"Maybank": [
+  "www.maybank2u.com.my"
+],
+
+"Maldives": [],
+"Mongolia": [],
+"Myanmar": [],
+"Nepal": [],
+"Philippines": [],
+"Republic of Korea": [],
+"Russian Federation": [],
+"Sri Lanka": [],
+"Tajikistan": [],
+"Turkmenistan": [],
+"Uzbekistan": [],
+
+"Iran": [],
+"Bank Melli Iran": [
+  "www.bmi.ir"
+],
+"Bank Sepah": [
+  "www.banksepah.ir"
+],
+"Post Bank of Iran": [
+  "www.postbank.ir"
+],
+"Tejarat Bank": [
+  "www.tejaratbank.ir"
+],
+"Mellat Bank": [
+  "bankmellat.ir"
+],
+"Bank of Industry & Mine": [
+  "www.bim.ir"
+],
+"Bank Pasargad": [
+  "www.en.bpi.ir"
+],
+"Bank Saderat Iran": [
+  "www.bsi.ir"
+],
+
+
+
+    "China": [],
+    "AB China": [
+      "www.abchina.com"
+    ],
+
+    "Germany": [],
+    "BayernLB": [
+      "www.bayernlb.de"
+    ],
+    "Commerzbank": [
+      "www.commerzbank.com"
+    ],
+    "DekaBank": [
+      "www.deka.de"
+    ],
+    "Deutsche Bank": [
+      "www.db.com",
+      "meine.deutsche-bank.de"
+    ],
+    "Deutsche Pfandbriefbank": [
+      "www.pfandbriefbank.com"
+    ],
+    "Deutsche Postbank": [
+      "www.postbank.com"
+    ],
+    "DZ Bank": [
+      "www.dzbank.com"
+    ],
+    "GLS Bank": [
+      "www.gls.de"
+    ],
+    "HSH Nordbank": [
+      "www.hsh-nordbank.de"
+    ],
+    "Hypothekenbank": [
+      "www.muenchenerhyp.de"
+    ],
+    "KfW": [
+      "www.kfw.de"
+    ],
+    "Landesbank Baden-Württemberg": [
+      "www.lbbw.de"
+    ],
+    "Landesbank Berlin": [
+      "www.lbb.de"
+    ],
+    "Helaba": [
+      "www.helaba.com"
+    ],
+    "Landwirtschaftliche": [
+      "www.rentenbank.de"
+    ],
+    "Nord/LB": [
+      "www.nordlb.com"
+    ],
+    "NRW.Bank": [
+      "www.nrwbank.de"
+    ],
+    "Wirecard": [
+      "www.wirecardbank.com"
+    ],
+
+    "Rheinischer Sparkassen- und Giroverband": [
+      "www.rsgv.de" 
+    ],
+    "Sparkassenverband Baden-Württemberg": [
+      "www.sv-bw.de"
+    ],
+    "Sparkassenverband Bayern": [
+      "www.sparkassenverband-bayern.de"
+    ],
+    "Sparkassenverband Berlin": [
+      "www.berliner-sparkasse.de"
+    ],
+    "Hanseatischer Sparkassen- und Giroverband": [
+      "www.hsgv.de"
+    ],
+    "Sparkassen- und Giroverband Hessen-Thüringen": [
+      "www.sparkassen-finanzgruppe-ht.de"
+    ],
+    "Sparkassenverband Niedersachsen": [
+      "www.svn.de",
+      "www.nsks.de",
+      "www.dsgv.de"
+    ],
+    "Ostdeutscher Sparkassenverband": [
+      "www.osv-online.de"
+    ],
+    "Sparkassenverband Rheinland-Pfalz": [
+      "www.sv-rlp.de"
+    ],
+    "Sparkassenverband Saar": [
+      "www.svsaar.de"
+    ],
+    "Sparkassenverband Westfalen-Lippe": [
+      "www.wlsgv.de"
+    ],
+    "Sparkassen- und Giroverband für Schleswig-Holstein": [
+      "www.sgvsh.de"
+    ],
+    "Verband der Deutschen Freien Öffentlichen Sparkassen": [
+      "www.verband-freier-sparkassen.de"
+    ],
+
+"Kazakhstan": [],
+"BTA": [
+"bta.kz"
+],
+
+
+    "Online": [],
+    "Direct banking": [
+      "www.directbanking.com",
+      "cibng.ibanking-services.com"
+    ],
+    "Hapo": [
+      "www.hapo.org"
+    ],
+    "Virtual bank": [
+      "www.virtualbank.com"
+    ],
+
+
+    "USA": [],
+    "Citi": [
+     "online.citi.com"
+    ],
+    "Chase": [
+      "www.chase.com"
+    ],
+    "Bank of America": [
+      "www.bankofamerica.com"
+    ],
+    "Meriwest": [
+      "meriwest.com",
+      "meriwestonline.meriwest.com"
+    ],
+    "J.P.Morgan": [
+      "www.jpmorgan.com"
+    ],
+    "Wells Fargo": [
+      "www.wellsfargo.com"
+    ],
+    "US bank": [
+      "www.usbank.com"
+    ],
+    "PNC": [
+      "www.pnc.com"
+    ],
+    "Adams bank & trust": [
+      "www.abtbank.com"
+    ],
+    "ATB financial": [
+      "www.atb.com"
+    ],
+    "Ambient capital": [
+      "www.ambientcapital.com"
+    ],
+    "American savings bank": [
+      "www.asbhawaii.com"
+    ],
+    "Apple creek bank": [
+      "applecreekbank.com"
+    ],
+    "Apollo trust": [
+      "www.apollotrust.com"
+    ],
+    "Bank of the Cascades": [
+      "www.botc.com"
+    ],
+    "Bank of galveston": [
+      "www.bankofgalveston.com"
+    ],
+    "Bank of colorado": [
+      "www.bankofcolorado.com"
+    ],
+    "Bank of Hawaii": [
+      "www.boh.com"
+    ],
+    "Chemical bank": [
+      "www.chemicalbank.com"
+    ],
+    "BNY Mellon": [
+      "www.bnymellon.com"
+    ],
+    "Bank of San Juans": [
+      "www.banksanjuans.com"
+    ],
+    "Bank of South Carolina": [
+      "www.banksc.com"
+    ],
+    "Bank of Stocton": [
+      "www.bankofstockton.com"
+    ],
+    "Commonwealth bank": [
+      "www.commbank.co.id"
+    ],
+    "Bank United": [
+      "www.bankunited.com"
+    ],
+    "Black river country bank": [
+      "www.brcbank.com"
+    ],
+    "Bridgehampton national bank": [
+      "www.bridgenb.com"
+    ],
+    "Broadway bank": [
+      "broadway.bank"
+    ],
+    "Busey": [
+      "www.busey.com"
+    ],
+    "Banner Capital bank": [
+      "www.bcbank.net"
+    ],
+
+    "India": [],
+    "State Bank of India": [
+      "www.sbi.co.in"
+    ],
+    "ICICI Bank": [
+      "www.icicibank.com",
+      "infinity.icicibank.com"
+    ],
+    "HDFC Bank": [
+      "www.hdfcbank.com"
+    ],
+    "Punjab National Bank": [
+      "www.pnbindia.in"
+    ],
+    "Bank of Baroda": [
+      "www.bankofbaroda.com"
+    ],
+
+    "Indonesia": [],
+    "Bank Rakyat Indonesia": [
+      "www.bri.co.id"
+    ],
+    "Bank Mandiri": [
+      "www.bankmandiri.co.id",
+      "ib.bankmandiri.co.id"
+    ],
+    "Bank Central Asia": [
+      "www.bca.co.id",
+      "www.klikbca.com",
+      "ibank.klikbca.com"
+    ],
+    "Bank Negara Indonesia": [
+      "www.bni.co.id",
+      "ibank.bni.co.id"
+    ],
+
+    "Ireland": [],
+    "AIB": [
+      "aib.ie"
+    ],
+    "Bank of Ireland": [
+      "www.bankofireland.com"
+    ],
+    "Ulster Bank": [
+      "ulsterbank.ie",
+      "digital.ulsterbank.ie",
+      "www.ulsterbankanytimebanking.ie"
+    ],
+    "Irish Permanent": [
+      "www.permanenttsb.ie"
+    ],
+    "Danske Bank": [
+      "www.danskebank.ie"
+    ],
+    "KBC": [
+      "www.kbc.ie"
+    ],
+
+    "Northern Ireland": [],
+    "First Trust bank": [
+      "firsttrustbank.co.uk"
+    ],
+    "Danske Bank": [
+      "www.danskebank.co.uk"
+    ],
+
+    "Singapore": [],
+    "OCBC": [
+      "www.ocbc.com"
+    ],
+    "United Overseas Bank": [
+      "www.uobgroup.com",
+      "pib.uob.com.sg"
+    ],
+    "DBS Bank": [
+      "www.dbs.com",
+      "www.dbs.com.sg",
+      "internet-banking.dbs.com.sg"
+    ],
+
+    "Italy": [],
+    "Intesa Sanpaolo": [
+      "www.intesasanpaolo.com"
+    ],
+    "UniCredit": [
+      "www.unicreditgroup.eu"
+    ],
+    "UBI Banca": [
+      "www.ubibanca.it"
+    ],
+    "Banca Mediolanum": [
+      "www.bancamediolanum.it"
+    ],
+
+    "Latvia": [],
+    "ABLV Bank": [
+      "www.ablv.com"
+    ],
+    "Rietumu Banka": [
+      "www.rietumu.com"
+    ],
+    "Citadele": [
+      "www.citadele.lv"
+    ],
+    "Baltic International Bank": [
+      "www.bib.eu"
+    ],
+    "Blue Orange": [
+      "www.blueorangebank.com"
+    ],
+    "Latvijas Pasta Banka": [
+      "www.lpb.lv"
+    ],
+    "Expobank": [
+      "www.expobank.eu"
+    ],
+    "Rigensis Bank": [
+      "www.rigensisbank.com"
+    ],
+    "Bank M2M Europe": [
+      "www.bankm2m.com"
+    ],
+    "Meridian Trade Bank": [
+      "www.mtbank.eu"
+    ],
+    "Reģionāla investīciju banka": [
+      "ribbank.com"
+    ],
+
+    "Lithuania": [],
+    "ŠIAULIŲ BANK": [
+      "www.sb.lt"
+    ],
+    "DnB Nord": [
+      "www.dnb.no"
+    ],
+    "SEB bankas": [
+      "www.seb.lt"
+    ],
+    "Hansabank": [
+      "www.swedbank.ee",
+      "ib.swedbank.lv"
+    ],
+    "Citadele Bank": [
+      "www.citadele.lv"
+    ],
+    "Medicinos bankas": [
+      "www.medbank.lt"
+    ],
+
+    "Luxembourg": [],
+    "Banque et Caisse d'Épargne de l'État": [
+      "www.bcee.lu",
+      "bcee.snet.lu"
+    ],
+    "Banque Internationale à Luxembourg": [
+      "www.bil.com",
+      "bilnet.lu.bil.com"
+    ],
+    "BGL BNP Paribas": [
+      "www.bnpparibas.lu",
+      "webbanking.bgl.lu"
+    ],
+    "ING Luxembourg": [
+      "ing.lu"
+    ],
+
+    "Malta": [], 
+    "Akbank": [
+      "www.akbank.com"
+    ],
+    "APS Bank": [
+      "www.apsbank.com.mt"
+    ],
+    "Banif Bank": [
+      "www.banif.com.mt"
+    ],
+    "Bank of Valletta": [
+      "www.bov.com"
+    ],
+    "BAWAG Malta Bank": [
+      "www.bawagpsk.com"
+    ],
+    "Deutsche Bank": [
+      "www.db.com"
+    ],
+    "Erste Bank": [
+      "www.erstegroup.com"
+    ],
+    "FCM Bank": [
+      "fcmbank.com.mt"
+    ],
+    "FIMBank": [
+      "www.fimbank.com"
+    ],
+    "BNP Fortis": [
+      "www.bnpparibasfortis.com"
+    ],
+    "HSBC Bank Malta": [
+      "www.hsbc.com.mt"
+    ],
+    "IIG Bank (Malta)": [
+      "www.iigbank-malta.com"
+    ],
+    "Izola Bank": [
+      "www.izolabank.eu"
+    ],
+    "Lombard Bank Malta": [
+      "www.lombardmalta.com"
+    ],
+    "Mediterranean Bank": [
+      "www.medbank.com.mt"
+    ],
+    "NBG Bank Malta": [
+      "www.nbg.com.mt"
+    ],
+    "Nemea Bank": [
+      "www.nemeabank.com"
+    ],
+    "Novum Bank": [
+      "www.novumbankgroup.com"
+    ],
+    "Pilatus Bank": [
+      "www.pilatusbank.com"
+    ],
+    "Raiffeisen Malta": [
+      "www.rzb.at"
+    ],
+    "Sparkasse Bank Malta": [
+      "www.sparkasse-bank-malta.com"
+    ],
+    "Turkiye Garanti Bankasi": [
+      "www.garanti.com.tr"
+    ],
+    "Nordea Bank AB Mala": [
+      "www.nordea.com"
+    ],
+    "Mediterranean Bank": [
+      "www.medbank.com.mt"
+    ],
+
+    "Netherlands": [],
+    "ABN AMRO": [
+      "www.abnamro.com"
+    ],
+    "ING": [
+      "ing.com"
+    ],
+    "Rabobank": [
+      "www.rabobank.com",
+      "www.rabobank.nl"
+    ],
+    "Amsterdam Trade Bank": [
+      "www.atbank.eu"
+    ],
+    "Anadolubank N.V.": [
+      "www.anadolubank.nl"
+    ],
+    "ASN Bank": [
+      "www.asnbank.nl"
+    ],
+    "Bank Mendes Gans": [
+      "www.mendesgans.com"
+    ],
+    "Bank Nederlandse Gemeenten": [
+      "www.bngbank.nl"
+    ],
+    "BinckBank": [
+      "www.binck.com"
+    ],
+    "bunq": [
+      "www.bunq.com"
+    ],
+    "Csredit Europe Bank": [
+      "www.crediteuropebank.com"
+    ],
+    "Demir Halk Bank": [
+      "www.dhbbank.com"
+    ],
+    "GarantiBank International NV": [
+      "www.garantibank.eu"
+    ],
+    "GE Artesia Bank": [
+      "www.geartesia.nl"
+    ],
+    "Kempen & Co": [
+      "www.kempen.nl"
+    ],
+    "Nederlandse Waterschapsbank": [
+      "www.nwbbank.com"
+    ],
+    "Netherlands Development Finance Company": [
+      "www.fmo.nl"
+    ],
+    "NIBC Bank": [
+      "www.nibc.nl"
+    ],
+    "SNS": [
+      "www.snsbank.nl"
+    ],
+    "De Volksbank": [
+      "www.devolksbank.nl"
+    ],
+    "Triodos Bank": [
+      "www.triodos.com"
+    ],
+    "Van Lanschot": [
+      "www.vanlanschot.nl"
+    ],
+
+    "New Zealand": [],
+    "Westpac": [
+      "www.westpac.co.nz",
+      "bank.westpac.co.nz"
+    ],
+    "Kiwibank": [
+      "www.kiwibank.co.nz",
+      "www.ib.kiwibank.co.nz"
+    ],
+    "TSB Bank": [
+      "www.tsbbank.co.nz",
+      "homebank.tsbbank.co.nz"
+    ],
+    "SBS Bank": [
+      "www.sbsbank.co.nz",
+      "secure.sbsbank.co.nz",
+      "ibank.sbsbank.co.nz"
+    ],
+    "Heartland": [
+      "www.heartland.co.nz",
+      "secure.heartland.co.nz"
+    ],
+    "Australia and New Zealand Banking Group": [
+      "anz.com",
+      "anz.co.nz",
+      "digital.anz.co.nz"
+    ],
+    "ASB": [
+      "www.asb.co.nz",
+      "online.asb.co.nz"
+    ],
+    "BNZ": [
+      "www.bnz.co.nz"
+    ],
+
+    "Pakistan": [],
+    "Habib bank": [
+     "www.hbl.com",
+     "www.hblibank.com.pk"
+    ],
+    "MCB Bank Limited": [
+      "www.mcb.com.pk",
+      "online.mcb.com.pk"
+    ],
+    "National Bank of Pakistan": [
+      "www.nbp.com.pk"
+    ],
+    "United Bank": [
+      "www.ubldirect.com",
+      "www.ubldirect.com"
+    ],
+    "Allied Bank Limited": [
+      "www.abl.com",
+      "allied.direct.abl.com.pk"
+    ],
+
+
+    "Portugal": [],
+    "Banco Comercial Português": [
+      "ind.millenniumbcp.pt"
+    ],
+    "Banco Português de Investimento": [
+      "www.bancobpi.pt"
+    ],
+    "Caixa Geral de Depósitos": [
+      "www.cgd.pt"
+    ],
+    "Novo Banco": [
+      "www.novobanco.pt"
+    ],
+
+    "Poland": [],
+    "Bank Zachodni": [
+      "www.bzwbk.pl"
+    ],
+    "Citi Handlowy": [
+      "www.citibank.pl"
+    ],
+    "NBP": [
+      "www.nbp.pl"
+    ],
+
+
+"Romania": [],
+"Slovakia": [],
+"Slovenia": [],
+
+    "South Korea": [],
+    "Nonghyup Bank": [
+      "banking.nonghyup.com"
+    ],
+    "Kookmin Bank": [
+      "www.kbfng.com"
+    ],
+    "Shinhan Bank": [
+      "www.shinhan.com"
+    ],
+    "Woori Bank": [
+      "www.wooribank.com"
+    ],
+    "Hana Bank": [
+      "www.hanafn.com"
+    ],
+
+    "South Africa": [],
+    "ABSA": [
+      "www.absa.co.za"
+    ],
+
+    "Spain": [],
+    "Bankia": [
+      "www.bankia.com",
+      "www.bankia.es"
+    ],
+    "BBVA": [
+      "www.bbva.com",
+      "www.bbva.es"
+    ],
+    "Caixabank": [
+      "www.caixabank.com"
+    ],
+    "Santander": [
+      "www.bancosantander.es"
+    ],
+
+    "Sweden": [],
+    "Nordea Bank": [
+      "www.nordea.com"
+    ],
+    "Skandinaviska Enskilda Banken": [
+      "sebgroup.com"
+    ],
+    "Svenska Handelsbanken": [
+      "www.handelsbanken.com",
+      "www.handelsbanken.se"
+    ],
+    "Swedbank": [
+      "www.swedbank.com",
+      "www.swedbank.se",
+      "internetbank.swedbank.se"
+    ],
+
+    "Japan": [],
+    "MUFG": [
+      "www.mufg.jp"
+    ],
+    "SMFG": [
+      "www.smfg.co.jp"
+    ],
+    "Mizuho": [
+      "www.mizuho-fg.com"
+    ],
+    "JP Bank": [
+      "www.jp-bank.japanpost.jp"
+    ],
+
+    "Thailand": [],
+    "Kasikornbank": [
+      "www.kasikornbank.com"
+    ],
+    "Krung Thai Bank": [
+      "www.ktb.co.th"
+    ],
+    "Siam Commercial Bank": [
+      "www.scb.co.th"
+    ],
+    "Bangkok Bank": [
+      "www.bangkokbank.com"
+    ],
+
+"Uganda": [],
+"KBC Uganda": [
+  "https://ug-en.kcbbankgroup.com/"
+],
+
+    "UK": [],
+    "Bank ABC": [
+      "www.bank-abc.com"
+    ],
+    "ABN AMRO": [
+      "www.abnamro.com"
+    ],
+    "Abu Dhabi Islamic Bank": [
+      "adib.co.uk"
+    ],
+    "Halifax": [
+      "www.halifax.co.uk"
+    ],
+    "Natwest": [
+      "natwest.com",
+      "personal.natwest.com",
+      "www.nwolb.com"
+    ],
+    "Lloyds": [
+      "www.lloydsbank.com",
+      "online.lloydsbank.co.uk",
+      "onlinebusiness.lloydsbank.co.uk"
+    ],
+    "HSBC": [
+      "www.hsbc.co.uk"
+    ],
+    "Co-operative": [
+      "www.co-operativebank.co.uk",
+      "bank.co-operativebank.co.uk",
+      "business.co-operativebank.co.uk"
+    ],
+    "RBS": [
+      "www.rbs.com",
+      "personal.rbs.co.uk",
+      "www.rbsdigital.com"
+    ],
+    "Standard chartered": [
+      "www.sc.com"
+    ],
+    "Virgin": [
+      "uk.virginmoney.com"
+    ],
+    "First direct": [
+      "firstdirect.com"
+    ],
+    "Barclays": [
+      "www.home.barclays",
+      "bank.barclays.co.uk"
+    ],
+    "Harrods": [
+      "www.harrodsbank.co.uk"
+    ],
+    "Post Office": [
+      "www.postoffice.co.uk",
+      "www.postofficeonlineaccount.co.uk"
+    ],
+    "Tesco": [
+      "www.tescobank.com"
+    ],
+    "Sainsburys": [
+      "www.sainsburysbank.co.uk"
+    ],
+    "Santander": [
+      "www.santander.co.uk",
+      "retail.santander.co.uk"
+    ],
+    "Bank of America": [
+      "www.bankofamerica.com"
+    ],
+    "Bank of Ireland": [
+      "www.bankofireland.com",
+      "www.365online.com"
+    ],
+    "Bank of Scotland": [
+      "www.bankofscotland.co.uk",
+      "online.bankofscotland.co.uk"
+    ],
+    "Clydesdale": [
+      "www.cbonline.co.uk",
+      "home2.cbonline.co.uk"
+    ],
+    "Coutts & Company": [
+      "www.coutts.com",
+      "online.coutts.com"
+    ],
+    "Credit Suisse": [
+      "www.credit-suisse.com",
+      "uk-services.credit-suisse.com"
+    ],
+    "Marks & Spencer": [
+      "bank.marksandspencer.com"
+    ],
+    "Metro Bank": [
+      "www.metrobankonline.co.uk",
+      "commercial.metrobankonline.co.uk",
+      "personal.metrobankonline.co.uk"
+    ],
+    "Morgan Stanley": [
+      "www.morganstanley.com",
+      "www.morganstanleyclientserv.com"
+    ],
+    "Scottish Widows Bank": [
+      "www.scottishwidows.co.uk",
+      "swbib.secure.scottishwidows.co.uk"
+    ],
+    "TSB Bank": [
+      "www.tsb.co.uk",
+      "online.tsb.co.uk"
+    ],
+
+    "Vietnam": [],
+    "Agribank": [
+      "www.agribank.com.vn"
+    ],
+    "BIDV": [
+      "www.bidv.com.vn"
+    ],
+    "VietinBank": [
+      "www.vietinbank.vn"
+    ],
+    "Vietcombank": [
+      "www.vietcombank.com.vn"
+    ],
+
+    "Hong Kong": [],
+    "HSBC": [
+      "www.hsbc.com.hk"
+    ],
+    "Bank of China": [
+      "www.boc.cn",
+      "ebsnew.boc.cn",
+      "www.bochk.com",
+      "its.bochk.com"
+    ],
+    "Hang Seng Bank": [
+      "bank.hangseng.com",
+      "e-banking1.hangseng.com"
+    ],
+    "Standard Chartered": [
+      "ibank.standardchartered.com.hk"
+    ],
+
+    "Hungary": [],
+    "OTP Bank": [
+      "www.otpbank.hu"
+    ],
+    "UniCredit": [
+      "www.unicreditgroup.eu",
+      "www.unicreditbank.hu",
+      "extra.unicreditbank.hu"
+    ],
+    "K&H Bank": [
+      "www.kh.hu"
+    ],
+    "Raiffaisen Bank": [
+      "www.raiffeisen.hu",
+      "direktnet.raiffeisen.hu"
     ]
   }
 }
