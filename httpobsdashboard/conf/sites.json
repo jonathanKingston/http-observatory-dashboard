@@ -13,6 +13,9 @@
         "www.azizibank.com",
         "online.azizibank.af"
       ],
+      "Bank of Afghanistan": [
+        "www.centralbank.gov.af"
+      ],
       "Bank-e-Millie Afghan": [
         "www.bma.com.af"
       ],
@@ -102,6 +105,9 @@
       ],
       "BNP Paribas el Djazair": [
         "www.bnpparibas.dz"
+      ],
+      "Bank of Algeria": [
+        "www.bank-of-algeria.dz"
       ],
       "Banque Al Baraka Algerie": [
         "albaraka-bank.com"
@@ -270,6 +276,9 @@
       "Finibanco Angola": [
         "www.finibancoangola.co.ao"
       ],
+      "National Bank of Angola": [
+        "www.bna.ao"
+      ],
       "Standard bank": [
         "www.standardbank.co.ao",
         "particulares.standardbank.co.ao"
@@ -400,6 +409,9 @@
         "www.byblosbankarmenia.am",
         "online.byblosbankarmenia.am"
       ],
+      "Central Bank of Armenia": [
+        "www.cba.am"
+      ],
       "Converse Bank Corp": [
         "www.conversebank.am"
       ],
@@ -422,6 +434,11 @@
         "www.vtb.am"
       ]
     },
+    "Aruba": {
+      "Central Bank of Aruba": [
+        "www.cbaruba.org"
+      ]
+    },
     "Australia": {
       "Australia and New Zealand Banking Group": [
         "anz.com",
@@ -441,6 +458,9 @@
         "www.nab.com.au",
         "ib.nab.com.au"
       ],
+      "Reserve Bank of Australia": [
+        "www.rba.gov.au"
+      ],
       "Westpac": [
         "banking.westpac.com.au",
         "www.westpac.com.au"
@@ -450,6 +470,9 @@
       "BAWAG P.S.K.": [
         "www.bawagpsk.com",
         "ebanking.bawagpsk.com"
+      ],
+      "Central Bank of the Republic of Austria": [
+        "www.oenb.at"
       ],
       "Erste Group Bank": [
         "www.erstegroup.com",
@@ -493,6 +516,9 @@
       ],
       "NBC Bank": [
         "www.nbcbank.az"
+      ],
+      "The Central Bank of the Republic of Azerbaijan": [
+        "www.cbar.az"
       ]
     },
     "Bahamas": {
@@ -639,10 +665,17 @@
         "winterbotham.com"
       ]
     },
-    "Bahrain": {},
+    "Bahrain": {
+      "Central Bank of Bahrain": [
+        "www.cbb.gov.bh"
+      ]
+    },
     "Bangladesh": {
       "Agrani bank": [
         "www.agranibank.org"
+      ],
+      "Bangladesh Bank": [
+        "www.bangladesh-bank.org"
       ],
       "Bangladesh Development Bank": [
         "www.bdbl.com.bd"
@@ -660,8 +693,16 @@
         "sonalibank.com.bd"
       ]
     },
-    "Barbados": {},
-    "Belarus": {},
+    "Barbados": {
+      "Central Bank of Barbados": [
+        "www.centralbank.org.bb"
+      ]
+    },
+    "Belarus": {
+      "National Bank of the Republic of Belarus": [
+        "www.nbrb.by"
+      ]
+    },
     "Belgium": {
       "BNP Paribas Fortis": [
         "www.bnpparibasfortis.com",
@@ -677,9 +718,16 @@
         "kbc.com",
         "kbc.be",
         "kbctouch.kbc.be"
+      ],
+      "National Bank of Belgium": [
+        "www.nbb.be"
       ]
     },
-    "Belize": {},
+    "Belize": {
+      "Central Bank of Belize": [
+        "www.centralbank.org.bz"
+      ]
+    },
     "Benin": {
       "BGFIBank Benin": [
         "www.bgfi.com",
@@ -706,6 +754,9 @@
       "Banque de l'Habitat du Bénin": [
         "banque-habitat-benin.com"
       ],
+      "Central Bank of West African States (BCEAO)": [
+        "www.bceao.int"
+      ],
       "Diamond Bank Bénin": [
         "www.benin.diamondbank.com"
       ],
@@ -731,6 +782,9 @@
         "www.bcb.bm",
         "onlinebanking.bcb.bm"
       ],
+      "Bermuda Monetary Authority": [
+        "www.bma.bm"
+      ],
       "Butterfield Bank": [
         "www.bm.butterfieldgroup.com",
         "www.butterfieldonline.bm"
@@ -746,10 +800,21 @@
     "Bhutan": {
       "Bhutan national bank": [
         "bnb.bt"
+      ],
+      "Royal Monetary Authority of Bhutan": [
+        "www.rma.org.bt"
       ]
     },
-    "Bolivia": {},
-    "Bosnia and Herzegovina": {},
+    "Bolivia": {
+      "Central Bank of Bolivia": [
+        "www.bcb.gob.bo"
+      ]
+    },
+    "Bosnia and Herzegovina": {
+      "Central Bank of Bosnia and Herzegovina": [
+        "www.cbbh.ba"
+      ]
+    },
     "Botswana": {
       "ABN AMRO": [
         "www.abnamro.com"
@@ -805,6 +870,9 @@
         "www.caixa.gov.br",
         "internetbanking.caixa.gov.br"
       ],
+      "Central Bank of Brazil": [
+        "www.bcb.gov.br"
+      ],
       "Itaú Unibanco": [
         "www.itau.com.br"
       ]
@@ -837,7 +905,16 @@
         "pib.uob.com.sg"
       ]
     },
-    "Bulgaria": {},
+    "Brunei Darussalam": {
+      "Monetary Authority of Brunei Darussalam": [
+        "www.ambd.gov.bn"
+      ]
+    },
+    "Bulgaria": {
+      "Bulgarian National Bank": [
+        "www.bnb.bg"
+      ]
+    },
     "Burkina Faso": {
       "Bank of Africa": [
         "www.bank-of-africa.net",
@@ -850,6 +927,9 @@
         "www.bsicbank.com"
       ],
       "Central Bank of West African States": [
+        "www.bceao.int"
+      ],
+      "Central Bank of West African States (BCEAO)": [
         "www.bceao.int"
       ],
       "Ecobank": [
@@ -904,7 +984,11 @@
         "onlinebanking.kcbbankgroup.com"
       ]
     },
-    "Cambodia": {},
+    "Cambodia": {
+      "National Bank of Cambodia": [
+        "www.nbc.org.kh"
+      ]
+    },
     "Cameroon": {
       "Afriland First Bank": [
         "www.afrilandfirstbank.com"
@@ -935,6 +1019,9 @@
       "United Bank for Africa": []
     },
     "Canada": {
+      "Bank of Canada": [
+        "www.bankofcanada.ca"
+      ],
       "Bank of Montreal": [
         "bmocm.com",
         "www.bmo.com"
@@ -956,10 +1043,31 @@
         "easyweb.td.com"
       ]
     },
-    "Cape Verde": {},
-    "Central African Republic": {},
-    "Chad": {},
-    "Chile": {},
+    "Cape Verde": {
+      "Bank of Cape Verde": [
+        "www.bcv.cv"
+      ]
+    },
+    "Cayman Islands": {
+      "Cayman Islands Monetary Authority": [
+        "www.cimoney.com.ky"
+      ]
+    },
+    "Central African Republic": {
+      "Bank of Central African States": [
+        "www.beac.int"
+      ]
+    },
+    "Chad": {
+      "Bank of Central African States": [
+        "www.beac.int"
+      ]
+    },
+    "Chile": {
+      "Central Bank of Chile": [
+        "www.bcentral.cl"
+      ]
+    },
     "China": {
       "AB China": [
         "www.abchina.com"
@@ -979,9 +1087,16 @@
       "Industrial and Commercial Bank of China": [
         "www.icbc.com.cn",
         "epass.icbc.com.cn"
+      ],
+      "People's Bank of China": [
+        "www.pbc.gov.cn"
       ]
     },
-    "Colombia": {},
+    "Colombia": {
+      "Bank of the Republic, Colombia": [
+        "www.banrep.gov.co"
+      ]
+    },
     "Comoros": {},
     "Congo": {
       "Access Bank": [
@@ -1000,6 +1115,9 @@
         "groupebgfibank.com"
       ],
       "Bank of Africa": [],
+      "Bank of Central African States": [
+        "www.beac.int"
+      ],
       "Banque Commerciale du Congo": [
         "bcdc.cd"
       ],
@@ -1020,45 +1138,116 @@
       "Trust Merchant Bank": [],
       "United Bank for Africa": []
     },
+    "Congo, the Democratic Republic of the": {
+      "Central Bank of Congo": [
+        "www.bcc.cd"
+      ]
+    },
     "Cook Islands": {},
-    "Costa Rica": {},
-    "Croatia": {},
-    "Cuba": {},
-    "Cyprus": {},
-    "Czech Republic": {},
-    "Denmark": {},
+    "Costa Rica": {
+      "Central Bank of Costa Rica": [
+        "www.bccr.fi.cr"
+      ]
+    },
+    "Croatia": {
+      "Croatian National Bank": [
+        "www.hnb.hr"
+      ]
+    },
+    "Cuba": {
+      "Central Bank of Cuba": [
+        "www.bc.gob.cu"
+      ]
+    },
+    "Curaçao": {
+      "Central Bank of Curaçao and Sint Maarten": [
+        "www.centralbank.cw"
+      ]
+    },
+    "Cyprus": {
+      "Central Bank of Cyprus": [
+        "www.centralbank.gov.cy"
+      ]
+    },
+    "Czech Republic": {
+      "Czech National Bank": [
+        "www.cnb.cz"
+      ]
+    },
+    "Denmark": {
+      "National Bank of Denmark (Danmarks Nationalbank)": [
+        "www.nationalbanken.dk"
+      ]
+    },
     "Djibouti": {},
     "Dominica": {},
-    "Dominican Republic": {},
+    "Dominican Republic": {
+      "Central Bank of the Dominican Republic": [
+        "www.bancentral.gov.do"
+      ]
+    },
     "East Timor": {
-      "Bank Mandiri": [
-      "www.bankmandiri.co.id"
+      "ADB": [
+        "www.adb.org"
       ],
       "BNU": [
         "www.bnu.tl"
       ],
-      "ADB": [
-        "www.adb.org"
+      "Bank Mandiri": [
+        "www.bankmandiri.co.id"
       ],
       "CGD": [
         "www.cgd.pt"
-      ],
-      "Bank Mandiri": [
-        "www.bankmandiri.co.id"
       ]
     },
-    "Ecuador": {},
-    "Egypt": {},
-    "El Salvador": {},
-    "Equatorial Guinea": {},
+    "Ecuador": {
+      "Central Bank of Ecuador": [
+        "www.bce.fin.ec"
+      ]
+    },
+    "Egypt": {
+      "Central Bank of Egypt": [
+        "www.cbe.org.eg"
+      ]
+    },
+    "El Salvador": {
+      "Central Reserve Bank of El Salvador": [
+        "www.bcr.gob.sv"
+      ]
+    },
+    "Equatorial Guinea": {
+      "Bank of Central African States": [
+        "www.beac.int"
+      ]
+    },
     "Eritrea": {},
-    "Estonia": {},
-    "Ethiopia": {},
-    "Fiji": {},
+    "Estonia": {
+      "Bank of Estonia": [
+        "www.eestipank.ee"
+      ]
+    },
+    "Ethiopia": {
+      "National Bank of Ethiopia": [
+        "www.nbe.gov.et"
+      ]
+    },
+    "Euro area": {
+      "European Central Bank": [
+        "www.ecb.europa.eu"
+      ]
+    },
+    "Fiji": {
+      "Reserve Bank of Fiji": [
+        "www.rbf.gov.fj"
+      ]
+    },
     "Finland": {
       "Aktia": [
         "www.aktia.fi",
         "auth.aktia.fi"
+      ],
+      "Bank of Finland": [
+        "www.suomenpankki.fi"
       ],
       "Danske": [
         "www.danskebank.fi"
@@ -1090,6 +1279,9 @@
         "www.caisse-epargne.fr",
         "www.banquepopulaire.fr"
       ],
+      "Bank of France": [
+        "www.banque-france.fr"
+      ],
       "Crédit Agricole": [
         "www.credit-agricole.com",
         "www.credit-agricole.fr"
@@ -1105,9 +1297,22 @@
         "particuliers.societegenerale.fr"
       ]
     },
-    "Gabon": {},
+    "Gabon": {
+      "Bank of Central African States": [
+        "www.beac.int"
+      ]
+    },
     "Gambia": {},
-    "Georgia": {},
+    "Gambia, The": {
+      "Central Bank of The Gambia": [
+        "www.cbg.gm"
+      ]
+    },
+    "Georgia": {
+      "National Bank of Georgia": [
+        "www.nbg.gov.ge"
+      ]
+    },
     "Germany": {
       "BayernLB": [
         "www.bayernlb.de"
@@ -1124,6 +1329,9 @@
       "Deutsche Bank": [
         "www.db.com",
         "meine.deutsche-bank.de"
+      ],
+      "Deutsche Bundesbank": [
+        "www.bundesbank.de"
       ],
       "Deutsche Pfandbriefbank": [
         "www.pfandbriefbank.com"
@@ -1206,7 +1414,11 @@
         "www.wirecardbank.com"
       ]
     },
-    "Ghana": {},
+    "Ghana": {
+      "Bank of Ghana": [
+        "www.bog.gov.gh"
+      ]
+    },
     "Gibraltar": {
       "Bank Jacob Safra (Gibraltar)": [
         "www.jsafrasarasin.com",
@@ -1260,10 +1472,22 @@
         "www.turicum.com"
       ]
     },
-    "Greece": {},
+    "Greece": {
+      "Bank of Greece": [
+        "www.bankofgreece.gr"
+      ]
+    },
     "Grenada": {},
-    "Guatemala": {},
-    "Guinea": {},
+    "Guatemala": {
+      "Bank of Guatemala": [
+        "www.banguat.gob.gt"
+      ]
+    },
+    "Guinea": {
+      "Central Bank of the Republic of Guinea": [
+        "www.bcrg-guinee.org"
+      ]
+    },
     "Guinea-Bissau": {
       "Banco Da Africa Ocidental": [
         "www.bancodaafricaocidental.com",
@@ -1272,13 +1496,28 @@
       "Banco Da Uniao": [
         "www.bdu-sa.com"
       ],
+      "Central Bank of West African States (BCEAO)": [
+        "www.bceao.int"
+      ],
       "Ecobank": [
         "ecobank.com"
       ]
     },
-    "Guyana": {},
-    "Haiti": {},
-    "Honduras": {},
+    "Guyana": {
+      "Bank of Guyana": [
+        "www.bankofguyana.org.gy"
+      ]
+    },
+    "Haiti": {
+      "Bank of the Republic of Haiti": [
+        "www.brh.net"
+      ]
+    },
+    "Honduras": {
+      "Central Bank of Honduras": [
+        "www.bch.hn"
+      ]
+    },
     "Hong Kong": {
       "Bank of China": [
         "www.boc.cn",
@@ -1297,9 +1536,17 @@
         "ibank.standardchartered.com.hk"
       ]
     },
+    "Hong Kong SAR": {
+      "Hong Kong Monetary Authority": [
+        "www.info.gov.hk"
+      ]
+    },
     "Hungary": {
       "K&H Bank": [
         "www.kh.hu"
+      ],
+      "Magyar Nemzeti Bank (Central Bank of Hungary)": [
+        "english.mnb.hu"
       ],
       "OTP Bank": [
         "www.otpbank.hu"
@@ -1315,25 +1562,25 @@
       ]
     },
     "Iceland": {
-      "Central Bank of Iceland": [
-        "cb.is",
-        "www.sedlabanki.is"
-      ],
       "Arion Bank": [
         "www.arionbanki.is",
         "netbanki.arionbanki.is"
       ],
-      "Íslandsbanki": [
-        "www.islandsbanki.is",
-        "www.isb.is"
+      "Central Bank of Iceland": [
+        "cb.is",
+        "www.sedlabanki.is"
+      ],
+      "Kvika banki": [
+        "www.kvika.is",
+        "netbankinn.is"
       ],
       "Landsbankinn": [
         "www.landsbankinn.is",
         "netbanki.landsbankinn.is"
       ],
-      "Kvika banki": [
-        "www.kvika.is",
-        "netbankinn.is"
+      "Íslandsbanki": [
+        "www.islandsbanki.is",
+        "www.isb.is"
       ]
     },
     "India": {
@@ -1350,6 +1597,9 @@
       "Punjab National Bank": [
         "www.pnbindia.in"
       ],
+      "Reserve Bank of India": [
+        "www.rbi.org.in"
+      ],
       "State Bank of India": [
         "www.sbi.co.in"
       ]
@@ -1359,6 +1609,9 @@
         "www.bca.co.id",
         "www.klikbca.com",
         "ibank.klikbca.com"
+      ],
+      "Bank Indonesia": [
+        "www.bi.go.id"
       ],
       "Bank Mandiri": [
         "www.bankmandiri.co.id",
@@ -1398,13 +1651,25 @@
         "www.tejaratbank.ir"
       ]
     },
-    "Iraq": {},
+    "Iran, Islamic Republic of": {
+      "The Central Bank of the Islamic Republic of Iran": [
+        "www.cbi.ir"
+      ]
+    },
+    "Iraq": {
+      "Central Bank of Iraq": [
+        "www.cbi.iq"
+      ]
+    },
     "Ireland": {
       "AIB": [
         "aib.ie"
       ],
       "Bank of Ireland": [
         "www.bankofireland.com"
+      ],
+      "Central Bank of Ireland": [
+        "www.centralbank.ie"
       ],
       "Danske Bank": [
         "www.danskebank.ie"
@@ -1421,10 +1686,17 @@
         "www.ulsterbankanytimebanking.ie"
       ]
     },
-    "Israel": {},
+    "Israel": {
+      "Bank of Israel": [
+        "www.bankisrael.org.il"
+      ]
+    },
     "Italy": {
       "Banca Mediolanum": [
         "www.bancamediolanum.it"
+      ],
+      "Bank of Italy": [
+        "www.bancaditalia.it"
       ],
       "Intesa Sanpaolo": [
         "www.intesasanpaolo.com"
@@ -1436,9 +1708,20 @@
         "www.unicreditgroup.eu"
       ]
     },
-    "Ivory Coast": {},
-    "Jamaica": {},
+    "Ivory Coast": {
+      "Central Bank of West African States (BCEAO)": [
+        "www.bceao.int"
+      ]
+    },
+    "Jamaica": {
+      "Bank of Jamaica": [
+        "www.boj.org.jm"
+      ]
+    },
     "Japan": {
+      "Bank of Japan": [
+        "www.boj.or.jp"
+      ],
       "JP Bank": [
         "www.jp-bank.japanpost.jp"
       ],
@@ -1452,13 +1735,23 @@
         "www.smfg.co.jp"
       ]
     },
-    "Jordan": {},
+    "Jordan": {
+      "Central Bank of Jordan": [
+        "www.cbj.gov.jo"
+      ]
+    },
     "Kazakhstan": {
       "BTA": [
         "bta.kz"
+      ],
+      "National Bank of Kazakhstan": [
+        "www.nationalbank.kz"
       ]
     },
     "Kenya": {
+      "Central Bank of Kenya": [
+        "www.centralbank.go.ke"
+      ],
       "KCB Kenya": [
         "ke.kcbbankgroup.com"
       ]
@@ -1466,10 +1759,32 @@
     "Kiribati": {},
     "Korea north": {},
     "Korea south": {},
-    "Kosovo": {},
-    "Kuwait": {},
-    "Kyrgyzstan": {},
+    "Korea, Republic of": {
+      "Bank of Korea": [
+        "eng.bok.or.kr"
+      ]
+    },
+    "Kosovo": {
+      "Central Bank of the Republic of Kosovo": [
+        "www.bqk-kos.org"
+      ]
+    },
+    "Kuwait": {
+      "Central Bank of Kuwait": [
+        "www.cbk.gov.kw"
+      ]
+    },
+    "Kyrgyzstan": {
+      "National Bank of the Kyrgyz Republic": [
+        "www.nbkr.kg"
+      ]
+    },
     "Labuan": {},
+    "Lao People's Democratic Republic": {
+      "Bank of the Lao PDR": [
+        "www.bol.gov.la"
+      ]
+    },
     "Laos": {},
     "Latvia": {
       "ABLV Bank": [
@@ -1480,6 +1795,9 @@
       ],
       "Bank M2M Europe": [
         "www.bankm2m.com"
+      ],
+      "Bank of Latvia": [
+        "www.bank.lv"
       ],
       "Blue Orange": [
         "www.blueorangebank.com"
@@ -1506,12 +1824,31 @@
         "www.rigensisbank.com"
       ]
     },
-    "Lebanon": {},
-    "Lesotho": {},
-    "Liberia": {},
-    "Libya": {},
+    "Lebanon": {
+      "Central Bank of Lebanon": [
+        "www.bdl.gov.lb"
+      ]
+    },
+    "Lesotho": {
+      "Central Bank of Lesotho": [
+        "www.centralbank.org.ls"
+      ]
+    },
+    "Liberia": {
+      "Central Bank of Liberia": [
+        "www.cbl.org.lr"
+      ]
+    },
+    "Libya": {
+      "Central Bank of Libya": [
+        "www.cbl.gov.ly"
+      ]
+    },
     "Liechtenstein": {},
     "Lithuania": {
+      "Bank of Lithuania": [
+        "www.lb.lt"
+      ],
       "Citadele Bank": [
         "www.citadele.lv"
       ],
@@ -1545,20 +1882,52 @@
         "www.bcee.lu",
         "bcee.snet.lu"
       ],
+      "Central Bank of Luxembourg": [
+        "www.bcl.lu"
+      ],
       "ING Luxembourg": [
         "ing.lu"
       ]
     },
+    "Macao SAR": {
+      "Monetary Authority of Macao": [
+        "www.amcm.gov.mo"
+      ]
+    },
     "Macedonia": {},
-    "Madagascar": {},
-    "Malawi": {},
+    "Macedonia, the Former Yugoslav Republic of": {
+      "National Bank of the Republic of Macedonia": [
+        "www.nbrm.mk"
+      ]
+    },
+    "Madagascar": {
+      "Central Bank of Madagascar": [
+        "www.banque-centrale.mg"
+      ]
+    },
+    "Malawi": {
+      "Reserve Bank of Malawi": [
+        "www.rbm.mw"
+      ]
+    },
     "Malaysia": {
+      "Central Bank of Malaysia": [
+        "www.bnm.gov.my"
+      ],
       "Maybank": [
         "www.maybank2u.com.my"
       ]
     },
-    "Maldives": {},
-    "Mali": {},
+    "Maldives": {
+      "Maldives Monetary Authority": [
+        "www.mma.gov.mv"
+      ]
+    },
+    "Mali": {
+      "Central Bank of West African States (BCEAO)": [
+        "www.bceao.int"
+      ]
+    },
     "Malta": {
       "APS Bank": [
         "www.apsbank.com.mt"
@@ -1577,6 +1946,9 @@
       ],
       "Bank of Valletta": [
         "www.bov.com"
+      ],
+      "Central Bank of Malta": [
+        "www.centralbankmalta.org"
       ],
       "Deutsche Bank": [
         "www.db.com"
@@ -1639,20 +2011,61 @@
       ]
     },
     "Mauritania": {},
-    "Mauritius": {},
-    "Mexico": {},
+    "Mauritius": {
+      "Bank of Mauritius": [
+        "www.bom.mu"
+      ]
+    },
+    "Mexico": {
+      "Bank of Mexico": [
+        "www.banxico.org.mx"
+      ]
+    },
     "Micronesia": {},
     "Moldova": {},
+    "Moldova, Republic of": {
+      "National Bank of Moldova": [
+        "www.bnm.org"
+      ]
+    },
     "Monaco": {},
-    "Mongolia": {},
-    "Montenegro": {},
-    "Morocco": {},
-    "Mozambique": {},
-    "Myanmar": {},
+    "Mongolia": {
+      "Bank of Mongolia": [
+        "www.mongolbank.mn"
+      ]
+    },
+    "Montenegro": {
+      "Central Bank of Montenegro": [
+        "www.cb-cg.org"
+      ]
+    },
+    "Morocco": {
+      "Central Bank of Morocco": [
+        "www.bkam.ma"
+      ]
+    },
+    "Mozambique": {
+      "Bank of Mozambique": [
+        "www.bancomoc.mz"
+      ]
+    },
+    "Myanmar": {
+      "Central Bank of Myanmar": [
+        "www.cbm.gov.mm"
+      ]
+    },
     "Nagorno-Karabakh": {},
-    "Namibia": {},
+    "Namibia": {
+      "Bank of Namibia": [
+        "www.bon.com.na"
+      ]
+    },
     "Nauru": {},
-    "Nepal": {},
+    "Nepal": {
+      "Central Bank of Nepal": [
+        "www.nrb.org.np"
+      ]
+    },
     "Netherlands": {
       "ABN AMRO": [
         "www.abnamro.com"
@@ -1702,6 +2115,9 @@
       "Nederlandse Waterschapsbank": [
         "www.nwbbank.com"
       ],
+      "Netherlands Bank": [
+        "www.dnb.nl"
+      ],
       "Netherlands Development Finance Company": [
         "www.fmo.nl"
       ],
@@ -1743,6 +2159,9 @@
         "www.kiwibank.co.nz",
         "www.ib.kiwibank.co.nz"
       ],
+      "Reserve Bank of New Zealand": [
+        "www.rbnz.govt.nz"
+      ],
       "SBS Bank": [
         "www.sbsbank.co.nz",
         "secure.sbsbank.co.nz",
@@ -1757,9 +2176,21 @@
         "bank.westpac.co.nz"
       ]
     },
-    "Nicaragua": {},
-    "Niger": {},
-    "Nigeria": {},
+    "Nicaragua": {
+      "Central Bank of Nicaragua": [
+        "www.bcn.gob.ni"
+      ]
+    },
+    "Niger": {
+      "Central Bank of West African States (BCEAO)": [
+        "www.bceao.int"
+      ]
+    },
+    "Nigeria": {
+      "Central Bank of Nigeria": [
+        "www.cbn.gov.ng"
+      ]
+    },
     "Niue": {},
     "Northern Cyprus": {},
     "Northern Ireland": {
@@ -1770,8 +2201,16 @@
         "firsttrustbank.co.uk"
       ]
     },
-    "Norway": {},
-    "Oman": {},
+    "Norway": {
+      "Central Bank of Norway (Norges Bank)": [
+        "www.norges-bank.no"
+      ]
+    },
+    "Oman": {
+      "Central Bank of Oman": [
+        "www.cbo.gov.om"
+      ]
+    },
     "Online": {
       "Direct banking": [
         "www.directbanking.com",
@@ -1782,6 +2221,11 @@
       ],
       "Virtual bank": [
         "www.virtualbank.com"
+      ]
+    },
+    "Organization of Eastern Caribbean States (OECS)": {
+      "Eastern Caribbean Central Bank": [
+        "www.eccb-centralbank.org"
       ]
     },
     "Pakistan": {
@@ -1800,18 +2244,41 @@
       "National Bank of Pakistan": [
         "www.nbp.com.pk"
       ],
+      "State Bank of Pakistan": [
+        "www.sbp.org.pk"
+      ],
       "United Bank": [
         "www.ubldirect.com",
         "www.ubldirect.com"
       ]
     },
     "Palau": {},
-    "Palestine": {},
+    "Palestine": {
+      "Palestine Monetary Authority": [
+        "www.pma.ps"
+      ]
+    },
     "Panama": {},
-    "Papua New Guinea": {},
-    "Paraguay": {},
-    "Peru": {},
-    "Philippines": {},
+    "Papua New Guinea": {
+      "Bank of Papua New Guinea": [
+        "www.bankpng.gov.pg"
+      ]
+    },
+    "Paraguay": {
+      "Central Bank of Paraguay": [
+        "www.bcp.gov.py"
+      ]
+    },
+    "Peru": {
+      "Central Reserve Bank of Peru": [
+        "www.bcrp.gob.pe"
+      ]
+    },
+    "Philippines": {
+      "Central Bank of the Philippines (Bangko Sentral ng Pilipinas)": [
+        "www.bsp.gov.ph"
+      ]
+    },
     "Poland": {
       "Bank Zachodni": [
         "www.bzwbk.pl"
@@ -1820,6 +2287,9 @@
         "www.citibank.pl"
       ],
       "NBP": [
+        "www.nbp.pl"
+      ],
+      "National Bank of Poland": [
         "www.nbp.pl"
       ]
     },
@@ -1830,6 +2300,9 @@
       "Banco Português de Investimento": [
         "www.bancobpi.pt"
       ],
+      "Bank of Portugal": [
+        "www.bportugal.pt"
+      ],
       "Caixa Geral de Depósitos": [
         "www.cgd.pt"
       ],
@@ -1837,31 +2310,78 @@
         "www.novobanco.pt"
       ]
     },
-    "Qatar": {},
+    "Qatar": {
+      "Qatar Central Bank": [
+        "www.qcb.gov.qa"
+      ]
+    },
     "Republic of Korea": {},
-    "Romania": {},
+    "Romania": {
+      "National Bank of Romania": [
+        "www.bnro.ro"
+      ]
+    },
     "Russia": {},
+    "Russian Federation": {
+      "Central Bank of the Russian Federation": [
+        "www.cbr.ru"
+      ]
+    },
     "Rwanda": {
       "KCB Rwanda": [
         "rw-en.kcbbankgroup.com"
+      ],
+      "National Bank of Rwanda": [
+        "www.bnr.rw"
       ]
     },
     "Sahrawi Arab Democratic Republic": {},
     "Saint Kitts and Nevis": {},
     "Saint Lucia": {},
     "Saint Vincent and the Grenadines": {},
-    "Samoa": {},
-    "San Marino": {},
-    "Saudi Arabia": {},
-    "Senegal": {},
-    "Serbia": {},
-    "Seychelles": {},
-    "Sierra Leone": {},
+    "Samoa": {
+      "Central Bank of Samoa": [
+        "www.cbs.gov.ws"
+      ]
+    },
+    "San Marino": {
+      "Central Bank of the Republic of San Marino": [
+        "www.bcsm.sm"
+      ]
+    },
+    "Saudi Arabia": {
+      "Saudi Arabian Monetary Agency": [
+        "www.sama.gov.sa"
+      ]
+    },
+    "Senegal": {
+      "Central Bank of West African States (BCEAO)": [
+        "www.bceao.int"
+      ]
+    },
+    "Serbia": {
+      "National Bank of Serbia": [
+        "www.nbs.rs"
+      ]
+    },
+    "Seychelles": {
+      "Central Bank of Seychelles": [
+        "www.cbs.sc"
+      ]
+    },
+    "Sierra Leone": {
+      "Bank of Sierra Leone": [
+        "www.bsl.gov.sl"
+      ]
+    },
     "Singapore": {
       "DBS Bank": [
         "www.dbs.com",
         "www.dbs.com.sg",
         "internet-banking.dbs.com.sg"
+      ],
+      "Monetary Authority of Singapore": [
+        "www.mas.gov.sg"
       ],
       "OCBC": [
         "www.ocbc.com"
@@ -1871,14 +2391,29 @@
         "pib.uob.com.sg"
       ]
     },
-    "Slovakia": {},
-    "Slovenia": {},
-    "Solomon Islands": {},
+    "Slovakia": {
+      "National Bank of Slovakia": [
+        "www.nbs.sk"
+      ]
+    },
+    "Slovenia": {
+      "Bank of Slovenia": [
+        "www.bsi.si"
+      ]
+    },
+    "Solomon Islands": {
+      "Central Bank of Solomon Islands": [
+        "www.cbsi.com.sb"
+      ]
+    },
     "Somalia": {},
     "Somaliland": {},
     "South Africa": {
       "ABSA": [
         "www.absa.co.za"
+      ],
+      "South African Reserve Bank": [
+        "www.resbank.co.za"
       ]
     },
     "South Korea": {
@@ -1909,6 +2444,9 @@
         "www.bbva.com",
         "www.bbva.es"
       ],
+      "Bank of Spain": [
+        "www.bde.es"
+      ],
       "Bankia": [
         "www.bankia.com",
         "www.bankia.es"
@@ -1920,10 +2458,26 @@
         "www.bancosantander.es"
       ]
     },
-    "Sri Lanka": {},
-    "Sudan": {},
-    "Suriname": {},
-    "Swaziland": {},
+    "Sri Lanka": {
+      "Central Bank of Sri Lanka": [
+        "www.cbsl.gov.lk"
+      ]
+    },
+    "Sudan": {
+      "Bank of Sudan": [
+        "www.cbos.gov.sd"
+      ]
+    },
+    "Suriname": {
+      "Central Bank of Suriname": [
+        "www.cbvs.sr"
+      ]
+    },
+    "Swaziland": {
+      "The Central Bank of Swaziland": [
+        "www.centralbank.org.sz"
+      ]
+    },
     "Sweden": {
       "Nordea Bank": [
         "www.nordea.com"
@@ -1935,25 +2489,49 @@
         "www.handelsbanken.com",
         "www.handelsbanken.se"
       ],
+      "Sveriges Riksbank": [
+        "www.riksbank.com"
+      ],
       "Swedbank": [
         "www.swedbank.com",
         "www.swedbank.se",
         "internetbank.swedbank.se"
       ]
     },
-    "Switzerland": {},
+    "Switzerland": {
+      "Swiss National Bank": [
+        "www.snb.ch"
+      ]
+    },
     "Syria": {},
+    "Syrian Arab Republic": {
+      "Central Bank of Syria": [
+        "www.banquecentrale.gov.sy"
+      ]
+    },
     "São Tomé and Príncipe": {},
     "Taiwan": {},
-    "Tajikistan": {},
+    "Tajikistan": {
+      "National Bank of the Republic of Tajikistan": [
+        "nbt.tj"
+      ]
+    },
     "Tanzania": {
       "KCB Tanzania": [
         "tz-en.kcbbankgroup.com"
       ]
     },
+    "Tanzania, United Republic of": {
+      "Bank of Tanzania": [
+        "www.bot.go.tz"
+      ]
+    },
     "Thailand": {
       "Bangkok Bank": [
         "www.bangkokbank.com"
+      ],
+      "Bank of Thailand": [
+        "www.bot.or.th"
       ],
       "Kasikornbank": [
         "www.kasikornbank.com"
@@ -1966,13 +2544,37 @@
       ]
     },
     "Timor-Leste": {},
-    "Togo": {},
-    "Tonga": {},
+    "Togo": {
+      "Central Bank of West African States (BCEAO)": [
+        "www.bceao.int"
+      ]
+    },
+    "Tonga": {
+      "National Reserve Bank of Tonga": [
+        "www.reservebank.to"
+      ]
+    },
     "Transnistria": {},
-    "Trinidad and Tobago": {},
-    "Tunisia": {},
-    "Turkey": {},
-    "Turkmenistan": {},
+    "Trinidad and Tobago": {
+      "Central Bank of Trinidad and Tobago": [
+        "www.central-bank.org.tt"
+      ]
+    },
+    "Tunisia": {
+      "Central Bank of Tunisia": [
+        "www.bct.gov.tn"
+      ]
+    },
+    "Turkey": {
+      "Central Bank of the Republic of Turkey": [
+        "www.tcmb.gov.tr"
+      ]
+    },
+    "Turkmenistan": {
+      "Central Bank of Turkmenistan": [
+        "www.cbt.tm"
+      ]
+    },
     "Turks and Caicos": {
       "Bordier Bank": [
         "bordier.com"
@@ -1995,36 +2597,33 @@
       ]
     },
     "Tuvalu": {},
+    "Uganda": {
+      "Bank of Uganda": [
+        "www.bou.or.ug"
+      ],
+      "KBC Uganda": [
+        "ug-en.kcbbankgroup.com/"
+      ]
+    },
     "Ukraine": {
-      "Ukraine PrivatBank": [
-        "privatbank.ua"
-      ],
-      "Ukraine Oschadbank": [
-        "www.oschadbank.ua"
-      ],
-      "Ukraine Ukreximbank": [
-        "www.eximb.com"
-      ],
-      "Russia Sberbank": [
-       "sberbank.ua",
-       "ibank.sbrf.com.ua"
-      ],
       "Austria Raiffeisen Bank Aval": [
         "aval.ua"
       ],
-      "Italy Ukrsotsbank": [
-        "unicredit.ua"
-      ],
-      "Ukraine Ukrgasbank": [
-        "www.ukrgasbank.com"
+      "France Crédit Agricole": [
+        "credit-agricole.ua"
       ],
       "France UkrSibbank": [
         "ukrsibbank.com",
         "secure.my.ukrsibbank.com"
       ],
-      "Ukraine First Ukrainian International Bank": [
-        "pumb.ua",
-        "online.pumb.ua"
+      "Hungary OTP Bank": [
+        "otpbank.com.ua"
+      ],
+      "Italy Ukrsotsbank": [
+        "unicredit.ua"
+      ],
+      "National Bank of Ukraine": [
+        "www.bank.gov.ua"
       ],
       "Russia Alfa-Bank Ukraine": [
         "alfabank.ua",
@@ -2035,21 +2634,39 @@
         "pib.com.ua",
         "www.pib.ua"
       ],
-      "France Crédit Agricole": [
-        "credit-agricole.ua"
+      "Russia Sberbank": [
+        "sberbank.ua",
+        "ibank.sbrf.com.ua"
       ],
       "Russia VTB": [
         "vtb.ua",
         "online.vtb.ua"
       ],
-      "Hungary OTP Bank": [
-        "otpbank.com.ua"
+      "Ukraine First Ukrainian International Bank": [
+        "pumb.ua",
+        "online.pumb.ua"
+      ],
+      "Ukraine Oschadbank": [
+        "www.oschadbank.ua"
       ],
       "Ukraine Pivdennyi": [
         "bank.com.ua"
+      ],
+      "Ukraine PrivatBank": [
+        "privatbank.ua"
+      ],
+      "Ukraine Ukreximbank": [
+        "www.eximb.com"
+      ],
+      "Ukraine Ukrgasbank": [
+        "www.ukrgasbank.com"
       ]
     },
-    "United Arab Emirates": {},
+    "United Arab Emirates": {
+      "Central Bank of the United Arab Emirates": [
+        "www.centralbank.ae"
+      ]
+    },
     "United Kingdom": {
       "ABN AMRO": [
         "www.abnamro.com"
@@ -2062,6 +2679,9 @@
       ],
       "Bank of America": [
         "www.bankofamerica.com"
+      ],
+      "Bank of England": [
+        "www.bankofengland.co.uk"
       ],
       "Bank of Ireland": [
         "www.bankofireland.com",
@@ -2160,11 +2780,6 @@
         "uk.virginmoney.com"
       ]
     },
-    "Uganda": {
-      "KBC Uganda": [
-        "ug-en.kcbbankgroup.com/"
-      ]
-    },
     "United States": {
       "ATB financial": [
         "www.atb.com"
@@ -2220,6 +2835,9 @@
       "Black river country bank": [
         "www.brcbank.com"
       ],
+      "Board of Governors of the Federal Reserve System": [
+        "www.federalreserve.gov"
+      ],
       "Bridgehampton national bank": [
         "www.bridgenb.com"
       ],
@@ -2241,6 +2859,42 @@
       "Commonwealth bank": [
         "www.commbank.co.id"
       ],
+      "Federal Reserve Bank of Atlanta": [
+        "www.frbatlanta.org"
+      ],
+      "Federal Reserve Bank of Boston": [
+        "www.bos.frb.org"
+      ],
+      "Federal Reserve Bank of Chicago": [
+        "www.chicagofed.org"
+      ],
+      "Federal Reserve Bank of Cleveland": [
+        "www.clevelandfed.org"
+      ],
+      "Federal Reserve Bank of Dallas": [
+        "www.dallasfed.org"
+      ],
+      "Federal Reserve Bank of Kansas City": [
+        "www.kc.frb.org"
+      ],
+      "Federal Reserve Bank of Minneapolis": [
+        "www.minneapolisfed.org"
+      ],
+      "Federal Reserve Bank of New York": [
+        "www.newyorkfed.org"
+      ],
+      "Federal Reserve Bank of Philadelphia": [
+        "www.philadelphiafed.org"
+      ],
+      "Federal Reserve Bank of Richmond": [
+        "richmondfed.org"
+      ],
+      "Federal Reserve Bank of San Francisco": [
+        "www.frbsf.org"
+      ],
+      "Federal Reserve Bank of St Louis": [
+        "www.stlouisfed.org"
+      ],
       "J.P.Morgan": [
         "www.jpmorgan.com"
       ],
@@ -2258,17 +2912,36 @@
         "www.wellsfargo.com"
       ]
     },
-    "Uruguay": {},
-    "Uzbekistan": {},
-    "Vanuatu": {},
+    "Uruguay": {
+      "Central Bank of Uruguay": [
+        "www.bcu.gub.uy"
+      ]
+    },
+    "Uzbekistan": {
+      "Central Bank of the Republic of Uzbekistan": [
+        "www.cbu.uz"
+      ]
+    },
+    "Vanuatu": {
+      "Reserve Bank of Vanuatu": [
+        "www.rbv.gov.vu"
+      ]
+    },
     "Vatican City": {},
-    "Venezuela": {},
+    "Venezuela": {
+      "Central Bank of Venezuela": [
+        "www.bcv.org.ve"
+      ]
+    },
     "Vietnam": {
       "Agribank": [
         "www.agribank.com.vn"
       ],
       "BIDV": [
         "www.bidv.com.vn"
+      ],
+      "State Bank of Vietnam": [
+        "www.sbv.gov.vn"
       ],
       "Vietcombank": [
         "www.vietcombank.com.vn"
@@ -2277,8 +2950,20 @@
         "www.vietinbank.vn"
       ]
     },
-    "Yemen": {},
-    "Zambia": {},
-    "Zimbabwe": {}
+    "Yemen": {
+      "Central Bank of Yemen": [
+        "www.centralbank.gov.ye"
+      ]
+    },
+    "Zambia": {
+      "Bank of Zambia": [
+        "www.boz.zm"
+      ]
+    },
+    "Zimbabwe": {
+      "Reserve Bank of Zimbabwe": [
+        "www.rbz.co.zw"
+      ]
+    }
   }
 }
