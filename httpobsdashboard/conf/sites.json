@@ -39,13 +39,33 @@
       "Bank of Albania": [
         "www.bankofalbania.org"
       ],
+      "Banka Alpha Albania": [
+        "www.alphabank.al"
+      ],
+      "Banka Amerikane e Investimeve": [
+        "www.abi.al"
+      ],
       "Banka Kombetare Tregtare": [
-        "www.bkt.com.al",
-        "ebank.bkt.com.al"
+        "www.bkt.com.al"
+      ],
+      "Banka NBG Albania": [
+        "www.nbgbank.al"
+      ],
+      "Banka Societe Generale Albania": [
+        "societegenerale.al"
+      ],
+      "Banka e Bashkuar e Shqipërisë": [
+        "www.uba.com.al"
+      ],
+      "Banka e Kreditit të Shqipërisë": [
+        "www.creditbankofalbania.al"
       ],
       "Credins Bank": [
         "www.bankacredins.com",
         "e.bankacredins.com"
+      ],
+      "Credins Bank Shqipëri": [
+        "www.bankacredins.com"
       ],
       "Credit Agricole Albania": [
         "www.credit-agricole.al"
@@ -60,11 +80,20 @@
       "International Commercial Bank": [
         "www.icbank-albania.com"
       ],
+      "International Commercial Bank Albania": [
+        "www.icbank-albania.com"
+      ],
       "Intesa Sanpaolo Bank Albania": [
+        "www.intesasanpaolobank.al"
+      ],
+      "Intesa Sanpaolo Bank Shqipëri": [
         "www.intesasanpaolobank.al"
       ],
       "National Bank of Greece": [
         "www.nbg.gr"
+      ],
+      "ProCredit Bank Shqipëri": [
+        "www.procreditbank.com.al"
       ],
       "Procredit Bank": [
         "www.procreditbank.com.al"
@@ -84,12 +113,10 @@
         "www.unionbank.al",
         "ubonline.unionbank.al"
       ],
-      "United Bank of Albania": [
-        "www.uba.com.al"
-      ],
       "Veneto Banka Albania": [
         "venetobanka.al",
-        "bisbanca.com"
+        "bisbanca.com",
+        "www.venetobanka.al"
       ]
     },
     "Algeria": {
@@ -168,6 +195,7 @@
         "www.bsandorra.com"
       ],
       "Banca Privada d'Andorra": [
+        "www.bpa.ad",
         "bpa.ad"
       ],
       "Crèdit Andorrà": [
@@ -435,38 +463,250 @@
       ]
     },
     "Aruba": {
+      "AIB Bank Aruba": [
+        "www.aib-bank.com"
+      ],
+      "Aruba Bank": [
+        "www.arubabank.com"
+      ],
+      "BBA Bank Aruba": [
+        "bbabanknv.com"
+      ],
+      "Banco di Caribe Aruba": [
+        "www.bancodicaribe.com"
+      ],
+      "Caribbean Mercantile Bank Aruba": [
+        "cmbnv.com"
+      ],
       "Central Bank of Aruba": [
         "www.cbaruba.org"
+      ],
+      "Citibank Aruba": [
+        "www.citigroup.com"
+      ],
+      "FirstCaribbean International Bank Aruba": [
+        "www.cibc.com"
+      ],
+      "Fundacion Cas pa Comunidad Arubano": [
+        "www.fcca.com"
+      ],
+      "Island Finance Aruba": [
+        "www.islandfinancearuba.com"
+      ],
+      "RBC Royal Bank Aruba": [
+        "www.rbcroyalbank.com"
       ]
     },
     "Australia": {
+      "AMP Bank": [
+        "www.amp.com.au"
+      ],
+      "ANZ": [
+        "www.anz.com"
+      ],
+      "Agricultural Bank of China Australia": [
+        "www.abchina.com"
+      ],
+      "Arab Bank Australia": [
+        "www.arabbank.com.au"
+      ],
       "Australia and New Zealand Banking Group": [
         "anz.com",
         "anz.com.au"
+      ],
+      "BNP Paribas Australia": [
+        "www.bnpparibas.com.au"
+      ],
+      "Banco Santander Australia": [
+        "www.santander.com"
       ],
       "Bank Australia": [
         "bankaust.com.au",
         "digital.bankaust.com.au"
       ],
+      "Bank of America Australia": [
+        "corp.bankofamerica.com"
+      ],
+      "Bank of Baroda Australia": [
+        "www.bankofbaroda.com.au"
+      ],
+      "Bank of China Australia": [
+        "www.bocau.com.au"
+      ],
+      "Bank of Communications Australia": [
+        "www.bankcomm.com"
+      ],
+      "Bank of Queensland": [
+        "www.boq.com.au"
+      ],
+      "Bank of Scotland Australia": [
+        "rbs.com.au"
+      ],
+      "Bank of Sydney": [
+        "www.banksyd.com.au"
+      ],
+      "BankMecu": [
+        "www.bankmecu.com.au"
+      ],
+      "BankVic": [
+        "bankvic.com.au"
+      ],
+      "Barclays Bank Australia": [
+        "group.barclays.com"
+      ],
+      "Bendigo and Adelaide Bank": [
+        "www.bendigoadelaide.com.au"
+      ],
+      "Beyond Bank Australia": [
+        "www.beyondbank.com.au"
+      ],
+      "China Construction Bank Australia": [
+        "au.ccb.com"
+      ],
+      "Citibank Australia": [
+        "www.citibank.com.au"
+      ],
       "CommBank Europe": [
         "www.commbank.com.au"
+      ],
+      "Commonwealth Bank of Australia": [
+        "www.commbank.com.au"
+      ],
+      "Credit Suisse Australia": [
+        "www.credit-suisse.com"
+      ],
+      "Defence Bank": [
+        "www.defencebank.com.au"
+      ],
+      "Deutsche Bank Australia": [
+        "australia.db.com"
+      ],
+      "First Commercial Bank Australia": [
+        "www.firstbank.com.tw"
+      ],
+      "HSBC Bank Australia": [
+        "www.hsbc.com.au"
+      ],
+      "Heritage Bank Australia": [
+        "www.heritage.com.au"
+      ],
+      "Hua Nan Commercial Bank Australia": [
+        "www.hncb.com.tw"
       ],
       "ING": [
         "www.ingdirect.com.au"
       ],
+      "ING Bank Australia": [
+        "www.ingdirect.com.au"
+      ],
+      "Industrial and Commercial Bank of China Australia": [
+        "www.icbc.com.cn"
+      ],
+      "Investec Bank Australia": [
+        "www.investec.com.au"
+      ],
+      "JP Morgan Chase Bank Australia": [
+        "www.jpmorgan.com"
+      ],
+      "Korea Exchange Bank Australia": [
+        "www.keb.co.kr"
+      ],
+      "Macquarie Bank Australia": [
+        "www.macquarie.com.au"
+      ],
+      "Mega International Commercial Bank Australia": [
+        "www.megabank.com.tw"
+      ],
+      "Members Equity Bank Australia": [
+        "www.mebank.com.au"
+      ],
+      "Mizuho Bank Australia": [
+        "www.mizuhobank.com"
+      ],
       "National Australia Bank": [
-        "www.nab.com.au",
-        "ib.nab.com.au"
+        "www.nab.com.au"
+      ],
+      "Northern Trust Australia": [
+        "www.northerntrust.com"
+      ],
+      "Oversea-Chinese Banking Corporation Australia": [
+        "www.ocbc.com"
+      ],
+      "P&N Bank": [
+        "pnbank.com.au"
+      ],
+      "Police Bank Australia": [
+        "www.policebank.com.au"
+      ],
+      "Portigon Australia": [
+        "www.portigon.com"
+      ],
+      "QT Mutual Bank Australia": [
+        "www.qtmb.com.au"
+      ],
+      "Rabobank Australia": [
+        "www.rabobank.com.au"
       ],
       "Reserve Bank of Australia": [
         "www.rba.gov.au"
       ],
+      "Royal Bank of Canada Australia": [
+        "www.rbcroyalbank.com"
+      ],
+      "Standard Chartered Bank Australia": [
+        "www.sc.com"
+      ],
+      "State Bank of India Australia": [
+        "www.sbisyd.com.au"
+      ],
+      "State Street Bank Australia": [
+        "www.statestreet.com"
+      ],
+      "Sumitomo Mitsui Banking Corporation Australia": [
+        "www.smbcgroup.com"
+      ],
+      "Suncorp-Metway Australia": [
+        "www.suncorpbank.com.au"
+      ],
+      "Taiwan Business Bank Australia": [
+        "www.tbb.com.tw"
+      ],
+      "Taiwan Cooperative Bank Australia": [
+        "www.tcb-bank.com.tw"
+      ],
+      "Teachers Mutual Bank Australia": [
+        "www.tmbank.com.au"
+      ],
+      "The Bank of New York Mellon Australia": [
+        "www.bnymellon.com"
+      ],
+      "The Bank of Tokyo-Mitsubishi UFJ Australia": [
+        "www.bk.mufg.jp"
+      ],
+      "UBS Bank Australia": [
+        "www.ubs.com"
+      ],
+      "United Overseas Bank Limited Australia": [
+        "www.uobgroup.com"
+      ],
+      "Victoria Teachers Mutual Bank": [
+        "www.victeach.com.au"
+      ],
       "Westpac": [
         "banking.westpac.com.au",
         "www.westpac.com.au"
+      ],
+      "Westpac Banking Corporation": [
+        "www.westpac.com.au"
+      ],
+      "Woori Bank Australia": [
+        "au.wooribank.com"
       ]
     },
     "Austria": {
+      "Austria Wirtschaftsservice Gesellschaft": [
+        "www.awsg.at"
+      ],
       "BAWAG P.S.K.": [
         "www.bawagpsk.com",
         "ebanking.bawagpsk.com"
@@ -479,6 +719,12 @@
         "www.sparkasse.at",
         "netbanking.sparkasse.at"
       ],
+      "HSBC Global Asset Management Austria": [
+        "www.assetmanagement.hsbc.com"
+      ],
+      "Hypo Alpe Adria Bank": [
+        "www.hypo-alpe-adria.com"
+      ],
       "Hypo Alpe-Adria-Bank International": [
         "www.heta-asset-resolution.com",
         "www.banking.co.at"
@@ -486,6 +732,9 @@
       "Hypo Landesbank Vorarlberg": [
         "www.hypovbg.at",
         "onlinebanking.hypovbg.at"
+      ],
+      "Meinl Bank": [
+        "www.meinlbank.com"
       ],
       "Oberbank": [
         "www.oberbank.com",
@@ -502,23 +751,149 @@
         "www.rlbooe.at",
         "banking.raiffeisen.at"
       ],
+      "Standard Chartered Bank Austria": [
+        "www.sc.com"
+      ],
       "UniCredit Bank Austria": [
         "bankaustria.at",
         "online.bankaustria.at"
       ],
       "Volksbank": [
         "www.volksbank.at"
+      ],
+      "Volksbank Austria": [
+        "www.volksbank.at"
       ]
     },
     "Azerbaijan": {
+      "AFB Bank Azerbaijan": [
+        "afb.az"
+      ],
+      "AGBank Azerbaijan": [
+        "www.agbank.az"
+      ],
+      "ASB": [
+        "www.asb.az"
+      ],
+      "AccessBank Azerbaijan": [
+        "www.accessbank.az"
+      ],
+      "Amrahbank": [
+        "www.amrahbank.com"
+      ],
+      "AtaBank": [
+        "www.atabank.com"
+      ],
+      "Atrabank": [
+        "atrabank.az"
+      ],
+      "Azer-Türk Bank": [
+        "azerturkbank.az"
+      ],
+      "Azerbaijan Credit Bank": [
+        "www.azkreditbank.com"
+      ],
+      "Bank Avrasiya Azerbaijan": [
+        "www.bankavrasiya.az"
+      ],
+      "Bank BTB Azerbaijan": [
+        "btb.az"
+      ],
+      "Bank Melli Iran Azerbaijan": [
+        "www.bmibaku.az"
+      ],
+      "Bank Respublika Azerbaijan": [
+        "www.bankrespublika.az"
+      ],
+      "Bank Silk Way Azerbaijan": [
+        "www.banksilkway.az"
+      ],
+      "Bank Standard Azerbaijan": [
+        "bankstandard.com"
+      ],
+      "Bank Technique Azerbaijan": [
+        "www.banktechnique.az"
+      ],
+      "Bank of Azerbaijan": [
+        "www.bank.az"
+      ],
       "Bank of Baku": [
         "www.bankofbaku.com"
       ],
-      "NBC Bank": [
+      "Caucasus Development Bank Azerbaijan": [
+        "www.cdb.az"
+      ],
+      "DekaBank Azerbaijan": [
+        "www.dekabank.az"
+      ],
+      "DemirBank ": [
+        "www.demirbank.az"
+      ],
+      "EBRD Azerbaijan": [
+        "www.ebrd.com"
+      ],
+      "Expressbank Azerbaijan": [
+        "www.expressbank.az"
+      ],
+      "Gandja Bank Azerbaijan": [
+        "www.gandjabank.az"
+      ],
+      "Günay Bank Azerbaijan": [
+        "www.gunaybank.com"
+      ],
+      "Kapital Bank Azerbaijan": [
+        "www.kapitalbank.az"
+      ],
+      "KredoBank Azerbaijan": [
+        "kredobank.az"
+      ],
+      "MuganBank Azerbaijan": [
+        "www.muganbank.az"
+      ],
+      "NBCBank": [
         "www.nbcbank.az"
+      ],
+      "Nakhchivanbank": [
+        "www.naxcivanbank.az"
+      ],
+      "National Bank of Pakistan Azerbaijan": [
+        "www.nbp.az"
+      ],
+      "Nikoil Bank Azerbaijan": [
+        "www.nikoil.az"
+      ],
+      "PAŞA Bank": [
+        "www.pashabank.az"
+      ],
+      "Parabank": [
+        "www.parabank.az"
+      ],
+      "Rabitabank": [
+        "www.rabitabank.com"
       ],
       "The Central Bank of the Republic of Azerbaijan": [
         "www.cbar.az"
+      ],
+      "TuranBank Azerbaijan": [
+        "www.turanbank.az"
+      ],
+      "Unibank Azerbaijan": [
+        "www.unibank.az"
+      ],
+      "United Credit Bank Azerbaijan": [
+        "www.ucb.az"
+      ],
+      "VTB Bank Azerbaijan": [
+        "www.vtb.az"
+      ],
+      "Xalq Bank": [
+        "www.xalqbank.az"
+      ],
+      "Yapi Kredi Bank Azerbaijan": [
+        "www.yapikredi.com.az"
+      ],
+      "Zaminbank Azerbaijan": [
+        "www.zaminbank.az"
       ]
     },
     "Bahamas": {
@@ -666,72 +1041,555 @@
       ]
     },
     "Bahrain": {
+      "Ahli United Bank Bahrain": [
+        "www.ahliunited.com"
+      ],
+      "Al Baraka Banking Group Bahrain": [
+        "www.albaraka.com"
+      ],
+      "Al Baraka Islamic Bank Bahrain": [
+        "www.albaraka.bh"
+      ],
+      "Al Salam Bank Bahrain": [
+        "www.alsalambahrain.com"
+      ],
+      "Allied Banking Corp Bahrain": [
+        "www.alliedbank.com.ph"
+      ],
+      "Arab Bank Bahrain": [
+        "www.arabbank.com"
+      ],
+      "Askari Bank Bahrain": [
+        "www.askaribank.com.pk"
+      ],
+      "BMB Investment Bank Bahrain": [
+        "bmb.com.bh"
+      ],
+      "BNP Paribas Group Bahrain": [
+        "mea.bnpparibas.com"
+      ],
+      "Bahrain Development Bank": [
+        "www.bdb-bh.com"
+      ],
+      "Bahrain Islamic Bank": [
+        "www.bisb.com"
+      ],
+      "Bank Al Falah Bahrain": [
+        "www.bankalfalah.com"
+      ],
+      "Bank Alkhair Bahrain": [
+        "www.bankalkhair.com"
+      ],
+      "Bank of Bahrain and Kuwait": [
+        "www.bbkonline.com"
+      ],
       "Central Bank of Bahrain": [
         "www.cbb.gov.bh"
+      ],
+      "Citibank Bahrain": [
+        "www.citibank.com"
+      ],
+      "Deutsche Bank Bahrain": [
+        "www.db.com"
+      ],
+      "Eskan Bank Bahrain": [
+        "www.eskanbank.com"
+      ],
+      "First Energy Bank Bahrain": [
+        "www.1stenergybank.com"
+      ],
+      "Future Bank Bahrain": [
+        "www.futurebank.com.bh"
+      ],
+      "GBCorp Bahrain": [
+        "www.gbcorponline.com"
+      ],
+      "Gulf International Bank Bahrain": [
+        "www.gib.com"
+      ],
+      "HSBC Bank Bahrain": [
+        "www.hsbc.com.bh"
+      ],
+      "Habib Bank Bahrain": [
+        "www.hbl.com"
+      ],
+      "Housing Bank for Trade and Finance Bahrain": [
+        "www.hbtf.com"
+      ],
+      "ICICI Bank Bahrain": [
+        "www.icicibankbahrain.com"
+      ],
+      "Investcorp Bank Bahrain": [
+        "www.investcorp.com"
+      ],
+      "Investment Dar Bank Bahrain": [
+        "www.inv-darbank.com"
+      ],
+      "Itmaar Bank Bahrain": [
+        "www.ithmaarbank.com"
+      ],
+      "JP Morgan Chase Bank Bahrain": [
+        "www.jpmorgan.com"
+      ],
+      "Khaleeji Commercial Bank": [
+        "www.khcbonline.com"
+      ],
+      "Korea Exchange Bank Bahrain": [
+        "www.keb.co.kr"
+      ],
+      "Kuwait Finance House Bahrain": [
+        "www.kfh.bh"
+      ],
+      "LGT Bank Liechtenstein Bahrain": [
+        "www.lgt.li"
+      ],
+      "Merrill Lynch Internationa Bank Bahrain": [
+        "www.ml.com"
+      ],
+      "Mizuho Corporate Bank Bahrain": [
+        "www.mizuhobank.com"
+      ],
+      "National Bank of Abu Dhabi Bahrain": [
+        "www.nbad.com"
+      ],
+      "National Bank of Bahrain": [
+        "www.nbbonline.com"
+      ],
+      "National Bank of Kuwait Bahrain": [
+        "www.nbk.com"
+      ],
+      "National Bank of Pakistan Bahrain": [
+        "www.nbp.com.pk"
+      ],
+      "Oasis Capital Bank Bahrain": [
+        "www.oasiscapitalbank.com"
+      ],
+      "Securities Investment Company Bahrain": [
+        "www.sicobahrain.com"
+      ],
+      "Seera Investment Bank Bahrain": [
+        "www.seera.com"
+      ],
+      "Standard Chartered Bahrain": [
+        "www.sc.com"
+      ],
+      "State Bank of India Bahrain": [
+        "sbibahrain.com"
+      ],
+      "Sumitomo Mitsui Banking Bahrain": [
+        "www.smbcgroup.com"
+      ],
+      "The Bank of Tokyo Mitsubishi Ufj Bahrain": [
+        "www.bk.mufg.jp"
+      ],
+      "UBS AG Bahrain": [
+        "www.ubs.com"
+      ],
+      "United Bank Bahrain": [
+        "www.ubldirect.com"
+      ],
+      "United Gulf Bank Bahrain": [
+        "www.ugbbh.com"
+      ],
+      "Venture Capital Bank Bahrain": [
+        "www.vc-bank.com"
+      ],
+      "Woori Bank Bahrain": [
+        "bh.wooribank.com"
       ]
     },
     "Bangladesh": {
+      "AB Bank Bangladesh": [
+        "abbl.com"
+      ],
+      "Agrani Bank Bangladesh": [
+        "www.agranibank.org"
+      ],
       "Agrani bank": [
         "www.agranibank.org"
+      ],
+      "Al-Arafah Islami Bank": [
+        "www.al-arafahbank.com"
+      ],
+      "BASIC Bank Bangladesh": [
+        "www.basicbanklimited.com"
+      ],
+      "BRAC Bank": [
+        "www.bracbank.com"
       ],
       "Bangladesh Bank": [
         "www.bangladesh-bank.org"
       ],
+      "Bangladesh Commerce Bank": [
+        "bcblbd.com"
+      ],
       "Bangladesh Development Bank": [
         "www.bdbl.com.bd"
+      ],
+      "Bangladesh Krishi Bank": [
+        "www.krishibank.org.bd"
+      ],
+      "Bank Al-Falah": [
+        "www.bankalfalah.com"
+      ],
+      "Bank Asia Bangladesh": [
+        "www.bankasia-bd.com"
       ],
       "Basic bank": [
         "basicbanklimited.com"
       ],
+      "Citibank Bangladesh": [
+        "www.citigroup.com"
+      ],
+      "Commercial Bank of Ceylon": [
+        "www.combank.net"
+      ],
+      "Dhaka Bank": [
+        "dhakabankltd.com"
+      ],
+      "Dutch-Bangla Bank": [
+        "www.dutchbanglabank.com"
+      ],
+      "EXIM Bank": [
+        "www.eximbankbd.com"
+      ],
+      "Eastern Bank": [
+        "www.ebl.com.bd"
+      ],
+      "First Security Islami Bank Bangladesh": [
+        "www.fsiblbd.com"
+      ],
+      "HSBC Bangladesh": [
+        "www.hsbc.com.bd"
+      ],
+      "Habib Bank Bangladesh": [
+        "www.hbl.com"
+      ],
+      "ICB Islamic Bank Bangladesh": [
+        "www.icbislamic-bd.com"
+      ],
+      "IFIC Bank Bangladesh": [
+        "www.ificbank.com.bd"
+      ],
+      "Islami Bank Bangladesh": [
+        "www.islamibankbd.com"
+      ],
+      "Jamuna Bank": [
+        "www.jamunabankbd.com"
+      ],
+      "Janata Bank": [
+        "www.janatabank-bd.com"
+      ],
       "Janata bank": [
         "janatabank-bd.com"
+      ],
+      "Meghna Bank": [
+        "www.meghnabank.com.bd"
+      ],
+      "Mercantile Bank Bangladesh": [
+        "www.mblbd.com"
+      ],
+      "Midland Bank Bangladesh": [
+        "www.midlandbankbd.net"
+      ],
+      "Mutual Trust Bank Bangladesh": [
+        "www.mutualtrustbank.com"
+      ],
+      "NRB Commercial Bank Bangladesh": [
+        "www.nrbcommercialbank.com"
+      ],
+      "National Bank Bangladesh": [
+        "www.nblbd.com"
+      ],
+      "National Credit and Commerce Bank Bangladesh": [
+        "www.nccbank.com.bd"
+      ],
+      "One Bank Bangladesh": [
+        "www.onebank.com.bd"
+      ],
+      "Premier Bank Bangladesh": [
+        "premierbankltd.com"
+      ],
+      "Prime Bank Bangladesh": [
+        "www.primebank.com.bd"
+      ],
+      "Pubali Bank Bangladesh": [
+        "www.pubalibangla.com"
+      ],
+      "Rajshahi Krishi Unnayan Bank": [
+        "www.rakub.org.bd"
+      ],
+      "Rupali Bank": [
+        "www.rupalibank.org"
       ],
       "Rupali bank": [
         "rupalibank.org"
       ],
+      "Shahjalal Bank Limited": [
+        "www.shahjalalbank.com.bd"
+      ],
+      "Social Islami Bank Bangladesh": [
+        "www.siblbd.com"
+      ],
       "Sonali Bank": [
         "sonalibank.com.bd"
+      ],
+      "Sonali Bank Limited": [
+        "www.sonalibank.com.bd"
+      ],
+      "South Bangla Agriculture and Commerce Bank": [
+        "www.sbacbank.com"
+      ],
+      "Southeast Bank Bangladesh": [
+        "www.southeastbank.com.bd"
+      ],
+      "Standard Bank Bangladesh": [
+        "www.standardbankbd.com"
+      ],
+      "Standard Chartered Bank Bangladesh": [
+        "www.sc.com"
+      ],
+      "State Bank of India Bangladesh": [
+        "www.sbi.co.in"
+      ],
+      "The City Bank Bangladesh": [
+        "www.thecitybank.com"
+      ],
+      "Trust Bank Bangladesh": [
+        "www.trustbank.com.bd"
+      ],
+      "Union Bank Limited Bangladesh": [
+        "www.unionbank.com.bd"
+      ],
+      "United Commercial Bank Bangladesh": [
+        "www.ucb.com.bd"
+      ],
+      "Uttara Bank Limited Bangladesh": [
+        "www.uttarabank-bd.com"
+      ],
+      "Woori Bank Bangladesh": [
+        "bd.wooribank.com"
       ]
     },
     "Barbados": {
+      "CIBC FirstCaribbean International Bank Barbados": [
+        "www.cibcfcib.com"
+      ],
+      "Caribbean Development Bank Barbados": [
+        "www.caribank.org"
+      ],
       "Central Bank of Barbados": [
         "www.centralbank.org.bb"
+      ],
+      "First Citizens Bank Barbados": [
+        "www.firstcitizensbb.com"
+      ],
+      "RBC Royal Bank Barbados": [
+        "www.rbtt.com"
+      ],
+      "Republic Bank Barbados": [
+        "republicbarbados.com"
+      ],
+      "The Bank of Nova Scotia Barbados": [
+        "www.scotiabank.com"
       ]
     },
     "Belarus": {
+      "Absolutbank": [
+        "www.absolutbank.by"
+      ],
+      "Alfa-Bank Belarus": [
+        "www.alfabank.by"
+      ],
+      "BPS-Sberbank": [
+        "www.bps-sberbank.by"
+      ],
+      "BSB Bank": [
+        "www.bsb.by"
+      ],
+      "BTA Bank Belarus": [
+        "www.btabank.by"
+      ],
+      "Bank Moscow–Minsk": [
+        "www.mmbank.by"
+      ],
+      "Belagroprombank": [
+        "www.belapb.by"
+      ],
+      "Belarusbank": [
+        "belarusbank.by"
+      ],
+      "Belarusian–Russian Belgazprombank": [
+        "belgazprombank.by"
+      ],
+      "Belarusky Narodny Bank": [
+        "www.bnb.by"
+      ],
+      "Belinvestbank": [
+        "www.belinvestbank.by"
+      ],
+      "Belvnesheconombank": [
+        "www.bveb.by"
+      ],
+      "Eurobank Belarus": [
+        "www.eurobank.by"
+      ],
+      "Eurotorginvestbank": [
+        "etib.by"
+      ],
+      "Fransabank Belarus": [
+        "www.fransabank.by"
+      ],
+      "HCBank Belarus": [
+        "homecredit.by"
+      ],
+      "Idea Bank Belarus": [
+        "ideabank.by"
+      ],
+      "Minsk Transit Bank": [
+        "www.mtbank.by"
+      ],
       "National Bank of the Republic of Belarus": [
         "www.nbrb.by"
+      ],
+      "North European Bank Belarus": [
+        "www.hbank.by"
+      ],
+      "Paritetbank": [
+        "www.paritetbank.by"
+      ],
+      "Priorbank Belarus": [
+        "www.priorbank.by"
+      ],
+      "RDB–Bank Belarus": [
+        "rrb.by"
+      ],
+      "Technobank Belarus": [
+        "tb.by"
+      ],
+      "Trade Capital Bank Belarus": [
+        "www.tcbank.by"
+      ],
+      "Trustbank Belarus": [
+        "www.trustbank.by"
+      ],
+      "VTB Bank Belarus": [
+        "www.vtb.com"
+      ],
+      "Zepter Bank": [
+        "www.zepterbank.by"
       ]
     },
     "Belgium": {
+      "AXA Bank Belgium": [
+        "www.axa.be"
+      ],
+      "Argenta Bank Belgium": [
+        "www.argenta.be"
+      ],
+      "Attijariwafa Bank Europe Belgium": [
+        "www.attijariwafabank.com"
+      ],
+      "BBVA Belgium": [
+        "www.bbva.be"
+      ],
+      "BKCP Bank Belgium": [
+        "www.bkcp.be"
+      ],
       "BNP Paribas Fortis": [
         "www.bnpparibasfortis.com",
         "www.bnpparibasfortis.be"
       ],
+      "BNP Paribas Fortis Belgium": [
+        "www.bnpparibasfortis.be"
+      ],
+      "Banca Monte Paschi Belgium": [
+        "www.montepaschi.be"
+      ],
+      "Banque J.Van Breda": [
+        "www.banquevanbreda.be"
+      ],
+      "Banque Triodos Belgium": [
+        "www.triodos.be"
+      ],
       "Belfius": [
         "www.belfius.com"
       ],
+      "Belfius Bank": [
+        "www.belfius.be"
+      ],
+      "Beobank Belgium": [
+        "www.beobank.be"
+      ],
+      "Bpost Banque Belgium": [
+        "www.bpostbanque.be"
+      ],
+      "Crelan Belgium": [
+        "www.crelan.be"
+      ],
+      "Europabank Belgium": [
+        "www.europabank.be"
+      ],
+      "HSBC Belgium": [
+        "www.business.hsbc.be"
+      ],
+      "Hello Bank Belgium": [
+        "www.hellobank.be"
+      ],
       "ING Bank": [
         "ing.be"
+      ],
+      "ING Belgium": [
+        "www.ing.be"
       ],
       "KBC Bank": [
         "kbc.com",
         "kbc.be",
         "kbctouch.kbc.be"
       ],
+      "KBC Bank Belgium": [
+        "www.kbc.be"
+      ],
+      "Keytrade Bank Belgium": [
+        "www.keytradebank.be"
+      ],
+      "KfW Belgium": [
+        "www.kfw.de"
+      ],
       "National Bank of Belgium": [
         "www.nbb.be"
+      ],
+      "Rabobank Belgium": [
+        "www.rabobank.be"
+      ],
+      "Record Bank": [
+        "www.recordbank.be"
+      ],
+      "Santander Consumer Finance Belgium": [
+        "www.santander.be"
+      ],
+      "VDK Spaarbank": [
+        "www.vdk.be"
       ]
     },
     "Belize": {
-      "Central Bank of Belize": [
-        "www.centralbank.org.bz"
-      ],
       "Atlantic Bank Belize": [
         "www.atlabank.com"
       ],
-      "The Belize Bank": [
-        "www.belizebank.com"
+      "Atlantic International Bank Belize": [
+        "www.atlanticibl.com"
+      ],
+      "Belize Credit Union League": [
+        "www.belizecreditunionleague.org"
+      ],
+      "Caye International Bank Belize": [
+        "www.cayebank.bz"
+      ],
+      "Central Bank of Belize": [
+        "www.centralbank.org.bz"
+      ],
+      "Choice Bank Belize": [
+        "www.choicebankltd.com"
       ],
       "First Caribbean International Bank Belize": [
         "www.cibcfcib.com"
@@ -739,35 +1597,26 @@
       "Heritage Bank Belize": [
         "www.heritageibt.com"
       ],
-      "Scotiabank Belize": [
-        "www.scotiabank.com"
-      ],
-      "Atlantic International Bank Belize": [
-        "www.atlanticibl.com"
-      ],
-      "Caye International Bank Belize": [
-        "www.cayebank.bz"
-      ],
-      "Choice Bank Belize": [
-        "www.choicebankltd.com"
-      ],
-      "Market Street Bank Belize": [
-        "www.msblimited.com"
-      ],
-      "Belize Credit Union League": [
-        "www.belizecreditunionleague.org"
-      ],
       "Holy Redeemer Credit Union Belize": [
         "www.hrcubelize.org"
       ],
       "La Inmaculada Credit Union Belize": [
         "www.licu.org"
       ],
+      "Market Street Bank Belize": [
+        "www.msblimited.com"
+      ],
+      "Scotiabank Belize": [
+        "www.scotiabank.com"
+      ],
       "St. John’s Credit Union Belize": [
         "www.sjcu.com.bz"
       ],
       "St. Martins Credit Union Belize": [
         "www.smcubelize.com"
+      ],
+      "The Belize Bank": [
+        "www.belizebank.com"
       ]
     },
     "Benin": {
@@ -840,26 +1689,146 @@
       ]
     },
     "Bhutan": {
-      "Bhutan national bank": [
-        "bnb.bt"
+      "Bank of Bhutan": [
+        "www.bob.bt"
+      ],
+      "Bhutan Development Bank": [
+        "www.bdb.bt"
+      ],
+      "Bhutan National Bank": [
+        "www.bnb.bt"
+      ],
+      "Druk PNB Bank": [
+        "drukpnbbank.bt"
       ],
       "Royal Monetary Authority of Bhutan": [
         "www.rma.org.bt"
+      ],
+      "T Bank Bhutan": [
+        "www.tbank.bt"
       ]
     },
     "Bolivia": {
+      "BBVA Previsión Bolivia": [
+        "www.prevision.com.bo"
+      ],
+      "Banco BISA": [
+        "bisa.com"
+      ],
+      "Banco Economico Bolivia": [
+        "www.baneco.com.bo"
+      ],
+      "Banco Ganadero": [
+        "www.bg.com.bo"
+      ],
+      "Banco Mercantil Santa Cruz": [
+        "www.bmsc.com.bo"
+      ],
+      "Banco Nacional de Bolivia": [
+        "www.bnb.com.bo"
+      ],
+      "Banco PYME Los Andes ProCredit": [
+        "www.losandesprocredit.com.bo"
+      ],
+      "Banco Prodem": [
+        "www.prodem.bo"
+      ],
+      "Banco Solidario Bolivia": [
+        "www.bancosol.com.bo"
+      ],
+      "Banco Unión Bolivia": [
+        "www.bancounion.com.bo"
+      ],
+      "Banco de Crédito de Bolivia": [
+        "www.bcp.com.bo"
+      ],
+      "Banco de la Nación Argentina Bolivia": [
+        "www.bna.com.bo"
+      ],
+      "Banco do Brasil Bolivia": [
+        "www.bb.com.br"
+      ],
       "Central Bank of Bolivia": [
         "www.bcb.gob.bo"
       ]
     },
     "Bosnia and Herzegovina": {
+      "BOR Banka": [
+        "www.borbanka.ba"
+      ],
+      "Banka Srpske Bosna i Hercegovina": [
+        "www.bankasrpske.ba"
+      ],
+      "Bobar Banka": [
+        "www.bobarbanka.com"
+      ],
+      "Bosna Bank International": [
+        "www.bbi.ba"
+      ],
       "Central Bank of Bosnia and Herzegovina": [
         "www.cbbh.ba"
+      ],
+      "Hypo Alpe Adria Bosnien Herzegowina": [
+        "www.hypo-alpe-adria.ba"
+      ],
+      "Intesa Sanpaolo Banka Bosna i Hercegovina": [
+        "www.intesasanpaolobanka.ba"
+      ],
+      "Investiciono-Komercijalna Banka Zenica": [
+        "www.ikbze.ba"
+      ],
+      "Komercijalna Banka Banja Luka": [
+        "www.kombank-bl.com"
+      ],
+      "Komercijalno-Investiciona Banka V.Kladuša": [
+        "www.kib-banka.com.ba"
+      ],
+      "Moja Banka": [
+        "www.moja-banka.ba"
+      ],
+      "NLB Tuzlanska Banka": [
+        "www.nlbrazvojnabanka.com"
+      ],
+      "Pavlović International Bank": [
+        "www.pavlovic-banka.com"
+      ],
+      "Privredna Banka Sarajevo": [
+        "www.pbs.ba"
+      ],
+      "ProCredit Bank BH": [
+        "www.procreditbank.ba"
+      ],
+      "Raiffeisen Bank BiH": [
+        "www.raiffeisenbank.ba"
+      ],
+      "Razvojna banka FBiH": [
+        "www.rbfbih.ba"
+      ],
+      "Sberbank BiH": [
+        "www.sberbank.ba"
+      ],
+      "Sparkasse Bank Bosna i Hercegovina": [
+        "www.sparkasse.ba"
+      ],
+      "Turkish Ziraat Bank Bosnia": [
+        "www.ziraatbosnia.com"
+      ],
+      "UniCredit Bank Bosna i Hercegovina": [
+        "www.unicredit.ba"
+      ],
+      "Union Bank Bosna i Hercegovina": [
+        "www.unionbank.ba"
+      ],
+      "Vakufska Banka": [
+        "vakuba.ba"
       ]
     },
     "Botswana": {
       "ABN AMRO": [
         "www.abnamro.com"
+      ],
+      "African Banking Corporation of Botswana": [
+        "www.bancabc.co.bw"
       ],
       "BancABC": [
         "www.bancabc.com",
@@ -867,18 +1836,26 @@
         "ib.bw.bancabc.com"
       ],
       "Bank Gaborone": [
-        "www.bankgaborone.co.bw",
-        "ebank.bankgaborone.co.bw"
+        "www.bankgaborone.co.bw"
       ],
       "Bank of Baroda": [
         "www.bankofbaroda.com"
       ],
+      "Bank of Baroda Botswana": [
+        "www.bankofbaroda.co.bw"
+      ],
       "Bank of Botswana": [
         "www.bankofbotswana.bw"
+      ],
+      "Bank of India Botswana": [
+        "www.bankofindia.co.bw"
       ],
       "Barclays Bank": [
         "www.barclays.co.bw",
         "www.bw.secure.barclays.com"
+      ],
+      "Barclays Bank of Botswana": [
+        "www.barclays.co.bw"
       ],
       "Botswana Savings Bank": [
         "www.bsb.bw"
@@ -890,6 +1867,9 @@
       "First National Bank of Botswana": [
         "www.fnbbotswana.co.bw"
       ],
+      "Kingdom Bank Africa Botswana": [
+        "www.kingdombotswana.com"
+      ],
       "Stanbic Bank": [
         "www.stanbicbank.co.bw",
         "ibanking.stanbicbank.co.bw"
@@ -898,6 +1878,9 @@
         "www.sc.com",
         "s2b.standardchartered.com",
         "online.standardchartered.com"
+      ],
+      "State Bank of India Botswana": [
+        "www.sbibotswana.co.bw"
       ]
     },
     "Brazil": {
@@ -930,6 +1913,9 @@
       "Maybank": [
         "maybank.com"
       ],
+      "Monetary Authority of Brunei Darussalam": [
+        "www.ambd.gov.bn"
+      ],
       "Perbadanan Tabung Amanah Islam Brunei": [
         "www.taib.com.bn"
       ],
@@ -947,14 +1933,90 @@
         "pib.uob.com.sg"
       ]
     },
-    "Brunei Darussalam": {
-      "Monetary Authority of Brunei Darussalam": [
-        "www.ambd.gov.bn"
-      ]
-    },
     "Bulgaria": {
+      " Bulgarian-American Credit Bank": [
+        "www.bacb.bg"
+      ],
+      "Allianz Bank Bulgaria": [
+        "www.allianz.bg"
+      ],
+      "BNP Paribas Bulgaria": [
+        "www.bnpparibas.bg"
+      ],
+      "Bulgarian Development Bank": [
+        "www.bbr.bg"
+      ],
       "Bulgarian National Bank": [
         "www.bnb.bg"
+      ],
+      "CIBANK": [
+        "www.cibank.bg"
+      ],
+      "Central Cooperative Bank Bulgaria": [
+        "www.ccbank.bg"
+      ],
+      "Citibank Bulgaria": [
+        "www.citibank.com"
+      ],
+      "Commercial Bank Victoria EAD Bulgaria": [
+        "www.tbvictoria.bg"
+      ],
+      "D Commerce Bank": [
+        "www.dbank.bg"
+      ],
+      "DSK Bank Bulgaria": [
+        "www.dskbank.bg"
+      ],
+      "Eurobank Bulgaria": [
+        "www.postbank.bg"
+      ],
+      "First Investment Bank Bulgaria": [
+        "www.fibank.bg"
+      ],
+      "ING Bank Bulgaria": [
+        "www.ing.bg"
+      ],
+      "International Asset Bank": [
+        "www.iabank.bg"
+      ],
+      "Investbank Bulgaria": [
+        "www.ibank.bg"
+      ],
+      "IŞBANK AG Bulgaria": [
+        "www.isbank.de"
+      ],
+      "Municipal Bank Bulgaria": [
+        "www.municipalbank.bg"
+      ],
+      "Piraeus Bank Bulgaria": [
+        "www.piraeusbank.bg"
+      ],
+      "ProCredit Bank Bulgaria": [
+        "www.procreditbank.bg"
+      ],
+      "Raiffeisen Bank Bulgaria": [
+        "www.rbb.bg"
+      ],
+      "Societe Generale Expressbank": [
+        "www.sgeb.bg"
+      ],
+      "T.C. Ziraat Bankasi Bulgaria": [
+        "www.ziraatbank.bg"
+      ],
+      "TBI Bank": [
+        "www.tbibank.bg"
+      ],
+      "Texim Bank": [
+        "www.teximbank.bg"
+      ],
+      "Tokuda Bank": [
+        "www.tcebank.com"
+      ],
+      "UniCredit Bulbank": [
+        "www.unicreditbulbank.bg"
+      ],
+      "United Bulgarian Bank": [
+        "www.ubb.bg"
       ]
     },
     "Burkina Faso": {
@@ -962,11 +2024,21 @@
         "www.bank-of-africa.net",
         "www.boaburkinafaso.com"
       ],
-      "Banque Atlantique": [
-        "www.banqueatlantique.net"
+      "Bank of Africa Burkina Faso": [
+        "www.bank-of-africa.net"
+      ],
+      "Banque Atlantique Burkina Faso": [
+        "www.banqueatlantique.net",
+        "babf.banqueatlantique.net"
+      ],
+      "Banque Internationale pour le Commerce, l'Industire et l'Agriculture du Burkina": [
+        "www.biciab.bf"
       ],
       "Banque Sahélo-Saharienne pour l'Investissement et le Commerce": [
         "www.bsicbank.com"
+      ],
+      "Banque Sahélo-Saharienne pour l'Investissement et le Commerce Burkina Faso": [
+        "bsicbank.com"
       ],
       "Central Bank of West African States": [
         "www.bceao.int"
@@ -974,10 +2046,14 @@
       "Central Bank of West African States (BCEAO)": [
         "www.bceao.int"
       ],
-      "Ecobank": [
+      "Coris Bank Burkina": [
+        "www.coris-bank.com"
+      ],
+      "Ecobank Burkina": [
         "www.ecobank.com"
       ],
-      "Société Générale": [
+      "Société Générale de Banques au Burkina": [
+        "societegenerale.bf",
         "www.societegenerale.com"
       ],
       "United Bank for Africa": [
@@ -1028,13 +2104,103 @@
       ]
     },
     "Cambodia": {
+      "ACLEDA Bank Cambodia": [
+        "www.acledabank.com.kh"
+      ],
+      "Australia and New Zealand Royal Bank Cambodia": [
+        "www.anzroyal.com"
+      ],
+      "Bank of China Cambodia": [
+        "www.bankofchina.com"
+      ],
+      "Bank of India Cambodia": [
+        "www.bankofindia.co.in"
+      ],
+      "Booyoung Khmer Bank": [
+        "www.bkb.com.kh"
+      ],
+      "CIMB Bank Cambodia": [
+        "www.cimbbank.com.kh"
+      ],
+      "Cambodia Asia Bank": [
+        "www.cab.com.kh"
+      ],
+      "Cambodian Commercial Bank": [
+        "www.ccb.com.kh"
+      ],
+      "Cambodian Public Bank": [
+        "www.cpbebank.com"
+      ],
+      "Camko Specialized Bank Cambodia": [
+        "www.camkobank.com"
+      ],
+      "Canadia Bank Cambodia": [
+        "www.canadiabank.com"
+      ],
+      "Cathay United Bank Cambodia": [
+        "www.cathaybk.com.kh"
+      ],
+      "First Commercial Bank Cambodia": [
+        "www.firstbank.com.tw"
+      ],
+      "First Investment Specialized Bank Cambodia": [
+        "www.fibank.com.kh"
+      ],
+      "Foreign Trade Bank of Cambodia": [
+        "www.ftbbank.com"
+      ],
+      "Kookmin Bank Cambodia": [
+        "www.kbstar.com"
+      ],
+      "Krung Thai Bank Cambodia": [
+        "www.ktb.co.th"
+      ],
+      "Maruhan Japan Bank Cambodia": [
+        "www.maruhanjapanbank.com"
+      ],
+      "Maybank Cambodia": [
+        "www.maybank2u.com.kh"
+      ],
       "National Bank of Cambodia": [
         "www.nbc.org.kh"
+      ],
+      "PhillipBank Cambodia": [
+        "phillipbankplc.com.kh"
+      ],
+      "Phnom Penh Commercial Bank": [
+        "www.ppcb.com.kh"
+      ],
+      "RHB Bank Cambodia": [
+        "www.rhbbank.com.sg"
+      ],
+      "Rural Development Bank Cambodia": [
+        "www.rdb.com.kh"
+      ],
+      "Sacombank Cambodia": [
+        "www.sacombank.com.vn"
+      ],
+      "Shinhan Khmer Bank": [
+        "www.shinhan.com"
+      ],
+      "Union Commercial Bank Cambodia": [
+        "www.ucb.com.kh"
+      ],
+      "Vattanac Bank Cambodia": [
+        "www.vattanacbank.com"
       ]
     },
     "Cameroon": {
+      "ACEP Cameroun": [
+        "www.acep-cameroun.org"
+      ],
       "Afriland First Bank": [
         "www.afrilandfirstbank.com"
+      ],
+      "Alios Finance Cameroun": [
+        "www.alios-finance.com"
+      ],
+      "BICEC Cameroun": [
+        "www.bicec.com"
       ],
       "Bank of Central African States": [
         "www.beac.int"
@@ -1042,60 +2208,51 @@
       "Banque Atlantique": [
         "banqueatlantique.net"
       ],
+      "Banque des Etats de l'Afrique Centrale Cameroun": [
+        "www.beac.int"
+      ],
+      "CBC Bank Cameroun": [
+        "www.cbc-bank.com"
+      ],
+      "CECIC Cameroun": [
+        "www.cecic-sa.net"
+      ],
+      "Caisses D'Epargne Populaire et D'Investissement Cameroun": [
+        "www.cepi-sa.com"
+      ],
       "Commercial Bank of Cameroon": [
         "www.cbc-bank.com"
+      ],
+      "Compagnie Equatoriale pour l’Epargne et le Crédit d’Investissement Cameroun": [
+        "www.comecisa.com"
       ],
       "Credit Agricole": [
         "www.credit-agricole.com",
         "www.credit-agricole.fr"
       ],
-      "Crédit Lyonnais": [],
-      "Ecobank": [],
-      "Société Générale": [
-        "www.societegenerale.cm",
-        "www.sogecam.cm"
-      ],
-      "Union Bank of Cameroon": [
-        "www.unionbankcameroon.com"
-      ],
-      "ACEP Cameroun": [
-        "www.acep-cameroun.org"
-      ],
-      "Alios Finance Cameroun": [
-        "www.alios-finance.com"
-      ],
-      "Banque des Etats de l'Afrique Centrale Cameroun": [
-        "www.beac.int"
-      ],
-      "BICEC Cameroun": [
-        "www.bicec.com"
-      ],
-      "CBC Bank Cameroun": [
-        "www.cbc-bank.com"
-      ],
       "Crédit Communautaire d'Afrique Cameroon": [
         "www.cca-cameroon.com"
-      ],
-      "Caisses D'Epargne Populaire et D'Investissement Cameroun": [
-        "www.cepi-sa.com"
-      ],
-      "Compagnie Equatoriale pour l’Epargne et le Crédit d’Investissement Cameroun": [
-        "www.comecisa.com"
       ],
       "Crédit Foncier du Cameroun": [
         "www.creditfoncier.cm"
       ],
-      "CECIC Cameroun": [
-        "www.cecic-sa.net"
-      ],
+      "Crédit Lyonnais": [],
       "Crédit du Sahel Cameroun": [
         "creditdusahelsa.com"
+      ],
+      "Ecobank": [],
+      "Ecobank Cameroon": [
+        "www.ecobank.com"
       ],
       "Emerging Capital Partners Cameroon": [
         "www.ecpinvestments.com"
       ],
-      "Ecobank Cameroon": [
-        "www.ecobank.com"
+      "Société Générale": [
+        "www.societegenerale.cm",
+        "www.sogecam.cm"
+      ],
+      "Société Générale Cameroun": [
+        "www.societegenerale.cm"
       ],
       "Société Nationale d’Investissement du Cameroun": [
         "www.sni.cm"
@@ -1103,62 +2260,244 @@
       "Standard Chartered Bank Cameroon": [
         "www.sc.com"
       ],
-      "Société Générale Cameroun": [
-        "www.societegenerale.cm"
+      "Union Bank of Cameroon": [
+        "www.unionbankcameroon.com"
       ]
     },
     "Canada": {
+      "Agricultural Bank of China Canada": [
+        "www.abchina.com"
+      ],
+      "Alterna Bank": [
+        "www.alterna.ca"
+      ],
+      "Assiniboine Credit Union": [
+        "www.assiniboine.mb.ca"
+      ],
+      "B2B Bank": [
+        "b2bbank.com"
+      ],
+      "BNP Paribas Canada": [
+        "www.bnpparibas.ca"
+      ],
+      "Bank West": [
+        "www.bankwest.ca"
+      ],
+      "Bank of America Canada": [
+        "corp.bankofamerica.com"
+      ],
       "Bank of Canada": [
         "www.bankofcanada.ca"
+      ],
+      "Bank of China Canada": [
+        "www.bankofchina.ca"
       ],
       "Bank of Montreal": [
         "bmocm.com",
         "www.bmo.com"
       ],
+      "Bank of New York Mellon Canada": [
+        "www.bnymellon.com"
+      ],
       "Bank of Nova Scotia": [
         "www.scotiabank.com",
         "www.scotiaonline.scotiabank.com"
       ],
+      "Bank of Tokyo-Mitsubishi UFJ Canada": [
+        "www.bk.mufg.jp"
+      ],
+      "Barclays Bank Canada": [
+        "group.barclays.com"
+      ],
+      "Bridgewater Bank": [
+        "bridgewaterbank.ca"
+      ],
+      "CFF Bank": [
+        "www.cffbank.ca"
+      ],
+      "CTC Bank of Canada": [
+        "www.ctcbank.com"
+      ],
+      "Cambrian Credit Union": [
+        "www.cambrian.mb.ca"
+      ],
       "Canadian Imperial Bank of Commerce": [
         "cibc.com"
       ],
+      "Canadian Western Bank": [
+        "www.cwbankgroup.com"
+      ],
+      "Capital One Bank Canada": [
+        "www.capitalone.ca"
+      ],
+      "Citco Bank Canada": [
+        "www.citco.com"
+      ],
+      "Citibank Canada": [
+        "www.citibank.ca"
+      ],
+      "Coast Capital Savings": [
+        "www.coastcapitalsavings.com"
+      ],
+      "Comerica Bank Canada": [
+        "www.comerica.com"
+      ],
+      "Conexus Credit Union": [
+        "www.conexus.ca"
+      ],
+      "Continental Bank of Canada": [
+        "continentalbank.ca"
+      ],
+      "Deutsche Bank Canada": [
+        "www.db.com"
+      ],
+      "Equitable Bank": [
+        "www.equitablebank.ca"
+      ],
+      "Fifth Third Bank Canada": [
+        "www.53.com"
+      ],
+      "First Calgary Savings": [
+        "www.firstcalgary.com"
+      ],
+      "First Nations Bank of Canada": [
+        "www.fnbc.ca"
+      ],
+      "First West Credit Union": [
+        "www.firstwestcu.ca"
+      ],
+      "General Bank of Canada": [
+        "www.generalbank.ca"
+      ],
+      "HSBC Bank Canada": [
+        "www.hsbc.ca"
+      ],
+      "Habib Canadian Bank": [
+        "www.habibcanadian.com"
+      ],
+      "HomEquity Bank": [
+        "www.homequitybank.ca"
+      ],
+      "ICICI Bank Canada": [
+        "www.icicibank.ca"
+      ],
+      "Industrial and Commercial Bank of China Canada": [
+        "www.icbk.ca"
+      ],
+      "JPMorgan Canada": [
+        "www.jpmorgan.com"
+      ],
+      "Jameson Bank": [
+        "jamesonbank.com"
+      ],
+      "Korea Exchange Bank of Canada": [
+        "www.kebcanada.com"
+      ],
+      "Laurentian Bank of Canada": [
+        "www.laurentianbank.ca"
+      ],
+      "Manulife Bank of Canada": [
+        "www.manulifebank.ca"
+      ],
+      "Mega International Commercial Bank Canada": [
+        "www.megabank.com.tw"
+      ],
+      "Meridian Credit Union": [
+        "www.meridiancu.ca"
+      ],
+      "Mizuho Corporate Bank Canada": [
+        "www.mizuhobank.com"
+      ],
+      "National Bank of Canada": [
+        "www.nbc.ca"
+      ],
+      "Northern Trust Company Canada": [
+        "www.northerntrust.com"
+      ],
+      "Pacific & Western Bank of Canada": [
+        "www.pwbank.com"
+      ],
+      "President's Choice Bank": [
+        "www.pcfinancial.ca"
+      ],
+      "Rabobank Canada": [
+        "www.rabobank.com"
+      ],
       "Royal Bank of Canada": [
-        "rbc.com",
-        "www1.royalbank.com"
+        "www.rbcroyalbank.com"
+      ],
+      "Royal Bank of Scotland Canada": [
+        "www.rbs.com"
+      ],
+      "Scotiabank Canada": [
+        "www.scotiabank.com"
+      ],
+      "Servus Credit Union": [
+        "www.servus.ca"
+      ],
+      "Shinhan Bank Canada": [
+        "shinhan.ca"
+      ],
+      "Société Générale Canada": [
+        "www.societegenerale.ca"
+      ],
+      "State Bank of India Canada": [
+        "www.sbicanada.com"
+      ],
+      "State Street Bank Canada": [
+        "www.statestreet.com"
+      ],
+      "Steinbach Credit Union": [
+        "www.scu.mb.ca"
+      ],
+      "Sumitomo Mitsui Banking Corporation of Canada": [
+        "www.smbcgroup.com"
+      ],
+      "TD Canada Trust": [
+        "www.td.com"
       ],
       "Toronto-Dominion Bank": [
         "td.com",
         "www.tdcanadatrust.com",
         "easyweb.td.com"
+      ],
+      "UBS Bank Canada": [
+        "www.ubs.com"
+      ],
+      "United Overseas Bank Limited Canada": [
+        "www.uobgroup.com"
+      ],
+      "Vancity": [
+        "www.vancity.com"
       ]
     },
     "Cape Verde": {
-      "Banco Comercial do Atlantico": [
-        "www.bca.cv"
+      "Banco Africano de Investimentos Cabo Verde": [
+        "www.bancobai.cv"
       ],
       "Banco Cabo-Verdiano de Negócios": [
         "www.bcncv.com"
       ],
-      "Caixa Economica de Cabo Verde": [
-        "www.caixa.cv"
+      "Banco Comercial do Atlantico": [
+        "www.bca.cv"
       ],
       "Banco Inter-Atlântico": [
         "www.bi.cv"
       ],
-      "Ecobank Cape Verde": [
-        "www.ecobank.com"
-      ],
-      "Banco Africano de Investimentos Cabo Verde": [
-        "www.bancobai.cv"
-      ],
       "Banco Internacional de Cabo Verde": [
         "www.bancointernacional.cv"
       ],
-      "Novo Banco de Cabo Verde": [
-        "www.novobanco.cv"
-      ],
       "Banco de Cabo Verde": [
         "www.bcv.cv"
+      ],
+      "Caixa Economica de Cabo Verde": [
+        "www.caixa.cv"
+      ],
+      "Ecobank Cape Verde": [
+        "www.ecobank.com"
+      ],
+      "Novo Banco de Cabo Verde": [
+        "www.novobanco.cv"
       ]
     },
     "Cayman Islands": {
@@ -1175,14 +2514,14 @@
       "Bank of Central African States": [
         "www.beac.int"
       ],
-      "Ecobank Chad": [
-        "www.ecobank.com"
+      "Banque Sahélo-Saharienne pour l'Investissement et le Commerce Tchad": [
+        "www.bsicbank.com"
       ],
       "Commercial Bank of Tchad": [
         "www.commercialbanktchad.com"
       ],
-      "Banque Sahélo-Saharienne pour l'Investissement et le Commerce Tchad": [
-        "www.bsicbank.com"
+      "Ecobank Chad": [
+        "www.ecobank.com"
       ]
     },
     "Chile": {
@@ -1215,11 +2554,8 @@
       ]
     },
     "Colombia": {
-      "Banco de la República Colombia": [
-        "www.banrep.gov.co"
-      ],
-      "Banco Agrario de Colombia": [
-        "www.bancoagrario.gov.co"
+      "BBVA Colombia": [
+        "www.bbva.com.co"
       ],
       "Bancamía": [
         "www.bancamia.com.co"
@@ -1227,29 +2563,11 @@
       "Banco AVVillas": [
         "www.avvillas.com.co"
       ],
+      "Banco Agrario de Colombia": [
+        "www.bancoagrario.gov.co"
+      ],
       "Banco Caja Social": [
         "www.bancocajasocial.com"
-      ],
-      "Banco de Bogotá": [
-        "www.bancodebogota.com"
-      ],
-      "Banco de Occidente": [
-        "www.bancodeoccidente.com.co"
-      ],
-      "Banco Popular Colombia": [
-        "www.bancopopular.com.co"
-      ],
-      "Banco Santander Colombia": [
-        "www.santander.com.co"
-      ],
-      "Bancolombia": [
-        "www.grupobancolombia.com"
-      ],
-      "BBVA Colombia": [
-        "www.bbva.com.co"
-      ],
-      "Citibank Colombia": [
-        "www.citibank.com.co"
       ],
       "Banco Colpatria": [
         "www.colpatria.com"
@@ -1260,14 +2578,35 @@
       "Banco GBN Sudameris": [
         "www.gnbsudameris.com.co"
       ],
-      "Helm Colombia": [
-        "www.grupohelm.com"
+      "Banco Popular Colombia": [
+        "www.bancopopular.com.co"
+      ],
+      "Banco Procredit Colombia": [
+        "www.bancoprocredit.com.co"
+      ],
+      "Banco Santander Colombia": [
+        "www.santander.com.co"
+      ],
+      "Banco de Bogotá": [
+        "www.bancodebogota.com"
+      ],
+      "Banco de Occidente": [
+        "www.bancodeoccidente.com.co"
+      ],
+      "Banco de la República Colombia": [
+        "www.banrep.gov.co"
+      ],
+      "Bancolombia": [
+        "www.grupobancolombia.com"
+      ],
+      "Citibank Colombia": [
+        "www.citibank.com.co"
       ],
       "HSBC Colombia": [
         "www.hsbc.com"
       ],
-      "Banco Procredit Colombia": [
-        "www.bancoprocredit.com.co"
+      "Helm Colombia": [
+        "www.grupohelm.com"
       ]
     },
     "Comoros": {
@@ -1334,17 +2673,14 @@
     },
     "Cook Islands": {},
     "Costa Rica": {
-      "Banco Central de Costa Rica": [
-        "www.bccr.fi.cr"
+      "BAC San José": [
+        "www.bac.net"
       ],
-      "Banco de Costa Rica": [
-        "www.bancobcr.com"
+      "Banca Promérica Costa Rica": [
+        "www.promerica.fi.cr"
       ],
-      "Banco Nacional de Costa Rica": [
-        "www.bncr.fi.cr"
-      ],
-      "Banco Crédito Agrícola de Cartago": [
-        "www.bancreditocr.com"
+      "Banco BCT Costa Rica": [
+        "www.bancobct.com"
       ],
       "Banco BICSA Costa Rica": [
         "www.bicsa.com"
@@ -1352,34 +2688,148 @@
       "Banco Cathay de Costa Rica": [
         "www.bancocathay.com"
       ],
+      "Banco Central de Costa Rica": [
+        "www.bccr.fi.cr"
+      ],
+      "Banco Crédito Agrícola de Cartago": [
+        "www.bancreditocr.com"
+      ],
       "Banco Davivienda": [
         "www.davivienda.cr"
-      ],
-      "Citibank Costa Rica": [
-        "www.citibank.co.cr"
-      ],
-      "BAC San José": [
-        "www.bac.net"
       ],
       "Banco Improsa Costa Rica": [
         "www.improsa.com"
       ],
-      "Banca Promérica Costa Rica": [
-        "www.promerica.fi.cr"
-      ],
       "Banco Lafise Costa Rica": [
         "www.lafise.fi.cr"
       ],
-      "Banco BCT Costa Rica": [
-        "www.bancobct.com"
+      "Banco Nacional de Costa Rica": [
+        "www.bncr.fi.cr"
+      ],
+      "Banco de Costa Rica": [
+        "www.bancobcr.com"
+      ],
+      "Citibank Costa Rica": [
+        "www.citibank.co.cr"
       ],
       "Scotiabank Costa Rica": [
         "www.scotiabankcr.com"
       ]
     },
     "Croatia": {
+      "BKS Bank": [
+        "www.bks.hr"
+      ],
+      "Banco Popolare Croatia": [
+        "www.bpc.hr"
+      ],
+      "Banka Kovanica": [
+        "www.kovanica.hr"
+      ],
+      "Banka Splitsko-Dalmatinska": [
+        "www.bsd.hr"
+      ],
+      "Centar Banka": [
+        "www.centarbanka.hr"
+      ],
+      "Commerzbank AG": [
+        "www.commerzbank.com"
+      ],
+      "Croatia Banka": [
+        "www.croatiabanka.hr"
+      ],
       "Croatian National Bank": [
         "www.hnb.hr"
+      ],
+      "Deutsche Bank AG Croatia": [
+        "www.db.com"
+      ],
+      "Erste Steiermärkische Bank": [
+        "www.erstebank.hr"
+      ],
+      "HPB-Stambena štedionica": [
+        "www.hpb-stedionica.hr"
+      ],
+      "Hrvatska Poštanska Banka": [
+        "www.hpb.hr"
+      ],
+      "Hypo-Alpe-Adria Bank Croatia": [
+        "www.hypo-alpe-adria.hr"
+      ],
+      "Imex Banka": [
+        "www.imexbanka.hr"
+      ],
+      "Istarska Kreditna Banka Umag": [
+        "www.ikb.hr"
+      ],
+      "Jadranska Banka": [
+        "www.jadranska-banka.hr"
+      ],
+      "Karlovačka Banka": [
+        "www.kaba.hr"
+      ],
+      "KentBank": [
+        "www.kentbank.hr"
+      ],
+      "Kreditna Banka Zagreb": [
+        "www.kbz.hr"
+      ],
+      "Nava Banka": [
+        "www.navabanka.hr"
+      ],
+      "OTP Banka Hrvatska": [
+        "www.otpbanka.hr"
+      ],
+      "PBZ stambena štedionica": [
+        "stambena.pbz.hr"
+      ],
+      "Partner Banka": [
+        "www.paba.hr"
+      ],
+      "Podravska Banka": [
+        "www.poba.hr"
+      ],
+      "Primorska Banka": [
+        "www.primorska.hr"
+      ],
+      "Privredna Banka Zagreb": [
+        "www.pbz.hr"
+      ],
+      "Prva stambena štedionica": [
+        "www.prva-stambena.hr"
+      ],
+      "Raiffeisen stambena štedionica": [
+        "www2.raiffeisenstambena.hr"
+      ],
+      "Raiffeisenbank Austria": [
+        "www.rba.hr"
+      ],
+      "Samoborska Banka": [
+        "www.sabank.hr"
+      ],
+      "Sberbank": [
+        "www.sberbank.hr"
+      ],
+      "Slatinska Banka": [
+        "www.slatinska-banka.hr"
+      ],
+      "Société Générale-Splitska Banka": [
+        "www.splitskabanka.hr"
+      ],
+      "Vaba d.d. Banka Varaždin": [
+        "www.vaba.hr"
+      ],
+      "Veneto Banka": [
+        "www.venetobanka.hr"
+      ],
+      "Wüstenrot stambena štedionica": [
+        "www.wuestenrot.hr"
+      ],
+      "Zagrebačka Banka": [
+        "www.zaba.hr"
+      ],
+      "Štedbanka": [
+        "www.stedbanka.hr"
       ]
     },
     "Cuba": {
@@ -1393,18 +2843,465 @@
       ]
     },
     "Cyprus": {
+      "Ahli Bank Cyprus": [
+        "bit.ly"
+      ],
+      "Alpha Bank Cyprus": [
+        "www.alphabank.com.cy"
+      ],
+      "Ancoria Bank": [
+        "www.ancoriabank.com"
+      ],
+      "Arab Jordan Investment Bank Cyprus": [
+        "www.ajib.com"
+      ],
+      "Avtovazbank Cyprus": [
+        "avbbank.ru"
+      ],
+      "BBAC Cyprus": [
+        "www.bbacbank.com"
+      ],
+      "BLOM Bank Cyprus": [
+        "www.blombank.com"
+      ],
+      "Bank Zenit Cyprus": [
+        "www.zenit.ru"
+      ],
+      "Bank of Beirut Cyprus": [
+        "www.bankofbeirut.com"
+      ],
+      "Bank of Cyprus": [
+        "www.bankofcyprus.com"
+      ],
+      "BankMed Cyprus": [
+        "www.bankmed.com.lb"
+      ],
+      "Banque BEMO Cyprus": [
+        "www.bemobank.com"
+      ],
+      "Banque SBA Cyprus": [
+        "www.banque-sba.com"
+      ],
+      "Barclays Cyprus": [
+        "bit.ly"
+      ],
+      "Byblos Bank Cyprus": [
+        "byblosbank.com"
+      ],
       "Central Bank of Cyprus": [
         "www.centralbank.gov.cy"
+      ],
+      "Cooperative Central Bank Cyprus": [
+        "www.coopbank.com.cy"
+      ],
+      "Credit Libanais Cyprus": [
+        "www.creditlibanais.com"
+      ],
+      "Cyprus Development Bank": [
+        "www.cdb.com.cy"
+      ],
+      "EFG Bank Luxembourg Cyprus": [
+        "www.efgbank.lu"
+      ],
+      "Eurobank Cyprus": [
+        "www.eurobank.com.cy"
+      ],
+      "Expobank Cyprus": [
+        "www.ltbcyprus.com"
+      ],
+      "FBME Bank Cyprus": [
+        "www.fbme.com"
+      ],
+      "First Investment Bank Cyprus": [
+        "www.fibank.bg"
+      ],
+      "Hellenic Bank": [
+        "www.hellenicbank.com"
+      ],
+      "Housing Finance Corporation Cyprus": [
+        "www.hfc.com.cy"
+      ],
+      "IBL Bank Cyprus": [
+        "www.ibl.com.lb"
+      ],
+      "Jordan Kuwait Bank Cyprus": [
+        "bit.ly"
+      ],
+      "Lebanon and Gulf Bank Cyprus": [
+        "www.lgbbank.com"
+      ],
+      "National Bank of Greece Cyprus": [
+        "www.nbg.com.cy"
+      ],
+      "Piraeus Bank Cyprus": [
+        "www.piraeusbank.com.cy"
+      ],
+      "PrivatBank Cyprus": [
+        "privatbank.com.cy"
+      ],
+      "Promsvyazbank Cyprus": [
+        "www.psbank.ru"
+      ],
+      "RCB Bank Cyprus": [
+        "www.rcbcy.com"
+      ],
+      "Saxo Bank Cyprus": [
+        "cy.saxobank.com"
+      ],
+      "Societe Generale Bank Cyprus": [
+        "www.sgcyprus.com"
+      ],
+      "Trasta Komercbanka Cyprus": [
+        "www.tkb.lv"
+      ],
+      "USB Bank": [
+        "www.usbbank.com.cy"
       ]
     },
     "Czech Republic": {
+      "Air Bank": [
+        "www.airbank.cz"
+      ],
       "Czech National Bank": [
         "www.cnb.cz"
+      ],
+      "ERB Banka": [
+        "www.erbank.cz"
+      ],
+      "Equa Bank": [
+        "www.equabank.cz"
+      ],
+      "Expobank CZ": [
+        "www.expobank.cz"
+      ],
+      "Fio Banka": [
+        "www.fio.cz"
+      ],
+      "GE Money Bank Česká Republika": [
+        "www.gemoney.cz"
+      ],
+      "Hypoteční Banka": [
+        "www.hypotecnibanka.cz"
+      ],
+      "JT Banka Česká republika": [
+        "www.jtbank.cz"
+      ],
+      "Komerční Banka": [
+        "www.kb.cz"
+      ],
+      "Modrá pyramida stavební spořitelna": [
+        "www.modrapyramida.cz"
+      ],
+      "PPF banka": [
+        "www.ppfbanka.cz"
+      ],
+      "Raiffeisen Bank Česká republika": [
+        "www.rb.cz"
+      ],
+      "Sberbank Česká republika": [
+        "www.sberbankcz.cz"
+      ],
+      "Stavební spořitelna České spořitelny": [
+        "www.burinka.cz"
+      ],
+      "UniCredit Bank Česká republika": [
+        "www.unicreditbank.cz"
+      ],
+      "Wüstenrot Stavební spořitelna": [
+        "www.wuestenrot.cz"
+      ],
+      "Českomoravská stavební spořitelna": [
+        "www.cmss.cz"
+      ],
+      "Českomoravská záruční a rozvojová Banka": [
+        "www.cmzrb.cz"
+      ],
+      "Československá obchodní Banka": [
+        "www.csob.cz"
+      ],
+      "Česká Exportní Banka": [
+        "www.ceb.cz"
+      ],
+      "Česká Spořitelna": [
+        "www.csas.cz"
       ]
     },
     "Denmark": {
+      "ABG Sundal Collier Denmark": [
+        "www.abgsc.com"
+      ],
+      "Alm. Brand": [
+        "www.almbrand.dk"
+      ],
+      "Andelskassen Alssund": [
+        "www.andelskassen.dk"
+      ],
+      "Andelskassen Fælleskassen": [
+        "www.faelleskassen.dk"
+      ],
+      "Andelskassen J.A.K": [
+        "www.andelskassen-jak-slagelse.dk"
+      ],
+      "Andelskassen Oikos": [
+        "www.oikos.dk"
+      ],
+      "Arbejdernes Landsbank": [
+        "www.al-bank.dk"
+      ],
+      "BIL Danmark": [
+        "www.bil.com"
+      ],
+      "BNP Paribas Denmark": [
+        "www.bnpparibas.dk"
+      ],
+      "BRF Bank Danmark": [
+        "www.brf.dk"
+      ],
+      "Bank DnB Nord Danmark": [
+        "www.dnb.no"
+      ],
+      "BankNordik Danmark": [
+        "www.banknordik.dk"
+      ],
+      "Basisbank DK": [
+        "www.basisbank.dk"
+      ],
+      "Borbjerg Sparekasse": [
+        "www.borbjergsparekasse.dk"
+      ],
+      "Bremer Landesbank Kreditanstalt Oldenburg": [
+        "www.bremerlandesbank.de"
+      ],
+      "Broager Sparekasse": [
+        "www.broagersparekasse.dk"
+      ],
+      "Carnegie Bank Denmark": [
+        "www.carnegie.se"
+      ],
+      "Citibank Danmark": [
+        "www.citigroup.com"
+      ],
+      "Danske Bank": [
+        "www.danskebank.dk"
+      ],
+      "Den Jyske Sparekasse": [
+        "www.djs.dk"
+      ],
+      "Djurslands Bank": [
+        "alm.djurslandsbank.dk"
+      ],
+      "Dragsholm Sparekasse": [
+        "www.dragsholmsparekasse.dk"
+      ],
+      "Dronninglund Sparekasse": [
+        "www.dronspar.dk"
+      ],
+      "EBH Bank Denmark": [
+        "www.ebh-bank.dk"
+      ],
+      "Ekspres Bank Denmark": [
+        "www.ekspresbank.dk"
+      ],
+      "FIH Erhvervsbank": [
+        "www.fih.dk"
+      ],
+      "Fanefjord Sparekasse Fond": [
+        "www.fanefjordsparekassesfond.dk"
+      ],
+      "Fanø Sparekasse": [
+        "www.fanoespk.dk"
+      ],
+      "Faster Andelskasse": [
+        "www.faster.dk"
+      ],
+      "Finansbanken Denmark": [
+        "www.finansnetbanken.dk"
+      ],
+      "Flemløse Sparekasse ": [
+        "www.sparekassen.dk"
+      ],
+      "Folkesparekassen": [
+        "www.folkesparekassen.dk"
+      ],
+      "Forex Bank Denmark": [
+        "www.forexbank.dk"
+      ],
+      "Frørup Andelskasse": [
+        "www.froerupandelskasse.dk"
+      ],
+      "Frøs Herreds Sparekasse": [
+        "www.froes.dk"
+      ],
+      "Frøslev-Mollerup Sparekasse ": [
+        "www.fmspks.dk"
+      ],
+      "Fynske Bank": [
+        "www.fynskebank.dk"
+      ],
+      "Grønlandsbanken, Aktieselskab": [
+        "www.banken.gl"
+      ],
+      "Gudme Raaschou Bank": [
+        "www.lsb.dk"
+      ],
+      "Handelsbanken Finans Denmark": [
+        "www.handelsbankenfinans.dk"
+      ],
+      "Hvidbjerg Bank Aktieselskab": [
+        "www.hvidbjergbank.dk"
+      ],
+      "IKANO Banken Denmark": [
+        "ikanobank.dk"
+      ],
+      "J.A.K. Andelskassen Østervraa": [
+        "jak-oestervraa.dk"
+      ],
+      "Jutlander Bank": [
+        "jutlander.dk"
+      ],
+      "Jyske Bank Denmark": [
+        "jyskebank.com"
+      ],
+      "Klim Sparekasse": [
+        "www.klimsparekasse.dk"
+      ],
+      "Kreditbanken Danmark": [
+        "alm.kreditbanken.dk"
+      ],
+      "Københavns Andelskasse": [
+        "kbh-andelskasse.dk"
+      ],
+      "Langå Sparekasse": [
+        "www.langspar.dk"
+      ],
+      "Leasing Fyn og Factoring Bankaktieselskab": [
+        "www.leasingfyn.dk"
+      ],
+      "Lollands Bank": [
+        "www.lollandsbank.dk"
+      ],
+      "Lån og Spar Bank": [
+        "www.lsb.dk"
+      ],
+      "Lægernes Pensionsbank": [
+        "www.lpk.dk"
+      ],
+      "Merkur Andelskasse": [
+        "www.merkur.dk"
+      ],
+      "Middelfart Sparekasse": [
+        "midspar.dk"
+      ],
+      "Møns Bank": [
+        "www.moensbank.dk"
+      ],
       "National Bank of Denmark (Danmarks Nationalbank)": [
         "www.nationalbanken.dk"
+      ],
+      "Nordea Bank Danmark": [
+        "www.nordea.dk"
+      ],
+      "Nordfyns Bank": [
+        "www.nordfynsbank.dk"
+      ],
+      "Nordjyske Bank": [
+        "alm.nordjyskebank.dk"
+      ],
+      "Nordoya Sparikassi": [
+        "www.ns.fo"
+      ],
+      "Nykredit Bank Danmark": [
+        "www.nykredit.com"
+      ],
+      "Pen-Sam Bank": [
+        "www.pensam.dk"
+      ],
+      "Refsnæs Sparekasse": [
+        "www.refsnaes-sparekasse.dk"
+      ],
+      "Ringkjøbing Landbobank": [
+        "alm.landbobanken.dk"
+      ],
+      "Rise Spare og Lånekasse": [
+        "www.risespar.dk"
+      ],
+      "Rønde og Omegns Sparekasse": [
+        "www.roendespar.dk"
+      ],
+      "SEB Danmark": [
+        "seb.dk"
+      ],
+      "SG Finans Danmark": [
+        "www.sgfinans.dk"
+      ],
+      "Salling Bank Danmark": [
+        "www.sallingbank.dk"
+      ],
+      "Santander Consumer Bank Danmark": [
+        "www.santanderconsumer.dk"
+      ],
+      "Saxo Bank Denmark": [
+        "www.saxobank.com"
+      ],
+      "Scania Finans Danmark": [
+        "www.scania.dk"
+      ],
+      "Skjern Bank": [
+        "www.skjernbank.dk"
+      ],
+      "Spar Nord Bank": [
+        "www.sparnord.dk"
+      ],
+      "Sparekassen Balling": [
+        "www.sparekassenballing.dk"
+      ],
+      "Sparekassen Bredebro": [
+        "www.sparbredebro.dk"
+      ],
+      "Sparekassen Den lille Bikube": [
+        "www.portalbank.dk"
+      ],
+      "Sparekassen Djursland": [
+        "www.spardjurs.dk"
+      ],
+      "Sparekassen For Nørre Nebel og Omegn": [
+        "www.sparnebel.dk"
+      ],
+      "Sparekassen Fyn": [
+        "www.sparfyn.dk"
+      ],
+      "Sparekassen Kronjylland": [
+        "sparkron.dk"
+      ],
+      "Sparekassen Sjælland": [
+        "alm.spks.dk"
+      ],
+      "Sparekassen Thy Danmark": [
+        "www.sparthy.dk"
+      ],
+      "Sparekassen Vendsyssel": [
+        "www.sparekassen-vendsyssel.dk"
+      ],
+      "Stadil Sparekasse": [
+        "www.stadil-sparekasse.dk"
+      ],
+      "Sydbank": [
+        "www.sydbank.dk"
+      ],
+      "Søby-Skader-Halling Sparekasse": [
+        "www.soebyspar.dk"
+      ],
+      "Sønderhå-Hørsted Sparekasse": [
+        "sdrhaa.dk"
+      ],
+      "Totalbanken Danmark": [
+        "www.totalbanken.dk"
+      ],
+      "Vestjysk Bank": [
+        "www.vestjyskbank.dk"
+      ],
+      "Vokslev Sparekasses Fond": [
+        "vokslevsparekassesfond.dk"
       ]
     },
     "Djibouti": {},
@@ -1412,6 +3309,11 @@
     "Dominican Republic": {
       "Central Bank of the Dominican Republic": [
         "www.bancentral.gov.do"
+      ]
+    },
+    "EU": {
+      "European Central Bank": [
+        "www.ecb.europa.eu"
       ]
     },
     "East Timor": {
@@ -1439,29 +3341,29 @@
       ]
     },
     "El Salvador": {
+      "Banco Agricola El Salvador": [
+        "www.bancoagricola.com"
+      ],
       "Banco Central de Reserva de El Salvador": [
         "www.bcr.gob.sv"
       ],
       "Banco Citibank de El Salvador": [
         "www.citibank.com.sv"
       ],
-      "Banco de America Central El Salvador": [
-        "www.bac.net"
-      ],
       "Banco Hipotecario de El Salvador": [
         "www.bancohipotecario.com.sv"
-      ],
-      "Scotiabank El Salvador": [
-        "www.scotiabank.com.sv"
       ],
       "Banco ProCredit El Salvador": [
         "www.bancoprocredit.com.sv"
       ],
+      "Banco de America Central El Salvador": [
+        "www.bac.net"
+      ],
       "Banco de Desarrollo de El Salvador ": [
         "www.bandesal.gob.sv"
       ],
-      "Banco Agricola El Salvador": [
-        "www.bancoagricola.com"
+      "Scotiabank El Salvador": [
+        "www.scotiabank.com.sv"
       ]
     },
     "Equatorial Guinea": {
@@ -1473,6 +3375,45 @@
     "Estonia": {
       "Bank of Estonia": [
         "www.eestipank.ee"
+      ],
+      "Bigbank Eesti": [
+        "www.bigbank.ee"
+      ],
+      "Citadele Pank Eesti": [
+        "www.citadele.ee"
+      ],
+      "Danske Bank Eesti": [
+        "www.danskebank.ee"
+      ],
+      "Eesti Krediidipank": [
+        "www.krediidipank.ee"
+      ],
+      "Handelsbanken Eesti": [
+        "www.handelsbanken.ee"
+      ],
+      "Inbank": [
+        "www.inbank.ee"
+      ],
+      "LHV Pank": [
+        "www.lhv.ee"
+      ],
+      "Nordea Bank Eesti": [
+        "www.nordea.ee"
+      ],
+      "Pohola Bank Eesti": [
+        "www.pohjola.ee"
+      ],
+      "Scania Finans Eesti": [
+        "www.scania.ee"
+      ],
+      "Swedbank Eesti": [
+        "www.swedbank.ee"
+      ],
+      "Tallinna Äripank": [
+        "www.tbb.ee"
+      ],
+      "Versobank": [
+        "www.versobank.com"
       ]
     },
     "Ethiopia": {
@@ -1480,14 +3421,27 @@
         "www.nbe.gov.et"
       ]
     },
-    "Euro area": {
-      "European Central Bank": [
-        "www.ecb.europa.eu"
-      ]
-    },
     "Fiji": {
+      "ANZ Fiji": [
+        "www.anz.com"
+      ],
+      "BRED Bank Fiji": [
+        "www.bred.com.fj"
+      ],
+      "Bank of Baroda Fiji": [
+        "www.bankofbaroda-fiji.com"
+      ],
+      "Bank of South Pacific Fiji": [
+        "www.bsp.com.fj"
+      ],
+      "HFC Bank Fiji": [
+        "www.hfc.com.fj"
+      ],
       "Reserve Bank of Fiji": [
         "www.rbf.gov.fj"
+      ],
+      "Westpac Fiji": [
+        "www.westpac.com.fj"
       ]
     },
     "Finland": {
@@ -1495,31 +3449,95 @@
         "www.aktia.fi",
         "auth.aktia.fi"
       ],
+      "Aktia Savings Bank": [
+        "www.aktia.fi"
+      ],
       "Bank of Finland": [
         "www.suomenpankki.fi"
       ],
+      "Carnegie Investment Bank Finland": [
+        "www.carnegie.se"
+      ],
+      "Citibank Finland": [
+        "www.citigroup.com"
+      ],
       "Danske": [
         "www.danskebank.fi"
+      ],
+      "Danske Bank Finland": [
+        "www.danskebank.fi"
+      ],
+      "Deutsche Bank Finland": [
+        "www.db.com"
+      ],
+      "DnB NOR Bank Suomi": [
+        "www.dnb.no"
+      ],
+      "Evli Bank Finland": [
+        "www.evli.com"
+      ],
+      "Forex Bank Finland": [
+        "www.forex.fi"
+      ],
+      "LähiTapiola": [
+        "www.lahitapiola.fi"
       ],
       "Nordea": [
         "nordea.com",
         "nettbanken.nordea.no"
       ],
+      "Nordea Bank Finland": [
+        "www.nordea.fi"
+      ],
+      "Nordic Investment Bank": [
+        "www.nib.int"
+      ],
+      "OP Bank": [
+        "www.op.fi"
+      ],
       "Osuuspankki": [
         "www.op.fi"
+      ],
+      "POP Pankki": [
+        "www.poppankki.fi"
+      ],
+      "Pohjola Bank": [
+        "www.pohjola.fi"
+      ],
+      "S-Pankki": [
+        "www.s-pankki.fi"
       ],
       "S-pankki": [
         "www.s-pankki.fi"
       ],
+      "SEB Gyllenberg Private Bank": [
+        "seb.fi"
+      ],
+      "Suomen Hypoteekkiyhdistys": [
+        "www.hypo.fi"
+      ],
+      "Svenska Handelsbanken Suomi": [
+        "www.handelsbanken.fi"
+      ],
+      "Swedbank Finland": [
+        "www.swedbank.fi"
+      ],
+      "Säästöpankkiliitto – Sparbanksförbundet": [
+        "www.saastopankki.fi"
+      ],
+      "eQ Bank": [
+        "www.eq.fi"
+      ],
       "Ålandsbanken": [
-        "www.alandsbanken.fi",
-        "online.alandsbanken.fi"
+        "www.alandsbanken.com"
       ]
     },
     "France": {
+      "AXA Banque France": [
+        "www.axabanque.fr"
+      ],
       "BNP Paribas": [
-        "group.bnpparibas",
-        "mabanque.bnpparibas"
+        "www.bnpparibas.com"
       ],
       "BPCE": [
         "www.groupebpce.fr",
@@ -1531,19 +3549,71 @@
       "Bank of France": [
         "www.banque-france.fr"
       ],
+      "Banque Française Commerciale Océan Indien France": [
+        "www.bfcoi.com"
+      ],
+      "Banque Palatine": [
+        "www.palatine.fr"
+      ],
+      "Banque Transatlantique France": [
+        "www.cic.fr"
+      ],
+      "Banque de France": [
+        "www.banque-france.fr"
+      ],
+      "Banque et Assurance LCL": [
+        "www.lcl.com"
+      ],
+      "Caisse des dépôts et consignations": [
+        "www.caissedesdepots.fr"
+      ],
       "Crédit Agricole": [
         "www.credit-agricole.com",
         "www.credit-agricole.fr"
+      ],
+      "Crédit Foncier de France": [
+        "www.creditfoncier.fr"
+      ],
+      "Crédit Industriel et Commercial France": [
+        "www.cic.fr"
+      ],
+      "Crédit Mutuel France": [
+        "www.creditmutuel.fr"
+      ],
+      "Crédit du Nord": [
+        "www.credit-du-nord.fr"
+      ],
+      "Dexia": [
+        "www.dexia.com"
+      ],
+      "Euler Hermes France": [
+        "www.eulerhermes.fr"
+      ],
+      "Groupe Banque Populaire France": [
+        "www.banquepopulaire.fr"
+      ],
+      "Groupe Caisse d'Épargne": [
+        "www.caisse-epargne.fr"
+      ],
+      "HSBC France": [
+        "www.hsbc.fr"
       ],
       "LCL": [
         "www.lcl.com",
         "particuliers.secure.lcl.fr",
         "bienvenue.secure.lcl.fr"
       ],
+      "La Banque Postale France": [
+        "www.labanquepostale.fr"
+      ],
+      "Natixis France": [
+        "www.natixis.com"
+      ],
       "Société Générale": [
-        "www.societegenerale.com",
-        "www.privatebanking.societegenerale.com",
-        "particuliers.societegenerale.fr"
+        "www.societegenerale.com"
+      ],
+      "Société Marseillaise de Crédit": [
+        "www.smc.fr"
       ]
     },
     "Gabon": {
@@ -1563,17 +3633,65 @@
       ]
     },
     "Germany": {
+      "ABN AMRO Bank Germany": [
+        "www.abnamro.com"
+      ],
+      "Allied Irish Banks Germany": [
+        "www.aibcorporate.com"
+      ],
+      "BNP Paribas Germany": [
+        "www.bnpparibas.de"
+      ],
+      "Baader Bank Germany": [
+        "www.baaderbank.de"
+      ],
+      "Banco Santander Germany": [
+        "www.santanderbank.de"
+      ],
+      "Bankhaus C. L. Seeliger": [
+        "www.seeligerbank.de"
+      ],
+      "Bankhaus Lampe Germany": [
+        "www.bankhaus-lampe.de"
+      ],
+      "Bankhaus Löbbecke AG": [
+        "www.bankhaus-loebbecke.de"
+      ],
+      "Barclays Bank Germany": [
+        "www.barclays.de"
+      ],
       "BayernLB": [
-        "www.bayernlb.de"
+        "www.bayernlb.com"
+      ],
+      "Berenberg Bank": [
+        "www.berenberg.de"
+      ],
+      "Citibank Germany": [
+        "www.citibank.de"
       ],
       "Commerzbank": [
         "www.commerzbank.com"
       ],
-      "DZ Bank": [
+      "Credit Suisse Germany": [
+        "www.credit-suisse.com"
+      ],
+      "Crédit Agricole Germany": [
+        "www.ca-cib.com"
+      ],
+      "DSL Bank": [
+        "www.dslbank.de"
+      ],
+      "DZ Bank Germany": [
         "www.dzbank.com"
+      ],
+      "Degussa Bank Germany": [
+        "banking.degussa-bank.de"
       ],
       "DekaBank": [
         "www.deka.de"
+      ],
+      "DekaBank Deutsche Girozentrale": [
+        "www.dekabank.de"
       ],
       "Deutsche Bank": [
         "www.db.com",
@@ -1581,6 +3699,9 @@
       ],
       "Deutsche Bundesbank": [
         "www.bundesbank.de"
+      ],
+      "Deutsche Kreditbank AG": [
+        "www.dkb.de"
       ],
       "Deutsche Pfandbriefbank": [
         "www.pfandbriefbank.com"
@@ -1591,8 +3712,26 @@
       "GLS Bank": [
         "www.gls.de"
       ],
+      "GLS Bank Germany": [
+        "www.gls.de"
+      ],
+      "Goldman Sachs Germany": [
+        "www.goldmansachs.com"
+      ],
+      "HSBC Trinkaus and Burkhardt AG": [
+        "www.hsbctrinkaus.de"
+      ],
       "HSH Nordbank": [
         "www.hsh-nordbank.de"
+      ],
+      "HSH Nordbank Germany": [
+        "www.hsh-nordbank.com"
+      ],
+      "Handelsbanken Germany": [
+        "www.handelsbanken.de"
+      ],
+      "Hanseatic Bank Germany": [
+        "www.hanseaticbank.de"
       ],
       "Hanseatischer Sparkassen- und Giroverband": [
         "www.hsgv.de"
@@ -1600,8 +3739,26 @@
       "Helaba": [
         "www.helaba.com"
       ],
+      "Helaba Landesbank Hessen-Thüringen Germany": [
+        "www.helaba.com"
+      ],
+      "HypoVereinsbank": [
+        "www.hypovereinsbank.de"
+      ],
       "Hypothekenbank": [
         "www.muenchenerhyp.de"
+      ],
+      "Hypothekenbank Frankfurt": [
+        "www.hypothekenbankfrankfurt.com"
+      ],
+      "IKB Deutsche Industriebank": [
+        "www.ikb.de"
+      ],
+      "ING Group Germany": [
+        "www.ing.de"
+      ],
+      "JP Morgan Germany": [
+        "www.jpmorgan.com"
       ],
       "KfW": [
         "www.kfw.de"
@@ -1612,11 +3769,41 @@
       "Landesbank Berlin": [
         "www.lbb.de"
       ],
+      "Landesbank Berlin Holding": [
+        "www.lbb.de"
+      ],
       "Landwirtschaftliche": [
         "www.rentenbank.de"
       ],
+      "Landwirtschaftliche Rentenbank": [
+        "www.rentenbank.de"
+      ],
+      "Lazard Germany": [
+        "www.lazard.com"
+      ],
+      "Lloyds TSB Germany": [
+        "www.lloydsbankcommercial.com"
+      ],
+      "Merrill Lynch Germany": [
+        "www.ml.com"
+      ],
+      "Metzler Bank": [
+        "www.metzler.com"
+      ],
+      "Mizuho Bank Germany": [
+        "www.mizuhobank.com"
+      ],
+      "Morgan Stanley Germany": [
+        "www.morganstanley.com"
+      ],
+      "NRW Bank Germany": [
+        "www.nrwbank.com"
+      ],
       "NRW.Bank": [
         "www.nrwbank.de"
+      ],
+      "Nord LB Germany": [
+        "www.nordlb.com"
       ],
       "Nord/LB": [
         "www.nordlb.com"
@@ -1624,8 +3811,23 @@
       "Ostdeutscher Sparkassenverband": [
         "www.osv-online.de"
       ],
+      "Portigon Germany": [
+        "www.portigon.com"
+      ],
+      "Raiffeisenbank Südhardt": [
+        "www.raiba-suedhardt.de"
+      ],
+      "ReiseBank": [
+        "www.reisebank.de"
+      ],
       "Rheinischer Sparkassen- und Giroverband": [
         "www.rsgv.de"
+      ],
+      "Rothschild Investment Bank Germany": [
+        "www.rothschild.com"
+      ],
+      "Royal Bank of Scotland Germany": [
+        "www.bankofscotland.de"
       ],
       "Sparkassen- und Giroverband Hessen-Thüringen": [
         "www.sparkassen-finanzgruppe-ht.de"
@@ -1656,8 +3858,32 @@
       "Sparkassenverband Westfalen-Lippe": [
         "www.wlsgv.de"
       ],
+      "State Bank of India Germany": [
+        "www.statebank-frankfurt.com"
+      ],
+      "Sumitomo Mitsui Financial Group Germany": [
+        "www.smbc.co.jp"
+      ],
+      "The Bank of Tokyo-Mitsubishi UFJ Germany": [
+        "www.bk.mufg.jp"
+      ],
+      "UBS Germany": [
+        "www.ubs.com"
+      ],
+      "UniCredit Germany": [
+        "www.unicreditgroup.eu"
+      ],
       "Verband der Deutschen Freien Öffentlichen Sparkassen": [
         "www.verband-freier-sparkassen.de"
+      ],
+      "Vontobel Deutschland": [
+        "www.vontobel.com"
+      ],
+      "WGZ Bank Germany": [
+        "www.wgzbank.de"
+      ],
+      "Westdeutsche ImmobilienBank": [
+        "www.westimmo.com"
       ],
       "Wirecard": [
         "www.wirecardbank.com"
@@ -1673,15 +3899,26 @@
         "www.jsafrasarasin.com",
         "www.jsafrasarasin.com.gi"
       ],
+      "Bank Jacob Safra Gibraltar": [
+        "www.jsafrasarasin.com.gi"
+      ],
+      "Barclays Bank Gibraltar": [
+        "bit.ly"
+      ],
       "Credit Suisse (Gibraltar)": [
+        "www.credit-suisse.com"
+      ],
+      "Credit Suisse Gibraltar": [
         "www.credit-suisse.com"
       ],
       "EFG Bank (Gibraltar)": [
         "www.efgbank.com"
       ],
+      "EFG Bank Gibraltar": [
+        "www.efgbank.com"
+      ],
       "Gibraltar International Bank": [
-        "www.gibintbank.gi",
-        "services2.pbgate.net"
+        "www.gibintbank.gi"
       ],
       "Gibraltar Savings Bank": [
         "www.gibraltarbanknj.com"
@@ -1693,6 +3930,9 @@
         "jyskebank.com",
         "online.pbgate.net"
       ],
+      "Jyske Bank Gibraltar": [
+        "bit.ly"
+      ],
       "Leeds Building Society": [
         "www.leedsbuildingsociety.co.uk"
       ],
@@ -1703,8 +3943,14 @@
         "www.lombardodier.com",
         "mylo.lombardodier.com"
       ],
+      "Lombard Odier Darier Hentsch Private Bank Gibraltar": [
+        "www.lombardodier.com"
+      ],
       "NatWest Offshore Limited": [
         "natwestinternational.com"
+      ],
+      "NatWest Offshore Limited Gibraltar": [
+        "www.natwestinternational.com"
       ],
       "Newcastle Building Society": [
         "www.newcastle.gi",
@@ -1717,31 +3963,155 @@
       "SG Hambros Bank (Gibraltar)": [
         "www.privatebanking.societegenerale.co.uk"
       ],
+      "Turicum Private Bank": [
+        "www.turicum.com"
+      ],
       "Turicum Private Bank Limited": [
         "www.turicum.com"
       ]
     },
     "Greece": {
+      "Aegean Baltic Bank": [
+        "aegeanbalticbank.com"
+      ],
+      "Alpha Bank Greece": [
+        "www.alpha.gr"
+      ],
+      "Attica Bank": [
+        "www.atticabank.gr"
+      ],
+      "BNP Paribas Securities Services Greece": [
+        "securities.bnpparibas.com"
+      ],
+      "Bank Saderat Iran Greece": [
+        "saderat.gr"
+      ],
+      "Bank of America Greece": [
+        "www.bankofamerica.com"
+      ],
+      "Bank of Cyprus Greece": [
+        "www.bankofcyprus.com"
+      ],
       "Bank of Greece": [
         "www.bankofgreece.gr"
+      ],
+      "Co-operative Bank of Chania": [
+        "www.chaniabank.gr"
+      ],
+      "Co-operative Bank of Drama": [
+        "www.dramabank.gr"
+      ],
+      "Co-operative Bank of Epirus": [
+        "www.epirusbank.com"
+      ],
+      "Co-operative Bank of Evros": [
+        "evrosbank.gr"
+      ],
+      "Co-operative Bank of Karditsa": [
+        "www.bankofkarditsa.gr"
+      ],
+      "Co-operative Bank of Pieria - Olympic Credit": [
+        "www.pieriabank.gr"
+      ],
+      "Co-operative Bank of Serres": [
+        "www.syntraser.gr"
+      ],
+      "Credicom Consumer Finance Bank": [
+        "www.credicom.gr"
+      ],
+      "Credit Suisse Greece": [
+        "www.credit-suisse.com"
+      ],
+      "Deutsche Bank Greece": [
+        "www.db.com"
+      ],
+      "Eurobank Ergasias": [
+        "www.eurobank.gr"
+      ],
+      "FCA Bank Hellas": [
+        "www.fcabank.gr"
+      ],
+      "Fimbank Greece": [
+        "www.fimbank.com"
+      ],
+      "HSBC Bank Greece": [
+        "www.hsbc.gr"
+      ],
+      "HSH Nordbank Greece": [
+        "www.hsh-nordbank.com"
+      ],
+      "Investment Bank of Greece": [
+        "www.ibg.gr"
+      ],
+      "KEDR Open Joint-Stock Company Commercial Bank": [
+        "www.kedr.gr"
+      ],
+      "National Bank of Greece": [
+        "www.nbg.gr"
+      ],
+      "Pancretan Co-operative Bank": [
+        "www.pancretabank.gr"
+      ],
+      "Piraeus Bank": [
+        "www.piraeusbank.gr"
+      ],
+      "ProCredit Bank Greece": [
+        "procreditbank.gr"
+      ],
+      "T.C. Ziraat Bankasi Greece": [
+        "www.ziraatbank.com.gr"
+      ],
+      "The Royal Bank of Scotland Greece": [
+        "cib.rbs.com"
+      ],
+      "UniCredit Bank Greece": [
+        "www.unicredit.gr"
+      ],
+      "Unión de Créditos Inmobiliarios Greece": [
+        "www.uci.gr"
       ]
     },
-    "Grenada": {},
+    "Grenada": {
+      "FirstCaribbean International Bank Grenada": [
+        "www.cibc.com"
+      ],
+      "Grenada Co-operative Bank": [
+        "www.grenadaco-opbank.com"
+      ],
+      "Republic Bank Grenada": [
+        "www.republicgrenada.com"
+      ],
+      "Scotiabank Grenada": [
+        "www.scotiabank.com"
+      ]
+    },
     "Guatemala": {
-      "Bank of Guatemala": [
-        "www.banguat.gob.gt"
+      "Azteca Bank": [
+        "www.bancoazteca.com.gt"
+      ],
+      "BAC Bank Guatemala": [
+        "www.bac.net"
       ],
       "Banco Agromercantil de Guatemala": [
         "www.bam.com.gt"
       ],
-      "Azteca Bank": [
-        "www.bancoazteca.com.gt"
+      "Banco Industrial Guatemala": [
+        "www.bi.com.gt"
+      ],
+      "Banco Inmobiliario Guatemala": [
+        "www.bancoinmobiliario.com.gt"
       ],
       "Bank of Antigua": [
         "www.bantigua.com.gt"
       ],
-      "BAC Bank Guatemala": [
-        "www.bac.net"
+      "Bank of Guatemala": [
+        "www.banguat.gob.gt"
+      ],
+      "Banrural Guatemala": [
+        "www.banrural.com.gt"
+      ],
+      "Bantrab Bank": [
+        "www.bantrab.com.gt"
       ],
       "Citi Bank Guatemala": [
         "www.citibank.com.gt"
@@ -1749,20 +4119,8 @@
       "Credito Hipotecario Bank Guatemala": [
         "www.chn.com.gt"
       ],
-      "Bantrab Bank": [
-        "www.bantrab.com.gt"
-      ],
       "GT Continental Bank": [
         "www.gytcontinental.com.gt"
-      ],
-      "Banrural Guatemala": [
-        "www.banrural.com.gt"
-      ],
-      "Banco Industrial Guatemala": [
-        "www.bi.com.gt"
-      ],
-      "Banco Inmobiliario Guatemala": [
-        "www.bancoinmobiliario.com.gt"
       ]
     },
     "Guinea": {
@@ -1786,8 +4144,26 @@
       ]
     },
     "Guyana": {
+      "Bank of Baroda Guyana": [
+        "www.bankofbaroda.gy"
+      ],
       "Bank of Guyana": [
         "www.bankofguyana.org.gy"
+      ],
+      "Bank of Nova Scotia Guyana": [
+        "www.scotiabank.com"
+      ],
+      "Citizens Bank Guyana": [
+        "www.citizensbankgy.com"
+      ],
+      "Demerara Bank": [
+        "www.demerarabank.com"
+      ],
+      "Guyana Bank for Trade and Industry": [
+        "www.gbtibank.com"
+      ],
+      "Republic Bank Guyana": [
+        "www.republicguyana.com"
       ]
     },
     "Haiti": {
@@ -1796,14 +4172,14 @@
       ]
     },
     "Honduras": {
-      "Banco Central de Honduras": [
-        "www.bch.hn"
-      ],
       "BAC Bank Honduras": [
         "www.bac.net"
       ],
       "Banco Atlantida Honduras": [
         "www.bancatlan.hn"
+      ],
+      "Banco Central de Honduras": [
+        "www.bch.hn"
       ],
       "Banco Ficensa Honduras": [
         "www.ficensa.com"
@@ -2053,7 +4429,11 @@
         "ke.kcbbankgroup.com"
       ]
     },
-    "Kiribati": {},
+    "Kiribati": {
+      "ANZ Kiribati": [
+        "www.anz.com"
+      ]
+    },
     "Korea north": {},
     "Korea south": {},
     "Korea, Republic of": {
@@ -2191,29 +4571,130 @@
         "www.amcm.gov.mo"
       ]
     },
-    "Macedonia": {},
-    "Macedonia, the Former Yugoslav Republic of": {
+    "Macedonia": {
+      "Alpha Bank AD Skopje": [
+        "www.alphabank.com.mk"
+      ],
+      "Bank Austria Creditanstalt Macedonia": [
+        "www.bankaustria.at"
+      ],
+      "Centralna Kooperativna Banka AD Skopje": [
+        "www.ccbank.mk"
+      ],
+      "Eurostandard Bank AD Skopje": [
+        "www.eurostandard.com.mk"
+      ],
+      "FULM stedilnica d.o.o. Macedonia": [
+        "www.fulm.com.mk"
+      ],
+      "Halkbank AD Skopje": [
+        "www.halkbank.mk"
+      ],
+      "Kapital Banka AD Skopje": [
+        "www.capitalbank.com.mk"
+      ],
+      "Komercijalna Banka AD Skopje": [
+        "www.kb.com.mk"
+      ],
+      "Macedonian Bank for Development Promotion": [
+        "www.mbdp.com.mk"
+      ],
+      "NLB Tutunska banka AD Macedonia": [
+        "www.nlbtb.com.mk"
+      ],
+      "National Bank of Macedonia": [
+        "www.nbrm.mk"
+      ],
       "National Bank of the Republic of Macedonia": [
         "www.nbrm.mk"
+      ],
+      "Ohridska Banka": [
+        "www.ohridskabanka.mk"
+      ],
+      "Poštenska Banka": [
+        "www.postbank.com.mk"
+      ],
+      "Procredit Bank Macedonia": [
+        "www.procreditbank.com.mk"
+      ],
+      "Sparkasse Bank Macedonia": [
+        "www.sparkasse.mk"
+      ],
+      "Stopanska Banka ": [
+        "www.stb.com.mk"
+      ],
+      "TTK Banka": [
+        "www.ttk.com.mk"
+      ],
+      "Univerzalna Investiciona Banka Macedonia": [
+        "www.unibank.com.mk"
       ]
     },
     "Madagascar": {
+      "AccèsBanque Madagascar": [
+        "www.accessholding.com"
+      ],
+      "BFV-Société Générale Madagascar": [
+        "www.bfvsg.mg"
+      ],
+      "BGFI Bank Madagascar": [
+        "madagascar.bgfi.com"
+      ],
+      "Bank of Africa Madagascar": [
+        "www.boa.mg"
+      ],
+      "Banque Centrale de Madagascar": [
+        "www.banque-centrale.mg"
+      ],
+      "Banque Malgache de L’Ocean Indien": [
+        "www.bmoinet.net"
+      ],
       "Central Bank of Madagascar": [
         "www.banque-centrale.mg"
+      ],
+      "Mauritius Commercial Bank Madagascar": [
+        "www.mcbmadagascar.com"
+      ],
+      "State Bank of Mauritius Madagascar ": [
+        "www.sbmgroup.mu"
       ]
     },
     "Malawi": {
+      "CDH Investment Bank Malawi": [
+        "www.cdh-malawi.com"
+      ],
+      "FDH Bank Malawi": [
+        "www.fdh.co.mw"
+      ],
+      "First Merchant Bank Malawi": [
+        "www.fmbmalawi.com"
+      ],
+      "Indebank Malawi": [
+        "www.indebank.com"
+      ],
+      "Malawi Savings Bank": [
+        "msb.mw"
+      ],
+      "NBS Bank Malawi": [
+        "www.nbs.mw"
+      ],
+      "National Bank of Malawi": [
+        "www.natbank.co.mw"
+      ],
+      "Nedbank Malawi": [
+        "www.nedbank.co.mw"
+      ],
+      "Opportunity International Bank Malawi": [
+        "www.oibm.mw"
+      ],
       "Reserve Bank of Malawi": [
         "www.rbm.mw"
+      ],
+      "Standard Bank Malawi": [
+        "www.standardbank.co.mw"
       ]
     },
     "Malaysia": {
-      "Central Bank of Malaysia": [
-        "www.bnm.gov.my"
-      ],
-      "Maybank": [
-        "www.maybank2u.com.my"
-      ],
       "Affin Bank Berhad": [
         "www.affinbank.com.my"
       ],
@@ -2241,6 +4722,9 @@
       "CIMB Bank Malaysia": [
         "www.cimbbank.com.my"
       ],
+      "Central Bank of Malaysia": [
+        "www.bnm.gov.my"
+      ],
       "Citibank Malaysia": [
         "www.citibank.com.my"
       ],
@@ -2264,6 +4748,9 @@
       ],
       "Malayan Banking Berhad": [
         "www.maybank.com"
+      ],
+      "Maybank": [
+        "www.maybank2u.com.my"
       ],
       "Mizuho Bank Malaysia Berhad": [
         "www.mizuhobank.com"
@@ -2297,64 +4784,64 @@
       ]
     },
     "Maldives": {
-      "Maldives Monetary Authority": [
-        "www.mma.gov.mv"
-      ],
-      "State Bank of India Maldives": [
-        "sbimaldives.com"
-      ],
-      "Habib Bank Maldives": [
-        "globalhbl.com"
-      ],
       "Bank of Ceylon Maldives": [
         "web.boc.lk"
       ],
       "HSBC Maldives": [
         "www.maldives.hsbc.com"
       ],
-      "The Mauritius Commercial Bank Maldives": [
-        "www.mcbmaldives.com"
+      "Habib Bank Maldives": [
+        "globalhbl.com"
       ],
       "Maldives Islamic Bank": [
         "www.mib.com.mv"
+      ],
+      "Maldives Monetary Authority": [
+        "www.mma.gov.mv"
+      ],
+      "State Bank of India Maldives": [
+        "sbimaldives.com"
+      ],
+      "The Mauritius Commercial Bank Maldives": [
+        "www.mcbmaldives.com"
       ]
     },
     "Mali": {
-      "Central Bank of West African States (BCEAO)": [
-        "www.bceao.int"
-      ],
-      "Banque Internationale pour le Commerce et l'Industrie au Mali": [
-        "www.bicim.ml"
-      ],
-      "Banque Malienne de Solidarité": [
-        "www.bms-sa.org"
-      ],
       "Bank of Africa Mali": [
         "www.boamali.com"
       ],
       "Banque Atlantique Mali": [
         "banqueatlantique.net"
       ],
-      "Orabank Mali": [
-        "www.orabank.net"
-      ],
       "Banque Commerciale du Sahel": [
         "www.bcs-sa.com"
+      ],
+      "Banque Internationale pour le Commerce et l'Industrie au Mali": [
+        "www.bicim.ml"
       ],
       "Banque Internationale pour le Mali": [
         "www.bim.com.ml"
       ],
-      "Banque du Développement du Mali ": [
-        "www.bdm-sa.com"
+      "Banque Malienne de Solidarité": [
+        "www.bms-sa.org"
       ],
       "Banque Nationale de Développement Agricole Mali": [
         "www.bnda-mali.com"
       ],
+      "Banque Sahélo-Saharienne pour l'Investissement et le Commerce Mali": [
+        "www.bsicbank.com"
+      ],
+      "Banque du Développement du Mali ": [
+        "www.bdm-sa.com"
+      ],
+      "Central Bank of West African States (BCEAO)": [
+        "www.bceao.int"
+      ],
       "Ecobank Mali": [
         "www.ecobank.com"
       ],
-      "Banque Sahélo-Saharienne pour l'Investissement et le Commerce Mali": [
-        "www.bsicbank.com"
+      "Orabank Mali": [
+        "www.orabank.net"
       ]
     },
     "Malta": {
@@ -2439,21 +4926,47 @@
         "bomi.biz"
       ]
     },
+    "Martinique": {
+      "BNP Paribas Martinique": [
+        "bnpparibas.mq"
+      ],
+      "BRED Banque Populaire Martinique": [
+        "www.bred.fr"
+      ],
+      "Banque Française Commerciale Martinique": [
+        "www.bfc-ag.com"
+      ],
+      "Banque des Antilles Françaises Martinique": [
+        "www.bdaf.fr"
+      ],
+      "Caisse Régionale de Crédit Maritime d'Outre Mer Martinique": [
+        "www.creditmaritime-outremer.com"
+      ],
+      "Caisse d’Epargne Banque Postale Martinique": [
+        "www.labanquepostale.fr"
+      ],
+      "Crédit Agricole Martinique": [
+        "www.ca-martinique.fr"
+      ],
+      "Crédit Mutuel Martinique": [
+        "www.creditmutuel.fr"
+      ],
+      "Société Générale de Banque aux Antilles Martinique": [
+        "www.sgba.fr"
+      ]
+    },
     "Mauritania": {
       "BNP Paribas Mauritania": [
         "group.bnpparibas"
       ],
-      "Société Générale Mauritanie": [
-        "www.sgm.mr"
+      "Banque Al Wava Mauritanienne Islamique": [
+        "www.bamis.mr"
       ],
-      "Chinguitty Bank": [
-        "www.chbank.mr"
+      "Banque Centrale de Mauritanie": [
+        "www.bcm.mr"
       ],
       "Banque El Amana ": [
         "www.bea.mr"
-      ],
-      "Banque Al Wava Mauritanienne Islamique": [
-        "www.bamis.mr"
       ],
       "Banque Mauritanienne pour le Commerce International": [
         "www.bmci.mr"
@@ -2461,25 +4974,31 @@
       "Banque Nationale de Mauritanie": [
         "www.bnm.mr"
       ],
-      "Banque Centrale de Mauritanie": [
-        "www.bcm.mr"
+      "Chinguitty Bank": [
+        "www.chbank.mr"
+      ],
+      "Société Générale Mauritanie": [
+        "www.sgm.mr"
       ]
     },
     "Mauritius": {
-      "Bank of Mauritius": [
-        "www.bom.mu"
-      ],
       "ABC Banking Corporation Mauritius": [
         "www.abcbanking.mu"
       ],
       "AfrAsia Bank Mauritius": [
         "www.afrasiabank.com"
       ],
+      "Bank Internasional Indonesia Mauritius": [
+        "biimauritius.com"
+      ],
       "Bank One Mauritius": [
         "www.bankone.mu"
       ],
       "Bank of Baroda Mauritius": [
         "www.bankofbaroda-mu.com"
+      ],
+      "Bank of Mauritius": [
+        "www.bom.mu"
       ],
       "Banque des Mascareignes": [
         "www.banquedesmascareignes.mu"
@@ -2508,14 +5027,14 @@
       "Investec Bank Mauritius": [
         "www.investec.com"
       ],
+      "Mauritius Bank": [
+        "www.maubank.mu"
+      ],
       "Mauritius Commercial Bank": [
         "www.mcb.mu"
       ],
       "Mauritius Post and Cooperative Bank": [
         "www.maubank.mu"
-      ],
-      "Bank Internasional Indonesia Mauritius": [
-        "biimauritius.com"
       ],
       "SBI Mauritius": [
         "www.sbimauritius.com"
@@ -2528,44 +5047,41 @@
       ],
       "State Bank of Mauritius": [
         "www.sbmgroup.mu"
-      ],
-      "Mauritius Bank": [
-        "www.maubank.mu"
       ]
     },
     "Mexico": {
-      "Bank of Mexico": [
-        "www.banxico.org.mx"
+      "Actinver Mexico": [
+        "www.actinver.com"
       ],
-      "Banca Mifel": [
-        "www.mifel.com.mx"
+      "BBVA Bancomer Mexico": [
+        "www.bancomer.com"
       ],
-      "Banco Autofin Mexico": [
-        "www.bam.com.mx"
+      "Banamex Citibank": [
+        "www.banamex.com"
       ],
       "Banca Afirme Mexico": [
         "www.afirme.com.mx"
       ],
-      "Banco Multiva Mexico": [
-        "www.multiva.com.mx"
-      ],
-      "Bansi S.A. Mexico": [
-        "www.bansi.com.mx"
+      "Banca Mifel": [
+        "www.mifel.com.mx"
       ],
       "Banco Ahorro Famsa": [
         "www.banfamsa.com"
       ],
-      "Bancoppel": [
-        "www.bancoppel.com"
-      ],
-      "Banco Monex Mexico": [
-        "www.monex.com.mx"
+      "Banco Autofin Mexico": [
+        "www.bam.com.mx"
       ],
       "Banco Azteca Mexico": [
         "www.bancoazteca.com.mx"
       ],
-      "Banco del Bajio Mexico": [
-        "www.bb.com.mx"
+      "Banco BASE Mexico": [
+        "www.bancobase.com"
+      ],
+      "Banco Compartamos Mexico": [
+        "www.compartamos.com.mx"
+      ],
+      "Banco Facil Chedraui": [
+        "www.bfbancofacil.com.mx"
       ],
       "Banco Inbursa Mexico": [
         "www.bancoinbursa.com"
@@ -2576,38 +5092,17 @@
       "Banco Invex Mexico": [
         "www.invex.com"
       ],
-      "Banco Ve Por Mas": [
-        "www.vepormas.com.mx"
+      "Banco Monex Mexico": [
+        "www.monex.com.mx"
       ],
-      "Banorte Mexico": [
-        "www.banorte.com"
-      ],
-      "Banregio Mexico": [
-        "www.banregio.com"
-      ],
-      "Ixe Banco Mexico": [
-        "www.ixe.com.mx"
-      ],
-      "Banco Compartamos Mexico": [
-        "www.compartamos.com.mx"
-      ],
-      "Actinver Mexico": [
-        "www.actinver.com"
-      ],
-      "Banco Facil Chedraui": [
-        "www.bfbancofacil.com.mx"
-      ],
-      "Banco BASE Mexico": [
-        "www.bancobase.com"
-      ],
-      "BBVA Bancomer Mexico": [
-        "www.bancomer.com"
-      ],
-      "Banamex Citibank": [
-        "www.banamex.com"
+      "Banco Multiva Mexico": [
+        "www.multiva.com.mx"
       ],
       "Banco Santander Mexico": [
         "www.santander.com.mx"
+      ],
+      "Banco Ve Por Mas": [
+        "www.vepormas.com.mx"
       ],
       "Banco Volkswagen Mexico": [
         "www.vwb.com.mx"
@@ -2615,50 +5110,75 @@
       "Banco Wal-Mart de Mexico Adelante": [
         "www.bancowalmart.com"
       ],
-      "HSBC Mexico": [
-        "www.hsbc.com.mx"
-      ],
-      "Bank of Tokyo Mitsubishi UFJ Mexico": [
-        "cms.mx.bk.mufg.jp"
-      ],
-      "Scotiabank Inverlat Mexico": [
-        "www.scotiabankinverlat.com"
-      ],
-      "ING Bank Mexico": [
-        "www.ingcb.com"
-      ],
-      "UBS Bank Mexico": [
-        "www.ubs.com"
+      "Banco del Bajio Mexico": [
+        "www.bb.com.mx"
       ],
       "Bancomext Mexico": [
         "www.bancomext.com"
       ],
+      "Bancoppel": [
+        "www.bancoppel.com"
+      ],
       "Banjercito Mexico": [
         "www.banjercito.com.mx"
+      ],
+      "Bank of Mexico": [
+        "www.banxico.org.mx"
+      ],
+      "Bank of Tokyo Mitsubishi UFJ Mexico": [
+        "cms.mx.bk.mufg.jp"
       ],
       "Banobras Mexico": [
         "www.banobras.gob.mx"
       ],
+      "Banorte Mexico": [
+        "www.banorte.com"
+      ],
+      "Banregio Mexico": [
+        "www.banregio.com"
+      ],
       "Bansefi Mexico": [
         "www.bansefi.gob.mx"
       ],
+      "Bansi S.A. Mexico": [
+        "www.bansi.com.mx"
+      ],
       "Financiera Rural Mexico": [
         "www.financierarural.gob.mx"
+      ],
+      "HSBC Mexico": [
+        "www.hsbc.com.mx"
+      ],
+      "ING Bank Mexico": [
+        "www.ingcb.com"
+      ],
+      "Ixe Banco Mexico": [
+        "www.ixe.com.mx"
       ],
       "Nacional Financiera": [
         "www.nafin.com"
       ],
       "SHF Mexico": [
         "www.shf.gob.mx"
+      ],
+      "Scotiabank Inverlat Mexico": [
+        "www.scotiabankinverlat.com"
+      ],
+      "UBS Bank Mexico": [
+        "www.ubs.com"
       ]
     },
-    "Micronesia": {},
+    "Micronesia": {
+      "FSMDB": [
+        "www.fsmdb.fm"
+      ]
+    },
     "Moldova": {
-      "Banca Națională a Moldovei": [
-        "www.bnm.org"
-      ],
       "BCR Chișinău": [
         "www.bcr.md"
+      ],
+      "Banca Națională a Moldovei": [
+        "www.bnm.org"
       ],
       "Comerțbank": [
         "comertbank.md"
@@ -2697,20 +5217,20 @@
       ]
     },
     "Monaco": {
-      "Banque de Gestion Edmond de Rothschild Monaco": [
-        "www.edmond-de-rothschild.com"
-      ],
-      "Banque J. Safra Monaco": [
-        "www.jsafrasarasin.mc"
-      ],
-      "Banque Havilland Monaco": [
-        "www.banquehavilland.com"
-      ],
       "BNP Paribas Monaco": [
         "www.wealthmanagement.bnpparibas.mc"
       ],
       "BSI Monaco": [
         "www.bsibank.com"
+      ],
+      "Banque Havilland Monaco": [
+        "www.banquehavilland.com"
+      ],
+      "Banque J. Safra Monaco": [
+        "www.jsafrasarasin.mc"
+      ],
+      "Banque de Gestion Edmond de Rothschild Monaco": [
+        "www.edmond-de-rothschild.com"
       ],
       "Compagnie Monégasque de Banque": [
         "www.cmb.mc"
@@ -2718,11 +5238,11 @@
       "Credit Foncier de Monaco": [
         "www.ca-indosuez.com"
       ],
-      "Crédit Mobilier de Monaco": [
-        "www.creditmobilierdemonaco.com"
-      ],
       "Credit Suisse Monaco": [
         "www.credit-suisse.com"
+      ],
+      "Crédit Mobilier de Monaco": [
+        "www.creditmobilierdemonaco.com"
       ],
       "EFG Bank Monaco": [
         "www.efginternational.com"
@@ -2754,6 +5274,17 @@
     "Montenegro": {
       "Central Bank of Montenegro": [
         "www.cb-cg.org"
+      ]
+    },
+    "Montserrat": {
+      "Bank of Montserrat": [
+        "www.bankofmontserrat.ms"
+      ],
+      "ECCB Eastern Caribbean Central Bank": [
+        "www.eccb-centralbank.org"
+      ],
+      "Royal Bank of Canada Montserrat": [
+        "www.rbcroyalbank.com"
       ]
     },
     "Morocco": {
@@ -2856,9 +5387,15 @@
       ]
     },
     "New Zealand": {
+      "ANZ Bank New Zealand": [
+        "www.anz.co.nz"
+      ],
       "ASB": [
         "www.asb.co.nz",
         "online.asb.co.nz"
+      ],
+      "ASB Bank New Zealand": [
+        "www.asb.co.nz"
       ],
       "Australia and New Zealand Banking Group": [
         "anz.com",
@@ -2868,13 +5405,46 @@
       "BNZ": [
         "www.bnz.co.nz"
       ],
+      "Bank of Baroda New Zealand": [
+        "www.barodanzltd.co.nz"
+      ],
+      "Bank of India New Zealand": [
+        "www.bankofindia.co.nz"
+      ],
+      "Bank of New Zealand": [
+        "www.bnz.co.nz"
+      ],
+      "Citibank New Zealand": [
+        "www.citi.co.nz"
+      ],
+      "Commonwealth Bank of Australia New Zealand": [
+        "www.commbank.com.au"
+      ],
+      "Deutsche Bank New Zealand": [
+        "newzealand.db.com"
+      ],
+      "HSBC New Zealand": [
+        "www.hsbc.co.nz"
+      ],
       "Heartland": [
         "www.heartland.co.nz",
         "secure.heartland.co.nz"
       ],
+      "Industrial and Commercial Bank of China New Zealand": [
+        "www.icbcnz.com"
+      ],
+      "JPMorgan Chase Bank New Zealand": [
+        "www.jpmorgan.com"
+      ],
       "Kiwibank": [
         "www.kiwibank.co.nz",
         "www.ib.kiwibank.co.nz"
+      ],
+      "Kookmin Bank New Zealand": [
+        "omoney.kbstar.com"
+      ],
+      "Rabobank New Zealand": [
+        "www.rabobank.co.nz"
       ],
       "Reserve Bank of New Zealand": [
         "www.rbnz.govt.nz"
@@ -2884,9 +5454,18 @@
         "secure.sbsbank.co.nz",
         "ibank.sbsbank.co.nz"
       ],
+      "Southland Building Society NZ": [
+        "www.sbs.net.nz"
+      ],
       "TSB Bank": [
         "www.tsbbank.co.nz",
         "homebank.tsbbank.co.nz"
+      ],
+      "The Bank of Tokyo-Mitsubishi UFJ New Zealand": [
+        "www.bk.mufg.jp"
+      ],
+      "The Co-operative Bank Limited New Zealand": [
+        "www.co-operativebank.co.nz"
       ],
       "Westpac": [
         "www.westpac.co.nz",
@@ -2894,8 +5473,11 @@
       ]
     },
     "Nicaragua": {
-      "Central Bank of Nicaragua": [
-        "www.bcn.gob.ni"
+      "Banco Lafise Nicaragua": [
+        "www.lafise.com"
+      ],
+      "Banco Procredit Nicaragua": [
+        "www.procredit.com.ni"
       ],
       "Banco Produzcamos": [
         "www.bfp.com.ni"
@@ -2909,17 +5491,14 @@
       "Banco de la Producción Nicaragua": [
         "www.banpro.com.ni"
       ],
-      "Banco Lafise Nicaragua": [
-        "www.lafise.com"
+      "Caja Rural Nacional Nicaragua": [
+        "www.caruna.com.ni"
+      ],
+      "Central Bank of Nicaragua": [
+        "www.bcn.gob.ni"
       ],
       "Citibank Nicaragua": [
         "www.citibank.com.ni"
-      ],
-      "Banco Procredit Nicaragua": [
-        "www.procredit.com.ni"
-      ],
-      "Caja Rural Nacional Nicaragua": [
-        "www.caruna.com.ni"
       ],
       "Financiera FAMA Nicaragua": [
         "www.financierafama.com.ni"
@@ -2996,27 +5575,37 @@
         "www.ubldirect.com"
       ]
     },
-    "Palau": {},
+    "Palau": {
+      "Bank Pacific Palau": [
+        "www.bankpacific.com"
+      ],
+      "Bank of Guam Palau": [
+        "www.bankofguam.com"
+      ],
+      "Bank of Hawaii Palau": [
+        "www.boh.com"
+      ],
+      "National Development Bank of Palau": [
+        "www.ndbp.com"
+      ]
+    },
     "Palestine": {
       "Palestine Monetary Authority": [
         "www.pma.ps"
       ]
     },
     "Panama": {
-      "Banco Nacional de Panama": [
-        "www.banconal.com.pa"
-      ],
-      "MMG Bank": [
-        "www.mmgbank.com"
-      ],
-      "Caja de Ahorros": [
-        "www.cajadeahorros.com.pa"
+      "Austrobank Overseas Panama": [
+        "www.austrobank.com"
       ],
       "BAC International Bank Panama": [
         "www.bac.net"
       ],
-      "Banco Davivienda Panama": [
-        "www.davivienda.com.pa"
+      "BCT Bank International": [
+        "www.bctbank.com"
+      ],
+      "BICSA Panama": [
+        "www.bicsapan.com"
       ],
       "Banco Aliado": [
         "www.bancoaliado.com"
@@ -3033,26 +5622,23 @@
       "Banco Citibank Panama": [
         "www.citibank.com.pa"
       ],
+      "Banco Davivienda Panama": [
+        "www.davivienda.com.pa"
+      ],
       "Banco Delta": [
         "www.bandelta.com"
       ],
       "Banco G&T Continental": [
         "www.gytcontinental.com.pa"
       ],
-      "Banco de Bogotá Panama": [
-        "www.bancodebogotainternacional.com"
-      ],
-      "Banco Pichincha Panama": [
-        "www.pichinchapanama.com"
-      ],
       "Banco General Panama": [
         "www.bgeneral.com"
       ],
-      "BICSA Panama": [
-        "www.bicsapan.com"
-      ],
       "Banco Latinoamericano de Exportaciones Panama": [
         "www.bladex.com"
+      ],
+      "Banco Nacional de Panama": [
+        "www.banconal.com.pa"
       ],
       "Banco Panama": [
         "www.bancopanama.com.pa"
@@ -3060,11 +5646,20 @@
       "Banco Panameño de la Vivienda": [
         "www.banvivienda.com"
       ],
+      "Banco Pichincha Panama": [
+        "www.pichinchapanama.com"
+      ],
       "Banco Universal Panama": [
         "www.bancouniversal.com"
       ],
+      "Banco de Bogotá Panama": [
+        "www.bancodebogotainternacional.com"
+      ],
       "Banesco Panama": [
         "banesco.com.pa"
+      ],
+      "Banistmo": [
+        "www.banistmo.com"
       ],
       "Bank Leumi Panama": [
         "www.leumi.com.pa"
@@ -3072,8 +5667,8 @@
       "Bank of China Panama": [
         "www.boc.cn"
       ],
-      "BCT Bank International": [
-        "www.bctbank.com"
+      "Caja de Ahorros": [
+        "www.cajadeahorros.com.pa"
       ],
       "Capital Bank Panama": [
         "www.capitalbank.com.pa"
@@ -3084,8 +5679,8 @@
       "Global Bank Corporation": [
         "www.globalbank.com.pa"
       ],
-      "Banistmo": [
-        "www.banistmo.com"
+      "MMG Bank": [
+        "www.mmgbank.com"
       ],
       "Mega International Commercial Bank Panama": [
         "www.megabank.com.tw"
@@ -3110,14 +5705,23 @@
       ],
       "Towerbank International": [
         "www.towerbank.com"
-      ],
-      "Austrobank Overseas Panama": [
-        "www.austrobank.com"
       ]
     },
     "Papua New Guinea": {
+      "ANZ Papua New Guinea": [
+        "www.anz.com"
+      ],
+      "Asian Development Bank Papua New Guinea": [
+        "www.adb.org"
+      ],
+      "Bank South Pacific Papua New Guinea": [
+        "www.bsp.com.pg"
+      ],
       "Bank of Papua New Guinea": [
         "www.bankpng.gov.pg"
+      ],
+      "Westpac Papua New Guinea": [
+        "www.westpac.com.pg"
       ]
     },
     "Paraguay": {
@@ -3126,27 +5730,390 @@
       ]
     },
     "Peru": {
-      "Central Reserve Bank of Peru": [
+      "Agrobanco Peru": [
+        "www.agrobanco.com.pe"
+      ],
+      "BBVA Continental Peru": [
+        "www.bbvacontinental.pe"
+      ],
+      "Banco Azteca Peru": [
+        "www.bancoazteca.com.pe"
+      ],
+      "Banco Central de Reserva del Perú": [
         "www.bcrp.gob.pe"
+      ],
+      "Banco Falabella Peru": [
+        "www.bancofalabella.pe"
+      ],
+      "Banco Financiero Peru": [
+        "www.financiero.com.pe"
+      ],
+      "Banco GNB Peru": [
+        "www.bancognb.com.pe"
+      ],
+      "Banco Interamericano de Finanzas Peru": [
+        "www.banbif.com.pe"
+      ],
+      "Banco Ripley Peru": [
+        "www.bancoripley.com.pe"
+      ],
+      "Banco Santander Perú": [
+        "www.santander.com.pe"
+      ],
+      "Banco de Comercio Peru": [
+        "www.bancomercio.com.pe"
+      ],
+      "Banco de Credito del Peru": [
+        "www.viabcp.com"
+      ],
+      "Citibank Peru": [
+        "www.citibank.com.pe"
+      ],
+      "Deutsche Bank Peru": [
+        "www.db.com"
+      ],
+      "Interbank Peru": [
+        "www.interbank.com.pe"
+      ],
+      "MiBanco": [
+        "www.mibanco.com.pe"
+      ],
+      "Scotiabank Peru": [
+        "www.scotiabank.com.pe"
+      ],
+      "Standard Chartered Bank Peru": [
+        "www.sc.com"
       ]
     },
     "Philippines": {
+      "1st Valley Bank": [
+        "1stvalleybank.com"
+      ],
+      "ANZ Philippines": [
+        "www.anz.com"
+      ],
+      "Al-Amanah Islamic Investment Bank of the Philippines": [
+        "www.al-amanahbank.com"
+      ],
+      "Asia United Bank Philippines": [
+        "www.aub.com.ph"
+      ],
+      "BDO Unibank": [
+        "www.bdo.com.ph"
+      ],
+      "BPI Direct Savings Bank": [
+        "www.bpidirect.com"
+      ],
+      "BPI Globe BanKO": [
+        "www.banko.com.ph"
+      ],
+      "Bangkok Bank Philippines": [
+        "www.bangkokbank.com"
+      ],
+      "Bank of America Philippines": [
+        "www.bankofamerica.com"
+      ],
+      "Bank of China Philippines": [
+        "www.boc.cn"
+      ],
+      "Bank of Commerce Philippines": [
+        "www.bankcom.com.ph"
+      ],
+      "Bank of the Philippine Islands": [
+        "www.bpiexpressonline.com"
+      ],
+      "CTBC Bank Philippines": [
+        "www.ctbcbank.com.ph"
+      ],
+      "Camalig Bank": [
+        "www.camaligbank.com.ph"
+      ],
+      "Cantilan Bank": [
+        "www.cantilanbank.com"
+      ],
       "Central Bank of the Philippines (Bangko Sentral ng Pilipinas)": [
         "www.bsp.gov.ph"
+      ],
+      "China Bank Savings Philippines": [
+        "www.cbs.com.ph"
+      ],
+      "Citibank Philippines": [
+        "www.citibank.com.ph"
+      ],
+      "Citystate Savings Bank": [
+        "www1.citystate.com.ph"
+      ],
+      "Cooperative Bank of Benguet": [
+        "www.cbbenguet.com"
+      ],
+      "Cooperative Bank of Tarlac": [
+        "www.coopbank-tarlac.com"
+      ],
+      "Deutsche Bank Philippines": [
+        "www.db.com"
+      ],
+      "Development Bank of the Philippines": [
+        "www.devbnkphl.com"
+      ],
+      "EastWest Bank Philippines": [
+        "www.eastwestbanker.com"
+      ],
+      "EastWest Rural Bank": [
+        "www.eastwestruralbank.com"
+      ],
+      "Equicom Savings Bank": [
+        "www.equicomsavings.com"
+      ],
+      "First Consolidated Bank": [
+        "www.fcb.com.ph"
+      ],
+      "First Isabela Cooperative Bank": [
+        "www.ficobank.com"
+      ],
+      "Gateway Rural Bank": [
+        "gatewayrb.com"
+      ],
+      "HSBC Philippines": [
+        "www.hsbc.com.ph"
+      ],
+      "ING Philippines": [
+        "www.ingcb.com"
+      ],
+      "JPMorgan Chase Bank Philippines": [
+        "www.jpmorganchase.com"
+      ],
+      "Korea Exchange Bank Philippines": [
+        "www.keb.co.kr"
+      ],
+      "Land Bank of the Philippines": [
+        "www.landbank.com"
+      ],
+      "Lipa Bank": [
+        "www.lipabank.com"
+      ],
+      "Malayan Savings Bank": [
+        "www.malayanbank.com"
+      ],
+      "Maybank Philippines": [
+        "www.maybank.com.ph"
+      ],
+      "Mega International Commercial Bank Philippines": [
+        "www.megabank.com.tw"
+      ],
+      "Metropolitan Bank Philippines": [
+        "www.metrobank.com.ph"
+      ],
+      "Mizuho Bank Philippines": [
+        "www.mizuhobank.com"
+      ],
+      "Pangasinan Bank": [
+        "www.bangkopangasinan.biz"
+      ],
+      "Philippine Bank of Communications": [
+        "www.pbcom.com.ph"
+      ],
+      "Philippine Business Bank": [
+        "www.pbb.com.ph"
+      ],
+      "Philippine National Bank": [
+        "www.pnb.com.ph"
+      ],
+      "Philippine Postal Savings Bank": [
+        "postbank.gov.ph"
+      ],
+      "Philippine Resources Savings Banking Corporation": [
+        "prsavingsbank.com.ph"
+      ],
+      "Philippine Savings Bank": [
+        "www.psbank.com.ph"
+      ],
+      "Philippine Veterans Bank": [
+        "www.veteransbank.com.ph"
+      ],
+      "Philtrust Bank": [
+        "www.philtrustbank.com"
+      ],
+      "Planters Development Bank": [
+        "www.plantersbank.com.ph"
+      ],
+      "Producers Savings Bank": [
+        "www.producersbank.com.ph"
+      ],
+      "Quezon Capital Rural Bank": [
+        "www.qcrblive.com"
+      ],
+      "RCBC Savings Bank": [
+        "www.rcbcsavings.com"
+      ],
+      "Rizal Commercial Banking Corporation": [
+        "www.rcbc.com"
+      ],
+      "Robinsons Bank": [
+        "www.robinsonsbank.com.ph"
+      ],
+      "Rural Bank of Bayombong": [
+        "rbbayombong.com"
+      ],
+      "Rural Bank of Manolo Fortich": [
+        "manoloruralbank.com.ph"
+      ],
+      "Rural Bank of Pandi": [
+        "www.ruralbankofpandi.com"
+      ],
+      "Security Bank Philippines": [
+        "www.securitybank.com"
+      ],
+      "Standard Chartered Bank Philippines": [
+        "www.sc.com"
+      ],
+      "Sterling Bank of Asia Philippines": [
+        "www.sterlingbankasia.com"
+      ],
+      "The Bank of Tokyo-Mitsubishi UFJ Philippines": [
+        "www.bk.mufg.jp"
+      ],
+      "Tiaong Rural Bank": [
+        "www.trbi.com.ph"
+      ],
+      "Union Bank of the Philippines": [
+        "www.unionbankph.com"
+      ],
+      "United Coconut Planters Bank": [
+        "www.ucpb.com"
       ]
     },
     "Poland": {
+      "Alior Bank": [
+        "www.aliorbank.pl"
+      ],
+      "BNP Paribas Bank Polska": [
+        "www.bgzbnpparibas.pl"
+      ],
+      "BPH Bank Hipoteczny": [
+        "www.bph.pl"
+      ],
+      "BPI Bank Polskich Inwestycji": [
+        "www.bpibank.pl"
+      ],
+      "Banca Intesa Poland": [
+        "www.group.intesasanpaolo.com"
+      ],
+      "Banif Plus Bank Poland": [
+        "www.banifplus.pl"
+      ],
+      "Bank DnB NORD Polska": [
+        "www.dnb.pl"
+      ],
+      "Bank Gospodarstwa Krajowego": [
+        "www.bgk.pl"
+      ],
+      "Bank Millennium Polska": [
+        "www.bankmillennium.pl"
+      ],
+      "Bank Ochrony Srodowiska": [
+        "www.bosbank.pl"
+      ],
+      "Bank Pekao": [
+        "www.pekao.com.pl"
+      ],
+      "Bank Pocztowy": [
+        "www.pocztowy.pl"
+      ],
+      "Bank Polskiej Spóldzielczosci": [
+        "www.bankbps.pl"
+      ],
+      "Bank Svenska Handelsbanken Polska": [
+        "www.handelsbanken.pl"
+      ],
       "Bank Zachodni": [
         "www.bzwbk.pl"
+      ],
+      "Bank of Tokyo-Mitsubishi Polska": [
+        "www.pl.bk.mufg.jp"
+      ],
+      "Banque PSA Finance Polska": [
+        "www.banquepsafinance.com"
       ],
       "Citi Handlowy": [
         "www.citibank.pl"
       ],
-      "NBP": [
-        "www.nbp.pl"
+      "Credit Agricole Bank Polska": [
+        "www.credit-agricole.pl"
+      ],
+      "Danske Bank Polska": [
+        "danskebank.pl"
+      ],
+      "Deutsche Bank Polska": [
+        "www.deutschebank.pl"
+      ],
+      "Euro Bank Polska": [
+        "www.eurobank.pl"
+      ],
+      "FM Bank PBP Polska": [
+        "www.fmbankpbp.pl"
+      ],
+      "GETIN Bank": [
+        "www.getinbank.pl"
+      ],
+      "HSBC Bank Polska": [
+        "www.business.hsbc.pl"
+      ],
+      "ING Bank Śląski": [
+        "www.ingbank.pl"
+      ],
+      "JPMorgan Chase Bank Poland": [
+        "www.jpmorganchase.com"
+      ],
+      "Jyske Bank Polska": [
+        "jyskebank.com"
+      ],
+      "NOBLE Bank Polska": [
+        "noblebank.pl"
       ],
       "National Bank of Poland": [
         "www.nbp.pl"
+      ],
+      "Nykredit Realkredit Polska": [
+        "www.nykredit.pl"
+      ],
+      "PKO Bank Polski": [
+        "www.pkobp.pl"
+      ],
+      "RBS Bank Polska": [
+        "cib.rbs.com"
+      ],
+      "Raiffeisen Bank Polska": [
+        "raiffeisenpolbank.com"
+      ],
+      "SGB-Bank": [
+        "www.sgbbank.com.pl"
+      ],
+      "Santander Consumer Bank Polska": [
+        "www.santanderconsumer.pl"
+      ],
+      "Skandinaviska Enskilda Banken Polska": [
+        "sebgroup.com"
+      ],
+      "Societe Generale Polska": [
+        "pl.sgcib.com"
+      ],
+      "Sygma Bank Polska": [
+        "www.sygmabank.pl"
+      ],
+      "Toyota Bank Polska": [
+        "www.toyotabank.pl"
+      ],
+      "UBS Polska": [
+        "www.ubs.com"
+      ],
+      "Volskwagen Bank Polska": [
+        "www.vwbank.pl"
+      ],
+      "Westdeutsche ImmobilienBank Polska": [
+        "www.westimmo.com"
+      ],
+      "mBank Hipoteczny": [
+        "mhipoteczny.pl"
       ]
     },
     "Portugal": {
@@ -3167,14 +6134,50 @@
       ]
     },
     "Qatar": {
-      "Qatar Central Bank": [
-        "www.qcb.gov.qa"
+      "Ahli Bank Qatar": [
+        "www.ahlibank.com.qa"
       ],
-      "The Commercial Bank of Qatar": [
-        "www.cbq.qa"
+      "Al Khaliji Commercial Bank Qatar": [
+        "www.alkhaliji.com"
       ],
       "Arab Bank Qatar": [
         "www.arabbank.com.qa"
+      ],
+      "BNP Paribas Qatar": [
+        "mea.bnpparibas.com"
+      ],
+      "Bank Saderat Iran Qatar": [
+        "www.banksaderat.ae"
+      ],
+      "Barwa Bank Qatar": [
+        "www.barwabank.com"
+      ],
+      "Doha Bank": [
+        "www.dohabank.com.qa"
+      ],
+      "HSBC Qatar": [
+        "www.hsbc.com.qa"
+      ],
+      "International Bank of Qatar": [
+        "www.ibq.com.qa"
+      ],
+      "Mashreq Bank Qatar": [
+        "www.mashreqbank.com"
+      ],
+      "Masraf Al Rayan Qatar": [
+        "www.alrayan.com"
+      ],
+      "Qatar Central Bank": [
+        "www.qcb.gov.qa"
+      ],
+      "Qatar Development Bank": [
+        "www.qdb.qa"
+      ],
+      "Qatar International Islamic Bank": [
+        "www.qiib.com.qa"
+      ],
+      "Qatar Islamic Bank": [
+        "www.qib.com.qa"
       ],
       "Qatar National Bank": [
         "www.qnb.com.qa"
@@ -3182,71 +6185,47 @@
       "Standard Chartered Bank Qatar": [
         "www.sc.com"
       ],
-      "International Bank of Qatar": [
-        "www.ibq.com.qa"
+      "State Bank of India Qatar": [
+        "www.sbi.co.in"
       ],
-      "Masraf Al Rayan Qatar": [
-        "www.alrayan.com"
-      ],
-      "Qatar Islamic Bank": [
-        "www.qib.com.qa"
-      ],
-      "Qatar International Islamic Bank": [
-        "www.qiib.com.qa"
-      ],
-      "HSBC Qatar": [
-        "www.hsbc.com.qa"
-      ],
-      "Bank Saderat Iran Qatar": [
-        "www.banksaderat.ae"
+      "The Commercial Bank of Qatar": [
+        "www.cbq.qa"
       ],
       "United Bank Limited Qatar": [
         "www.ubldirect.com"
-      ],
-      "Qatar Development Bank": [
-        "www.qdb.qa"
-      ],
-      "Al Khaliji Commercial Bank Qatar": [
-        "www.alkhaliji.com"
-      ],
-      "Doha Bank": [
-        "www.dohabank.com.qa"
-      ],
-      "Mashreq Bank Qatar": [
-        "www.mashreqbank.com"
-      ],
-      "Ahli Bank Qatar": [
-        "www.ahlibank.com.qa"
-      ],
-      "BNP Paribas Qatar": [
-        "mea.bnpparibas.com"
-      ],
-      "Barwa Bank Qatar": [
-        "www.barwabank.com"
-      ],
-      "State Bank of India Qatar": [
-        "www.sbi.co.in"
       ]
     },
     "Republic of Korea": {},
     "Romania": {
-      "National Bank of Romania": [
-        "www.bnro.ro"
-      ],
       "Alpha Bank Romania": [
         "www.alphabank.ro"
       ],
-      "Banca Comercială Română": [
-        "www.bcr.ro"
+      "BNP Paribas Romania": [
+        "www.romania.bnpparibas.com"
+      ],
+      "BRD Romania": [
+        "www.brd.ro"
+      ],
+      "Banca Comerciala Feroviara": [
+        "www.bancaferoviara.ro"
       ],
       "Banca Comerciala Intesa Sanpaolo Romania": [
         "www.intesasanpaolobank.ro"
       ],
-      "OTP Bank Romania": [
-        "www.otpbank.ro"
+      "Banca Comercială Carpatica": [
+        "www.carpatica.ro"
+      ],
+      "Banca Comercială Română": [
+        "www.bcr.ro"
+      ],
+      "Banca Romana de Credite si Investitii": [
+        "www.brci.ro"
       ],
       "Banca Românească": [
         "www.banca-romaneasca.ro"
+      ],
+      "Banca Transilvania": [
+        "www.bancatransilvania.ro"
       ],
       "Bancpost Romania": [
         "www.bancpost.ro"
@@ -3254,23 +6233,47 @@
       "Bank Leumi Romania": [
         "www.leumi.ro"
       ],
-      "BRD Romania": [
-        "www.brd.ro"
+      "Bank of Cyprus Romania": [
+        "www.bankofcyprus.ro"
       ],
-      "Crédit Agricole Bank Romania": [
-        "credit-agricole.ro"
+      "Blom Bank France Romania": [
+        "www.blomfrance.com"
+      ],
+      "CEC Bank Romania": [
+        "www.cec.ro"
+      ],
+      "Citibank Romania": [
+        "www.citibank.ro"
       ],
       "Credit Europe Bank Romania": [
         "www.crediteurope.ro"
       ],
+      "Crédit Agricole Bank Romania": [
+        "credit-agricole.ro"
+      ],
+      "EximBank Romania": [
+        "www.eximbank.ro"
+      ],
       "Garanti Bank Romania": [
         "www.garantibank.ro"
+      ],
+      "ING Romania": [
+        "www.ing.ro"
+      ],
+      "Libra Internet Bank": [
+        "www.librabank.ro"
       ],
       "Marfin Bank Romania": [
         "www.marfinbank.ro"
       ],
+      "National Bank of Romania": [
+        "www.bnro.ro"
+      ],
       "Nextebank Romania": [
         "www.nextebank.ro"
+      ],
+      "OTP Bank Romania": [
+        "www.otpbank.ro"
       ],
       "Piraeus Bank Romania": [
         "www.piraeusbank.ro"
@@ -3281,56 +6284,20 @@
       "Raiffeisen Bank Romania": [
         "www.raiffeisen.ro"
       ],
-      "UniCredit Țiriac Bank": [
-        "www.unicredit.ro"
-      ],
-      "Volksbank Romania": [
-        "www.volksbank.ro"
-      ],
-      "Banca Comercială Carpatica": [
-        "www.carpatica.ro"
-      ],
-      "Banca Comerciala Feroviara": [
-        "www.bancaferoviara.ro"
-      ],
-      "Banca Romana de Credite si Investitii": [
-        "www.brci.ro"
-      ],
-      "Banca Transilvania": [
-        "www.bancatransilvania.ro"
-      ],
-      "CEC Bank Romania": [
-        "www.cec.ro"
-      ],
-      "Libra Internet Bank": [
-        "www.librabank.ro"
-      ],
-      "EximBank Romania": [
-        "www.eximbank.ro"
-      ],
-      "ING Romania": [
-        "www.ing.ro"
-      ],
-      "Veneto Banca Romania": [
-        "www.venetobanca.ro"
-      ],
-      "Bank of Cyprus Romania": [
-        "www.bankofcyprus.ro"
-      ],
-      "Blom Bank France Romania": [
-        "www.blomfrance.com"
-      ],
-      "BNP Paribas Romania": [
-        "www.romania.bnpparibas.com"
-      ],
-      "Citibank Romania": [
-        "www.citibank.ro"
-      ],
       "TBI Bank Romania": [
         "www.tbibank.ro"
       ],
       "The Royal Bank of Scotland Romania": [
         "www.rbs.ro"
+      ],
+      "UniCredit Țiriac Bank": [
+        "www.unicredit.ro"
+      ],
+      "Veneto Banca Romania": [
+        "www.venetobanca.ro"
+      ],
+      "Volksbank Romania": [
+        "www.volksbank.ro"
       ]
     },
     "Russia": {},
@@ -3352,34 +6319,46 @@
     "Saint Lucia": {},
     "Saint Vincent and the Grenadines": {},
     "Samoa": {
+      "ANZ Bank Samoa": [
+        "www.anz.com"
+      ],
+      "Bank of South Pacific Samoa": [
+        "www.bsp.com.ws"
+      ],
       "Central Bank of Samoa": [
         "www.cbs.gov.ws"
+      ],
+      "National Bank of Samoa": [
+        "www.nbs.ws"
+      ],
+      "Samoa Commercial Bank": [
+        "www.scbl.ws"
       ]
     },
     "San Marino": {
-      "Central Bank of the Republic of San Marino": [
-        "www.bcsm.sm"
-      ],
       "Asset Banca": [
         "www.ab.sm"
       ],
       "Banca Agricola Commerciale Istituto Bancario Sammarinese": [
         "www.bac.sm"
       ],
-      "Banca di San Marino": [
-        "www.bsm.sm"
-      ],
-      "Credito Industriale Sammarinese": [
-        "www.cis.sm"
+      "Banca Centrale della Repubblica di San Marino": [
+        "www.bcsm.sm"
       ],
       "Banca Sammarinese di Investimento": [
         "www.bsi.sm"
       ],
+      "Banca di San Marino": [
+        "www.bsm.sm"
+      ],
       "Cassa di Risparmio della Repubblica di San Marino ": [
         "www.carisp.sm"
       ],
-      "Banca Centrale della Repubblica di San Marino": [
+      "Central Bank of the Republic of San Marino": [
         "www.bcsm.sm"
+      ],
+      "Credito Industriale Sammarinese": [
+        "www.cis.sm"
       ]
     },
     "Saudi Arabia": {
@@ -3435,7 +6414,16 @@
       ]
     },
     "Solomon Islands": {
+      "ANZ Solomon Islands": [
+        "www.anz.com"
+      ],
+      "BSP Bank Solomon Islands": [
+        "www.bsp.com.sb"
+      ],
       "Central Bank of Solomon Islands": [
+        "www.cbsi.com.sb"
+      ],
+      "Credit Corporation Solomon Islands": [
         "www.cbsi.com.sb"
       ]
     },
@@ -3583,9 +6571,6 @@
       ]
     },
     "Tonga": {
-      "National Reserve Bank of Tonga": [
-        "www.reservebank.to"
-      ],
       "ANZ tonga": [
         "www.anz.com"
       ],
@@ -3595,16 +6580,19 @@
       "MBF Bank Tonga": [
         "mbfbank.to"
       ],
+      "National Reserve Bank of Tonga": [
+        "www.reservebank.to"
+      ],
       "Tonga Development Bank": [
         "www.tdb.to"
       ]
     },
     "Transnistria": {
-      "Trans-Dniester Republican Bank (TRB)": [
-        "www.cbpmr.net"
-      ],
       "Gazprombank (Transnistria)": [
         "www.gazprombank.ru"
+      ],
+      "Trans-Dniester Republican Bank (TRB)": [
+        "www.cbpmr.net"
       ]
     },
     "Trinidad and Tobago": {
@@ -3658,8 +6646,41 @@
       ]
     },
     "Ukraine": {
+      "APEKS-BANK": [
+        "www.apeksbank.com.ua"
+      ],
+      "Alfa-Bank Ukraine": [
+        "alfabank.com"
+      ],
+      "Arkada Bank": [
+        "arkada.ua"
+      ],
       "Austria Raiffeisen Bank Aval": [
         "aval.ua"
+      ],
+      "BTA Bank Ukraine": [
+        "btabank.ua"
+      ],
+      "Citibank Ukraine": [
+        "www.citigroup.com"
+      ],
+      "Credit Dnepr Bank": [
+        "www.creditdnepr.com.ua"
+      ],
+      "Credit Europe Bank Ukraine": [
+        "www.crediteurope.com.ua"
+      ],
+      "Creditwest Bank Ukraine": [
+        "www.creditwest.ua"
+      ],
+      "Crédit Agricole Ukraine": [
+        "credit-agricole.ua"
+      ],
+      "Deutsche Bank Ukraine": [
+        "www.db.com"
+      ],
+      "First Ukrainian International Bank": [
+        "pumb.ua"
       ],
       "France Crédit Agricole": [
         "credit-agricole.ua"
@@ -3671,11 +6692,56 @@
       "Hungary OTP Bank": [
         "otpbank.com.ua"
       ],
+      "ING Bank Ukraine": [
+        "www.ingukraine.com"
+      ],
+      "Idea Bank Ukraine": [
+        "www.ideabank.ua"
+      ],
       "Italy Ukrsotsbank": [
         "unicredit.ua"
       ],
+      "KredoBank Ukraine": [
+        "www.kredobank.com.ua"
+      ],
+      "Marfin Bank Ukraine": [
+        "marfinbank.ua"
+      ],
+      "Megabank Ukraine": [
+        "www.megabank.net"
+      ],
       "National Bank of Ukraine": [
         "www.bank.gov.ua"
+      ],
+      "OTP Bank Ukraine": [
+        "www.otpbank.com.ua"
+      ],
+      "Oschadbank": [
+        "www.oschadbank.ua"
+      ],
+      "Piraeus Bank Ukraine": [
+        "www.piraeusbank.ua"
+      ],
+      "Pivdennyi Bank Ukraine": [
+        "bank.com.ua"
+      ],
+      "Platinum Bank Ukraine": [
+        "en.platinumbank.com.ua"
+      ],
+      "Pravex Bank Ukraine": [
+        "www.pravex.com"
+      ],
+      "PrivatBank Ukraine": [
+        "privatbank.ua"
+      ],
+      "ProCredit Bank Ukraine": [
+        "en.procreditbank.com.ua"
+      ],
+      "Prominvestbank ": [
+        "www.pib.ua"
+      ],
+      "Raiffeisen Bank Aval": [
+        "aval.ua"
       ],
       "Russia Alfa-Bank Ukraine": [
         "alfabank.ua",
@@ -3693,6 +6759,12 @@
       "Russia VTB": [
         "vtb.ua",
         "online.vtb.ua"
+      ],
+      "Sberbank Ukraine": [
+        "ua.sberbank.ua"
+      ],
+      "UkrSibbank": [
+        "ukrsibbank.com"
       ],
       "Ukraine First Ukrainian International Bank": [
         "pumb.ua",
@@ -3713,235 +6785,31 @@
       "Ukraine Ukrgasbank": [
         "www.ukrgasbank.com"
       ],
-      "National Bank of Ukraine": [
-        "www.bank.gov.ua"
-      ],
-      "PrivatBank Ukraine": [
-        "privatbank.ua"
-      ],
-      "Oschadbank": [
-        "www.oschadbank.ua"
-      ],
       "Ukreximbank": [
         "www.eximb.com"
-      ],
-      "Sberbank Ukraine": [
-        "ua.sberbank.ua"
-      ],
-      "Raiffeisen Bank Aval": [
-        "aval.ua"
-      ],
-      "UniCredit Ukraine": [
-        "www.unicredit.ua"
       ],
       "Ukrgasbank": [
         "www.ukrgasbank.com"
       ],
-      "UkrSibbank": [
-        "ukrsibbank.com"
-      ],
-      "First Ukrainian International Bank": [
-        "pumb.ua"
-      ],
-      "Alfa-Bank Ukraine": [
-        "alfabank.com"
-      ],
-      "Prominvestbank ": [
-        "www.pib.ua"
-      ],
-      "Crédit Agricole Ukraine": [
-        "credit-agricole.ua"
-      ],
-      "VTB Bank Ukraine": [
-        "vtb.ua"
-      ],
-      "OTP Bank Ukraine": [
-        "www.otpbank.com.ua"
-      ],
-      "Pivdennyi Bank Ukraine": [
-        "bank.com.ua"
-      ],
-      "APEKS-BANK": [
-        "www.apeksbank.com.ua"
-      ],
-      "Arkada Bank": [
-        "arkada.ua"
-      ],
-      "BTA Bank Ukraine": [
-        "btabank.ua"
-      ],
-      "Citibank Ukraine": [
-        "www.citigroup.com"
-      ],
-      "Credit Dnepr Bank": [
-        "www.creditdnepr.com.ua"
-      ],
-      "Credit Europe Bank Ukraine": [
-        "www.crediteurope.com.ua"
-      ],
-      "Creditwest Bank Ukraine": [
-        "www.creditwest.ua"
-      ],
-      "Deutsche Bank Ukraine": [
-        "www.db.com"
-      ],
-      "Idea Bank Ukraine": [
-        "www.ideabank.ua"
-      ],
-      "ING Bank Ukraine": [
-        "www.ingukraine.com"
-      ],
-      "KredoBank Ukraine": [
-        "www.kredobank.com.ua"
-      ],
-      "Marfin Bank Ukraine": [
-        "marfinbank.ua"
-      ],
-      "Megabank Ukraine": [
-        "www.megabank.net"
-      ],
-      "Piraeus Bank Ukraine": [
-        "www.piraeusbank.ua"
-      ],
-      "Platinum Bank Ukraine": [
-        "en.platinumbank.com.ua"
-      ],
-      "Pravex Bank Ukraine": [
-        "www.pravex.com"
-      ],
-      "ProCredit Bank Ukraine": [
-        "en.procreditbank.com.ua"
+      "UniCredit Ukraine": [
+        "www.unicredit.ua"
       ],
       "Universal Bank Ukraine": [
         "www.universalbank.com.ua"
       ],
       "VS Bank Ukraine": [
         "www.vsbank.ua"
+      ],
+      "VTB Bank Ukraine": [
+        "vtb.ua"
       ]
     },
     "United Arab Emirates": {
-      "Central Bank of the United Arab Emirates": [
-        "www.centralbank.ae"
-      ],
       "Abu Dhabi Commercial Bank": [
         "www.adcb.com"
       ],
       "Abu Dhabi Islamic Bank": [
         "www.adib.ae"
-      ],
-      "Arab Emirates Investment Bank": [
-        "www.eibank.com"
-      ],
-      "Bank of Sharjah": [
-        "www.bankofsharjah.com"
-      ],
-      "Commercial Bank International UAE": [
-        "www.cbiuae.com"
-      ],
-      "Commercial Bank of Dubai": [
-        "www.cbd.ae"
-      ],
-      "Emirates Islamic Bank": [
-        "www.emiratesislamicbank.ae"
-      ],
-      "Dubai Islamic Bank": [
-        "www.dib.ae"
-      ],
-      "Emirates NBD": [
-        "www.emiratesnbd.com"
-      ],
-      "Finance House United Arab Emirates": [
-        "www.financehouse.ae"
-      ],
-      "First Gulf Bank UAE": [
-        "www.fgb.ae"
-      ],
-      "Invest Bank UAE": [
-        "www.investbank.ae"
-      ],
-      "Mashreq Bank UAE": [
-        "www.mashreqbank.com"
-      ],
-      "National Bank of Abu Dhabi": [
-        "www.nbad.com"
-      ],
-      "National Bank of Fujairah": [
-        "www.nbf.ae"
-      ],
-      "National Bank of Umm Al-Qaiwain": [
-        "www.nbq.ae"
-      ],
-      "Noor Bank UAE": [
-        "www.noorbank.com"
-      ],
-      "Rak Bank UAE": [
-        "rakbank.ae"
-      ],
-      "Union National Bank UAE": [
-        "www.unb.co.ae"
-      ],
-      "United Arab Bank UAE": [
-        "www.uab.ae"
-      ],
-      "BNP Paribas Dubai": [
-        "mea.bnpparibas.com"
-      ],
-      "Credit Suisse Dubai": [
-        "www.credit-suisse.com"
-      ],
-      "Habib Bank AG Zurich UAE": [
-        "www.habibbank.com"
-      ],
-      "Lloyds TSB Dubai": [
-        "international.lloydsbank.com"
-      ],
-      "HBL UAE": [
-        "www.hbl.com"
-      ],
-      "Royal Bank of Canada Dubai": [
-        "www.rbcwminternational.com"
-      ],
-      "Societe Generale Dubai": [
-        "www.privatebanking.societegenerale.ae"
-      ],
-      "UBS UAE": [
-        "www.ubs.com"
-      ],
-      "Arab Bank Dubai": [
-        "www.arabbank.ae"
-      ],
-      "Barclays UAE": [
-        "www.barclays.ae"
-      ],
-      "HSBC UAE": [
-        "www.hsbc.ae"
-      ],
-      "Standard Chartered UAE": [
-        "www.sc.com"
-      ],
-      "Citibank UAE": [
-        "www.citibank.com"
-      ],
-      "National Bank of Kuwait UAE": [
-        "www.nbk.com"
-      ],
-      "Samba Financial Group UAE": [
-        "dxb.samba.com"
-      ],
-      "Doha Bank UAE": [
-        "www.dohabank.ae"
-      ],
-      "United Bank UAE": [
-        "www.ubldirect.com"
-      ],
-      "The Royal Bank of Scotland UAE": [
-        "www.rbsbank.ae"
-      ],
-      "Bank Meli Iran UAE": [
-        "www.bmi.ae"
-      ],
-      "Bank Saderat Iran UAE": [
-        "www.banksaderat.ae"
       ],
       "Al Ahli Bank of Kuwait UAE": [
         "www.eahli.com"
@@ -3952,151 +6820,163 @@
       "Arab African International Bank UAE": [
         "www.aaib.com"
       ],
-      "Janata Bank UAE": [
-        "www.janatabank-bd.com"
+      "Arab Bank Dubai": [
+        "www.arabbank.ae"
+      ],
+      "Arab Emirates Investment Bank": [
+        "www.eibank.com"
+      ],
+      "BNP Paribas Dubai": [
+        "mea.bnpparibas.com"
+      ],
+      "Bank Meli Iran UAE": [
+        "www.bmi.ae"
+      ],
+      "Bank Saderat Iran UAE": [
+        "www.banksaderat.ae"
       ],
       "Bank of Baroda Dubai": [
         "www.bankofbarodauae.ae"
       ],
+      "Bank of Sharjah": [
+        "www.bankofsharjah.com"
+      ],
+      "Banque Misr Abu Dhabi": [
+        "www.banquemisr.com"
+      ],
+      "Barclays UAE": [
+        "www.barclays.ae"
+      ],
+      "Central Bank of the United Arab Emirates": [
+        "www.centralbank.ae"
+      ],
+      "Citibank UAE": [
+        "www.citibank.com"
+      ],
+      "Commercial Bank International UAE": [
+        "www.cbiuae.com"
+      ],
+      "Commercial Bank of Dubai": [
+        "www.cbd.ae"
+      ],
       "Credit Agricole UAE": [
         "www.ca-cib.com"
+      ],
+      "Credit Suisse Dubai": [
+        "www.credit-suisse.com"
+      ],
+      "Doha Bank UAE": [
+        "www.dohabank.ae"
+      ],
+      "Dubai Islamic Bank": [
+        "www.dib.ae"
+      ],
+      "Emirates Islamic Bank": [
+        "www.emiratesislamicbank.ae"
+      ],
+      "Emirates NBD": [
+        "www.emiratesnbd.com"
+      ],
+      "Finance House United Arab Emirates": [
+        "www.financehouse.ae"
+      ],
+      "First Gulf Bank UAE": [
+        "www.fgb.ae"
+      ],
+      "HBL UAE": [
+        "www.hbl.com"
+      ],
+      "HSBC UAE": [
+        "www.hsbc.ae"
+      ],
+      "Habib Bank AG Zurich UAE": [
+        "www.habibbank.com"
+      ],
+      "Invest Bank UAE": [
+        "www.investbank.ae"
+      ],
+      "Janata Bank UAE": [
+        "www.janatabank-bd.com"
+      ],
+      "Lloyds TSB Dubai": [
+        "international.lloydsbank.com"
+      ],
+      "Mashreq Bank UAE": [
+        "www.mashreqbank.com"
+      ],
+      "National Bank of Abu Dhabi": [
+        "www.nbad.com"
+      ],
+      "National Bank of Fujairah": [
+        "www.nbf.ae"
+      ],
+      "National Bank of Kuwait UAE": [
+        "www.nbk.com"
       ],
       "National Bank of Oman UAE": [
         "www.nbo.co.om"
       ],
-      "Banque Misr Abu Dhabi": [
-        "www.banquemisr.com"
+      "National Bank of Umm Al-Qaiwain": [
+        "www.nbq.ae"
+      ],
+      "Noor Bank UAE": [
+        "www.noorbank.com"
+      ],
+      "Rak Bank UAE": [
+        "rakbank.ae"
+      ],
+      "Royal Bank of Canada Dubai": [
+        "www.rbcwminternational.com"
+      ],
+      "Samba Financial Group UAE": [
+        "dxb.samba.com"
+      ],
+      "Societe Generale Dubai": [
+        "www.privatebanking.societegenerale.ae"
+      ],
+      "Standard Chartered UAE": [
+        "www.sc.com"
+      ],
+      "The Royal Bank of Scotland UAE": [
+        "www.rbsbank.ae"
+      ],
+      "UBS UAE": [
+        "www.ubs.com"
+      ],
+      "Union National Bank UAE": [
+        "www.unb.co.ae"
+      ],
+      "United Arab Bank UAE": [
+        "www.uab.ae"
+      ],
+      "United Bank UAE": [
+        "www.ubldirect.com"
       ]
     },
     "United Kingdom": {
+      "ABC International Bank United Kingdom": [
+        "www.arabbanking.com"
+      ],
       "ABN AMRO": [
         "www.abnamro.com"
+      ],
+      "ADIB UK": [
+        "adib.co.uk"
+      ],
+      "ANZ Bank United Kingdom": [
+        "www.anz.com"
       ],
       "Abu Dhabi Islamic Bank": [
         "adib.co.uk"
       ],
-      "Bank ABC": [
-        "www.bank-abc.com"
-      ],
-      "Bank of America": [
-        "www.bankofamerica.com"
-      ],
-      "Bank of England": [
-        "www.bankofengland.co.uk"
-      ],
-      "Bank of Ireland": [
-        "www.bankofireland.com",
-        "www.365online.com"
-      ],
-      "Bank of Scotland": [
-        "www.bankofscotland.co.uk",
-        "online.bankofscotland.co.uk"
-      ],
-      "Barclays": [
-        "www.home.barclays",
-        "bank.barclays.co.uk"
-      ],
-      "Clydesdale": [
-        "www.cbonline.co.uk",
-        "home2.cbonline.co.uk"
-      ],
-      "Co-operative": [
-        "www.co-operativebank.co.uk",
-        "bank.co-operativebank.co.uk",
-        "business.co-operativebank.co.uk"
-      ],
-      "Coutts & Company": [
-        "www.coutts.com",
-        "online.coutts.com"
-      ],
-      "Credit Suisse": [
-        "www.credit-suisse.com",
-        "uk-services.credit-suisse.com"
-      ],
-      "First direct": [
-        "firstdirect.com"
-      ],
-      "HSBC": [
-        "www.hsbc.co.uk"
-      ],
-      "Halifax": [
-        "www.halifax.co.uk"
-      ],
-      "Harrods": [
-        "www.harrodsbank.co.uk"
-      ],
-      "Lloyds": [
-        "www.lloydsbank.com",
-        "online.lloydsbank.co.uk",
-        "onlinebusiness.lloydsbank.co.uk"
-      ],
-      "Marks & Spencer": [
-        "bank.marksandspencer.com"
-      ],
-      "Metro Bank": [
-        "www.metrobankonline.co.uk",
-        "commercial.metrobankonline.co.uk",
-        "personal.metrobankonline.co.uk"
-      ],
-      "Morgan Stanley": [
-        "www.morganstanley.com",
-        "www.morganstanleyclientserv.com"
-      ],
-      "Natwest": [
-        "natwest.com",
-        "personal.natwest.com",
-        "www.nwolb.com"
-      ],
-      "Post Office": [
-        "www.postoffice.co.uk",
-        "www.postofficeonlineaccount.co.uk"
-      ],
-      "RBS": [
-        "www.rbs.com",
-        "personal.rbs.co.uk",
-        "www.rbsdigital.com"
-      ],
-      "Sainsburys": [
-        "www.sainsburysbank.co.uk"
-      ],
-      "Santander": [
-        "www.santander.co.uk",
-        "retail.santander.co.uk"
-      ],
-      "Scottish Widows Bank": [
-        "www.scottishwidows.co.uk",
-        "swbib.secure.scottishwidows.co.uk"
-      ],
-      "Standard chartered": [
-        "www.sc.com"
-      ],
-      "TSB Bank": [
-        "www.tsb.co.uk",
-        "online.tsb.co.uk"
-      ],
-      "Tesco": [
-        "www.tescobank.com"
-      ],
-      "Virgin": [
-        "uk.virginmoney.com"
-      ],
-      "ABC International Bank United Kingdom": [
-        "www.arabbanking.com"
-      ],
-      "The Access Bank UK Limited": [
-        "www.theaccessbankukltd.co.uk"
-      ],
-      "ADIB UK": [
-        "adib.co.uk"
+      "AfrAsia Bank UK": [
+        "www.afrasiabank.com"
       ],
       "Agricultural Bank of China UK": [
         "www.uk.abchina.com"
       ],
       "Ahli United Bank UK": [
         "www.ahliunited.com"
-      ],
-      "Allied Irish Bank GB": [
-        "www.aibgb.co.uk"
       ],
       "Airdrie Savings Bank": [
         "airdriesavingsbank.com"
@@ -4110,20 +6990,38 @@
       "Allied Bank Philippines UK": [
         "www.alliedbank.com.ph"
       ],
+      "Allied Irish Bank GB": [
+        "www.aibgb.co.uk"
+      ],
       "Alpha Bank London Limited": [
         "www.alpha.gr"
       ],
-      "ANZ Bank United Kingdom": [
-        "www.anz.com"
-      ],
       "Axis Bank UK": [
         "www.axisbank.com"
+      ],
+      "BIRA Bank UK": [
+        "www.birabank.co.uk"
+      ],
+      "BMCE Bank UK": [
+        "www.bmce-intl.co.uk"
+      ],
+      "Bank ABC": [
+        "www.bank-abc.com"
       ],
       "Bank Leumi UK": [
         "www.bankleumi.co.uk"
       ],
       "Bank Mandiri UK": [
         "www.bkmandiri.co.uk"
+      ],
+      "Bank Saderat UK": [
+        "www.saderat-plc.com"
+      ],
+      "Bank Sepah International UK": [
+        "www.banksepah.co.uk"
+      ],
+      "Bank of America": [
+        "www.bankofamerica.com"
       ],
       "Bank of America Merrill Lynch International UK": [
         "corp.bankofamerica.com"
@@ -4143,6 +7041,13 @@
       "Bank of Cyprus UK": [
         "www.bankofcyprus.co.uk"
       ],
+      "Bank of England": [
+        "www.bankofengland.co.uk"
+      ],
+      "Bank of Ireland": [
+        "www.bankofireland.com",
+        "www.365online.com"
+      ],
       "Bank of Ireland UK": [
         "www.bank-of-ireland.co.uk"
       ],
@@ -4152,26 +7057,22 @@
       "Bank of New York Mellon UK": [
         "www.bnymellon.com"
       ],
+      "Bank of Scotland": [
+        "www.bankofscotland.co.uk",
+        "online.bankofscotland.co.uk"
+      ],
       "Bank of Scotland UK": [
         "www.bankofscotland.co.uk"
       ],
       "Bank of the Philippine Islands UK": [
         "www.bpieuropeplc.com"
       ],
-      "Bank Saderat UK": [
-        "www.saderat-plc.com"
-      ],
-      "Bank Sepah International UK": [
-        "www.banksepah.co.uk"
+      "Barclays": [
+        "www.home.barclays",
+        "bank.barclays.co.uk"
       ],
       "Barclays Bank UK": [
         "www.barclays.co.uk"
-      ],
-      "BIRA Bank UK": [
-        "www.birabank.co.uk"
-      ],
-      "BMCE Bank UK": [
-        "www.bmce-intl.co.uk"
       ],
       "British Arab Commercial Bank": [
         "www.bacb.co.uk"
@@ -4185,14 +7086,17 @@
       "C Hoare and Co Bank": [
         "www.hoaresbank.co.uk"
       ],
+      "CIBC World Markets UK": [
+        "www.cibcwm.com"
+      ],
+      "CIT Bank Limited UK": [
+        "www.cit.com"
+      ],
       "Cambridge and Counties Bank Limited": [
         "www.ccbank.co.uk"
       ],
       "Cater Allen Private Bank": [
         "www.caterallen.co.uk"
-      ],
-      "The Charity Bank Limited": [
-        "www.charitybank.org"
       ],
       "China Construction Bank London": [
         "www.uk.ccb.com"
@@ -4200,26 +7104,34 @@
       "Church House Trust Private Bank": [
         "www.church-house-trust.co.uk"
       ],
-      "CIBC World Markets UK": [
-        "www.cibcwm.com"
-      ],
-      "CIT Bank Limited UK": [
-        "www.cit.com"
-      ],
       "Citibank UK": [
         "www.citibank.co.uk"
       ],
       "Close Brothers UK": [
         "www.closebrothers.com"
       ],
+      "Clydesdale": [
+        "www.cbonline.co.uk",
+        "home2.cbonline.co.uk"
+      ],
       "Clydesdale Bank UK": [
         "www.cbonline.co.uk"
       ],
-      "The Co-operative Bank UK": [
-        "www.co-operativebank.co.uk"
+      "Co-operative": [
+        "www.co-operativebank.co.uk",
+        "bank.co-operativebank.co.uk",
+        "business.co-operativebank.co.uk"
+      ],
+      "Coutts & Company": [
+        "www.coutts.com",
+        "online.coutts.com"
       ],
       "Coutts and Company UK": [
         "international.coutts.com"
+      ],
+      "Credit Suisse": [
+        "www.credit-suisse.com",
+        "uk-services.credit-suisse.com"
       ],
       "Credit Suisse UK": [
         "www.credit-suisse.com"
@@ -4251,11 +7163,14 @@
       "FCMB UK": [
         "www.fcmbuk.com"
       ],
-      "Gatehouse Bank UK": [
-        "www.gatehousebank.com"
+      "First direct": [
+        "firstdirect.com"
       ],
       "GE Capital Bank UK": [
         "www.gecapital.co.uk"
+      ],
+      "Gatehouse Bank UK": [
+        "www.gatehousebank.com"
       ],
       "Ghana International Bank UK": [
         "www.ghanabank.co.uk"
@@ -4269,20 +7184,29 @@
       "Gulf International Bank UK": [
         "www.gib.com"
       ],
+      "HSBC": [
+        "www.hsbc.co.uk"
+      ],
+      "HSBC Bank UK": [
+        "www.hsbc.co.uk"
+      ],
       "Habib Allied International Bank UK": [
         "www.habibbankuk.com"
       ],
       "Habibsons Bank Limited UK": [
         "www.habibsons.co.uk"
       ],
+      "Halifax": [
+        "www.halifax.co.uk"
+      ],
       "Hampshire Trust UK": [
         "www.htb.co.uk"
       ],
+      "Harrods": [
+        "www.harrodsbank.co.uk"
+      ],
       "Havin Bank UK": [
         "www.hib.uk.com"
-      ],
-      "HSBC Bank UK": [
-        "www.hsbc.co.uk"
       ],
       "ICBC London": [
         "www.icbclondon.com"
@@ -4317,11 +7241,19 @@
       "Kookmin Bank International UK": [
         "www.kbfg.com"
       ],
+      "Lloyds": [
+        "www.lloydsbank.com",
+        "online.lloydsbank.co.uk",
+        "onlinebusiness.lloydsbank.co.uk"
+      ],
       "Lloyds Bank": [
         "www.lloydsbank.com"
       ],
       "Macquarie Bank International UK": [
         "www.macquarie.co.uk"
+      ],
+      "Marks & Spencer": [
+        "bank.marksandspencer.com"
       ],
       "Marks and Spencer Financial Services UK": [
         "bank.marksandspencer.com"
@@ -4332,11 +7264,20 @@
       "Methodist Chapel Aid UK": [
         "www.methodistchapel.co.uk"
       ],
+      "Metro Bank": [
+        "www.metrobankonline.co.uk",
+        "commercial.metrobankonline.co.uk",
+        "personal.metrobankonline.co.uk"
+      ],
       "Metro Bank UK": [
         "www.metrobankonline.co.uk"
       ],
       "Mizuho International UK": [
         "uk.mizuho-sc.com"
+      ],
+      "Morgan Stanley": [
+        "www.morganstanley.com",
+        "www.morganstanleyclientserv.com"
       ],
       "Morgan Stanley Bank International UK": [
         "www.morganstanley.com"
@@ -4353,6 +7294,11 @@
       "National Westminster Bank": [
         "personal.natwest.com"
       ],
+      "Natwest": [
+        "natwest.com",
+        "personal.natwest.com",
+        "www.nwolb.com"
+      ],
       "Nomura Bank International UK": [
         "www.nomura.com"
       ],
@@ -4365,6 +7311,10 @@
       "Persia International Bank UK": [
         "www.persiabank.co.uk"
       ],
+      "Post Office": [
+        "www.postoffice.co.uk",
+        "www.postofficeonlineaccount.co.uk"
+      ],
       "Punjab National Bank UK": [
         "www.pnbint.com"
       ],
@@ -4374,11 +7324,16 @@
       "R. Raphael and Sons UK": [
         "www.raphaelsbank.com"
       ],
-      "Rathbone Investment Management UK": [
-        "www.rathbones.com"
-      ],
       "RBC UK": [
         "www.rbc.com"
+      ],
+      "RBS": [
+        "www.rbs.com",
+        "personal.rbs.co.uk",
+        "www.rbsdigital.com"
+      ],
+      "Rathbone Investment Management UK": [
+        "www.rathbones.com"
       ],
       "Reliance Bank UK": [
         "www.reliancebankltd.com"
@@ -4386,8 +7341,18 @@
       "Royal Bank of Scotland": [
         "www.rbs.com"
       ],
+      "SG Hambros Bank UK": [
+        "www.privatebanking.societegenerale.co.uk"
+      ],
+      "Sainsburys": [
+        "www.sainsburysbank.co.uk"
+      ],
       "Sainsbury’s Bank UK": [
         "www.sainsburysbank.co.uk"
+      ],
+      "Santander": [
+        "www.santander.co.uk",
+        "retail.santander.co.uk"
       ],
       "Santander UK": [
         "www.santander.co.uk"
@@ -4404,9 +7369,6 @@
       "Secure Trust Bank UK": [
         "www.securetrustbank.com"
       ],
-      "SG Hambros Bank UK": [
-        "www.privatebanking.societegenerale.co.uk"
-      ],
       "Shawbrook Bank UK": [
         "www.shawbrook.co.uk"
       ],
@@ -4422,6 +7384,9 @@
       "Standard Chartered Bank": [
         "www.sc.com"
       ],
+      "Standard chartered": [
+        "www.sc.com"
+      ],
       "State Street Bank UK": [
         "www.statestreet.com"
       ],
@@ -4431,11 +7396,27 @@
       "TD Bank Europe UK": [
         "www.td.com"
       ],
-      "Turkish Bank UK": [
-        "www.turkishbank.co.uk"
+      "TSB Bank": [
+        "www.tsb.co.uk",
+        "online.tsb.co.uk"
       ],
       "TSB Bank UK": [
         "www.tsb.co.uk"
+      ],
+      "Tesco": [
+        "www.tescobank.com"
+      ],
+      "The Access Bank UK Limited": [
+        "www.theaccessbankukltd.co.uk"
+      ],
+      "The Charity Bank Limited": [
+        "www.charitybank.org"
+      ],
+      "The Co-operative Bank UK": [
+        "www.co-operativebank.co.uk"
+      ],
+      "Turkish Bank UK": [
+        "www.turkishbank.co.uk"
       ],
       "UBS UK": [
         "www.ubs.com"
@@ -4443,11 +7424,11 @@
       "Ulster Bank UK": [
         "www.ulsterbank.co.uk"
       ],
-      "Union Bank of India UK": [
-        "www.unionbankofindiauk.co.uk"
-      ],
       "Union Bank UK": [
         "www.unionbankuk.com"
+      ],
+      "Union Bank of India UK": [
+        "www.unionbankofindiauk.co.uk"
       ],
       "United National Bank UK": [
         "www.ubluk.com"
@@ -4458,14 +7439,17 @@
       "Unity Trust Bank UK": [
         "www.unity.co.uk"
       ],
+      "VTB Capital UK": [
+        "www.vtbcapital.com"
+      ],
       "Vanquis Bank UK": [
         "www.vanquis.co.uk"
       ],
-      "Virgin Money UK": [
+      "Virgin": [
         "uk.virginmoney.com"
       ],
-      "VTB Capital UK": [
-        "www.vtbcapital.com"
+      "Virgin Money UK": [
+        "uk.virginmoney.com"
       ],
       "Weatherbys Bank Limited UK": [
         "www.weatherbysbank.com"
@@ -4478,9 +7462,6 @@
       ],
       "Zenith Bank UK": [
         "www.zenith-bank.co.uk"
-      ],
-      "AfrAsia Bank UK": [
-        "www.afrasiabank.com"
       ]
     },
     "United States": {
@@ -4502,8 +7483,29 @@
       "Apple creek bank": [
         "applecreekbank.com"
       ],
+      "Associated Bank United States": [
+        "www.associatedbank.com"
+      ],
+      "Astoria Federal Savings": [
+        "www.astoriafederal.com"
+      ],
+      "BB&T Bank": [
+        "www.bbt.com"
+      ],
+      "BBCN Bank": [
+        "www.bbcnbank.com"
+      ],
       "BNY Mellon": [
         "www.bnymellon.com"
+      ],
+      "BancFirst": [
+        "www.bancfirst.com"
+      ],
+      "Bancorp South": [
+        "www.bancorpsouth.com"
+      ],
+      "Bangkok Bank United States": [
+        "www.bangkokbank.com"
       ],
       "Bank United": [
         "www.bankunited.com"
@@ -4513,6 +7515,9 @@
       ],
       "Bank of Hawaii": [
         "www.boh.com"
+      ],
+      "Bank of New York Mellon": [
+        "www.bnymellon.com"
       ],
       "Bank of San Juans": [
         "www.banksanjuans.com"
@@ -4532,6 +7537,9 @@
       "Bank of the Cascades": [
         "www.botc.com"
       ],
+      "BankUnited": [
+        "www.bankunited.com"
+      ],
       "Banner Capital bank": [
         "www.bcbank.net"
       ],
@@ -4540,6 +7548,9 @@
       ],
       "Board of Governors of the Federal Reserve System": [
         "www.federalreserve.gov"
+      ],
+      "Boston Private Financial": [
+        "www.bostonprivate.com"
       ],
       "Bridgehampton national bank": [
         "www.bridgenb.com"
@@ -4550,17 +7561,56 @@
       "Busey": [
         "www.busey.com"
       ],
+      "Capital Bank Financial United States": [
+        "www.capitalbank-us.com"
+      ],
+      "Capitol Federal": [
+        "www.capfed.com"
+      ],
+      "Cathay Bank United States": [
+        "www.cathaybank.com"
+      ],
+      "Central Bancompany": [
+        "www.centralbancompany.com"
+      ],
       "Chase": [
         "www.chase.com"
       ],
       "Chemical bank": [
         "www.chemicalbank.com"
       ],
+      "China Citic Bank International United States": [
+        "www.cncbinternational.com"
+      ],
       "Citi": [
         "online.citi.com"
       ],
+      "Citibank United States": [
+        "online.citibank.com"
+      ],
+      "City National Bank United States": [
+        "www.cnb.com"
+      ],
+      "Columbia Bank United States": [
+        "www.columbiabank.com"
+      ],
+      "Comerica Bank United States": [
+        "www.comerica.com"
+      ],
+      "Commerce Bank United States": [
+        "www.commercebank.com"
+      ],
       "Commonwealth bank": [
         "www.commbank.co.id"
+      ],
+      "Doral Bank": [
+        "www.doralbank.com"
+      ],
+      "East West Bancorp": [
+        "www.eastwestbank.com"
+      ],
+      "EverBank": [
+        "www.everbank.com"
       ],
       "Federal Reserve Bank of Atlanta": [
         "www.frbatlanta.org"
@@ -4598,297 +7648,219 @@
       "Federal Reserve Bank of St Louis": [
         "www.stlouisfed.org"
       ],
+      "Fifth Third Bank": [
+        "www.53.com"
+      ],
+      "First Citizens Bank": [
+        "www.firstcitizens.com"
+      ],
+      "First Commonwealth Bank United States": [
+        "www.fcbanking.com"
+      ],
+      "First Financial Bank": [
+        "www.1fbusa.com"
+      ],
+      "First Interstate Bank": [
+        "www.firstinterstatebank.com"
+      ],
+      "First Midwest Bank": [
+        "www.firstmidwest.com"
+      ],
+      "First National Bank United States": [
+        "www.fnbusa.com"
+      ],
+      "First National of Nebraska": [
+        "www.fnni.com"
+      ],
+      "First Niagara Financial": [
+        "www.firstniagara.com"
+      ],
+      "First Republic Bank": [
+        "www.firstrepublic.com"
+      ],
+      "FirstMerit Bank": [
+        "www.firstmerit.com"
+      ],
+      "Flagstar Bank United States": [
+        "www.flagstar.com"
+      ],
+      "Frost Bank": [
+        "www.frostbank.com"
+      ],
+      "Glacier Bank": [
+        "www.glacierbank.com"
+      ],
+      "Green Bank": [
+        "www.greenbank.com"
+      ],
+      "Hancock Bank United States": [
+        "www.hancockbank.com"
+      ],
+      "Helaba Landesbank Hessen-Thüringen United States": [
+        "www.helaba.com"
+      ],
+      "Hilltop National Bank": [
+        "www.hilltopnationalbank.com"
+      ],
+      "Hudson City Savings Bank": [
+        "www.hcsbonline.com"
+      ],
+      "Huntington Bank": [
+        "www.huntington.com"
+      ],
+      "Iberia Bank United States": [
+        "www.iberiabank.com"
+      ],
+      "Independent Bank": [
+        "www.independentbank.com"
+      ],
+      "International Bancshares Corporation": [
+        "www.ibc.com"
+      ],
+      "Investors Bank United States": [
+        "www.myinvestorsbank.com"
+      ],
       "J.P.Morgan": [
         "www.jpmorgan.com"
+      ],
+      "JP Morgan Bank United States": [
+        "www.jpmorgan.com"
+      ],
+      "KeyBank": [
+        "www.key.com"
+      ],
+      "Kookmin Bank United States": [
+        "omoney.kbstar.com"
+      ],
+      "M&T Bank": [
+        "www.mtb.com"
+      ],
+      "MB Financial Bank": [
+        "www.mbfinancial.com"
       ],
       "Meriwest": [
         "meriwest.com",
         "meriwestonline.meriwest.com"
       ],
-      "PNC": [
-        "www.pnc.com"
-      ],
-      "US bank": [
-        "www.usbank.com"
-      ],
-      "Wells Fargo": [
-        "www.wellsfargo.com"
-      ],
-      "Prosperity Bank": [
-        "www.prosperitybankusa.com"
-      ],
-      "Signature Bank": [
-        "www.signatureny.com"
-      ],
-      "Bank of Hawaii": [
-        "www.boh.com"
-      ],
-      "First Republic Bank": [
-        "www.firstrepublic.com"
-      ],
-      "Silicon Valley Bank": [
-        "www.svb.com"
-      ],
-      "BankUnited": [
-        "www.bankunited.com"
-      ],
-      "East West Bancorp": [
-        "www.eastwestbank.com"
-      ],
-      "Commerce Bank United States": [
-        "www.commercebank.com"
-      ],
-      "Frost Bank": [
-        "www.frostbank.com"
-      ],
-      "United Community Bank": [
-        "www.ucbi.com"
-      ],
-      "BancFirst": [
-        "www.bancfirst.com"
-      ],
-      "Hilltop National Bank": [
-        "www.hilltopnationalbank.com"
-      ],
-      "Bank of New York Mellon": [
-        "www.bnymellon.com"
-      ],
-      "UMB Financial": [
-        "www.umb.com"
-      ],
-      "Texas Capital Bank": [
-        "www.texascapitalbank.com"
-      ],
-      "Central Bancompany": [
-        "www.centralbancompany.com"
-      ],
-      "Umpqua Bank": [
-        "www.umpquabank.com"
-      ],
-      "First National of Nebraska": [
-        "www.fnni.com"
-      ],
-      "First Citizens Bank": [
-        "www.firstcitizens.com"
-      ],
       "NBT Bancorp": [
         "www.nbtbancorp.com"
-      ],
-      "City National Bank United States": [
-        "www.cnb.com"
-      ],
-      "Northern Trust United States": [
-        "www.northerntrust.com"
-      ],
-      "WesBanco United States": [
-        "www.wesbanco.com"
-      ],
-      "BBCN Bank": [
-        "www.bbcnbank.com"
-      ],
-      "Columbia Bank United States": [
-        "www.columbiabank.com"
-      ],
-      "Independent Bank": [
-        "www.independentbank.com"
-      ],
-      "PacWest Bank": [
-        "www.firstcommunitybancorp.com"
-      ],
-      "Investors Bank United States": [
-        "www.myinvestorsbank.com"
-      ],
-      "Fifth Third Bank": [
-        "www.53.com"
-      ],
-      "Boston Private Financial": [
-        "www.bostonprivate.com"
-      ],
-      "Susquehanna Bank": [
-        "www.susquehanna.net"
-      ],
-      "National Penn Bank": [
-        "www.nationalpenn.com"
-      ],
-      "Citibank United States": [
-        "online.citibank.com"
-      ],
-      "Huntington Bank": [
-        "www.huntington.com"
-      ],
-      "Popular Community Bank": [
-        "www.popularcommunitybank.com"
-      ],
-      "First Financial Bank": [
-        "www.1fbusa.com"
-      ],
-      "BB&T Bank": [
-        "www.bbt.com"
-      ],
-      "US Bank": [
-        "www.usbank.com"
-      ],
-      "Glacier Bank": [
-        "www.glacierbank.com"
-      ],
-      "Old National Bank": [
-        "www.oldnational.com"
-      ],
-      "FirstMerit Bank": [
-        "www.firstmerit.com"
-      ],
-      "New York Community Bank": [
-        "www.mynycb.com"
-      ],
-      "Western Alliance Bank": [
-        "www.westernalliancebancorp.com"
-      ],
-      "First Interstate Bank": [
-        "www.firstinterstatebank.com"
-      ],
-      "EverBank": [
-        "www.everbank.com"
-      ],
-      "Cathay Bank United States": [
-        "www.cathaybank.com"
-      ],
-      "JP Morgan Bank United States": [
-        "www.jpmorgan.com"
-      ],
-      "Webster Bank": [
-        "www.websteronline.com"
-      ],
-      "Taylor Capital Group": [
-        "www.taylorcapitalgroup.com"
-      ],
-      "Capitol Federal": [
-        "www.capfed.com"
-      ],
-      "M&T Bank": [
-        "www.mtb.com"
-      ],
-      "Bangkok Bank United States": [
-        "www.bangkokbank.com"
-      ],
-      "First National Bank United States": [
-        "www.fnbusa.com"
-      ],
-      "Hancock Bank United States": [
-        "www.hancockbank.com"
-      ],
-      "Trustmark Bank United States": [
-        "www.trustmark.com"
-      ],
-      "MB Financial Bank": [
-        "www.mbfinancial.com"
-      ],
-      "Zions Bancorporation": [
-        "www.zionsbancorporation.com"
-      ],
-      "Bancorp South": [
-        "www.bancorpsouth.com"
-      ],
-      "Iberia Bank United States": [
-        "www.iberiabank.com"
-      ],
-      "Associated Bank United States": [
-        "www.associatedbank.com"
-      ],
-      "First Midwest Bank": [
-        "www.firstmidwest.com"
-      ],
-      "PNC Financial Services": [
-        "www.pnc.com"
-      ],
-      "The Private Bank United States": [
-        "www.theprivatebank.com"
-      ],
-      "Wintrust Financial United States": [
-        "www.wintrust.com"
-      ],
-      "Wells Fargo": [
-        "www.wellsfargo.com"
-      ],
-      "United Bank United States": [
-        "www.bankwithunited.com"
-      ],
-      "Washington Federal": [
-        "www.washingtonfederal.com"
-      ],
-      "International Bancshares Corporation": [
-        "www.ibc.com"
-      ],
-      "KeyBank": [
-        "www.key.com"
-      ],
-      "Park National Bank United States": [
-        "parknationalbank.com"
-      ],
-      "First Niagara Financial": [
-        "www.firstniagara.com"
-      ],
-      "Comerica Bank United States": [
-        "www.comerica.com"
-      ],
-      "SunTrust Banks": [
-        "www.suntrust.com"
-      ],
-      "Capital Bank Financial United States": [
-        "www.capitalbank-us.com"
-      ],
-      "Valley National Bank": [
-        "www.valleynationalbank.com"
-      ],
-      "Flagstar Bank United States": [
-        "www.flagstar.com"
-      ],
-      "TCF Bank United States": [
-        "tcfbank.com"
-      ],
-      "First Commonwealth Bank United States": [
-        "www.fcbanking.com"
-      ],
-      "US First Bancorp": [
-        "usfirstbancorp.com"
-      ],
-      "Synovus Bank": [
-        "www.synovus.com"
-      ],
-      "Regions Bank United States": [
-        "www.regions.com"
-      ],
-      "Bank of America": [
-        "www.bankofamerica.com"
-      ],
-      "People’s United Bank": [
-        "www.peoples.com"
-      ],
-      "Astoria Federal Savings": [
-        "www.astoriafederal.com"
-      ],
-      "Hudson City Savings Bank": [
-        "www.hcsbonline.com"
-      ],
-      "Doral Bank": [
-        "www.doralbank.com"
-      ],
-      "Helaba Landesbank Hessen-Thüringen United States": [
-        "www.helaba.com"
-      ],
-      "Kookmin Bank United States": [
-        "omoney.kbstar.com"
       ],
       "National Bank of Abu Dhabi United States": [
         "www.nbad.com"
       ],
-      "China Citic Bank International United States": [
-        "www.cncbinternational.com"
+      "National Penn Bank": [
+        "www.nationalpenn.com"
+      ],
+      "New York Community Bank": [
+        "www.mynycb.com"
+      ],
+      "Northern Trust United States": [
+        "www.northerntrust.com"
+      ],
+      "Old National Bank": [
+        "www.oldnational.com"
+      ],
+      "PNC": [
+        "www.pnc.com"
+      ],
+      "PNC Financial Services": [
+        "www.pnc.com"
+      ],
+      "PacWest Bank": [
+        "www.firstcommunitybancorp.com"
+      ],
+      "Park National Bank United States": [
+        "parknationalbank.com"
+      ],
+      "People’s United Bank": [
+        "www.peoples.com"
+      ],
+      "Popular Community Bank": [
+        "www.popularcommunitybank.com"
+      ],
+      "Prosperity Bank": [
+        "www.prosperitybankusa.com"
+      ],
+      "Regions Bank United States": [
+        "www.regions.com"
+      ],
+      "Signature Bank": [
+        "www.signatureny.com"
+      ],
+      "Silicon Valley Bank": [
+        "www.svb.com"
+      ],
+      "SunTrust Banks": [
+        "www.suntrust.com"
+      ],
+      "Susquehanna Bank": [
+        "www.susquehanna.net"
+      ],
+      "Synovus Bank": [
+        "www.synovus.com"
+      ],
+      "TCF Bank United States": [
+        "tcfbank.com"
+      ],
+      "Taylor Capital Group": [
+        "www.taylorcapitalgroup.com"
+      ],
+      "Texas Capital Bank": [
+        "www.texascapitalbank.com"
+      ],
+      "The Private Bank United States": [
+        "www.theprivatebank.com"
+      ],
+      "Trustmark Bank United States": [
+        "www.trustmark.com"
+      ],
+      "UMB Financial": [
+        "www.umb.com"
+      ],
+      "US Bank": [
+        "www.usbank.com"
+      ],
+      "US First Bancorp": [
+        "usfirstbancorp.com"
+      ],
+      "US bank": [
+        "www.usbank.com"
+      ],
+      "Umpqua Bank": [
+        "www.umpquabank.com"
+      ],
+      "United Bank United States": [
+        "www.bankwithunited.com"
+      ],
+      "United Community Bank": [
+        "www.ucbi.com"
+      ],
+      "Valley National Bank": [
+        "www.valleynationalbank.com"
+      ],
+      "Washington Federal": [
+        "www.washingtonfederal.com"
+      ],
+      "Webster Bank": [
+        "www.websteronline.com"
+      ],
+      "Wells Fargo": [
+        "www.wellsfargo.com"
+      ],
+      "WesBanco United States": [
+        "www.wesbanco.com"
       ],
       "Westdeutsche ImmobilienBank USA": [
         "www.westimmo.com"
       ],
-      "Green Bank": [
-        "www.greenbank.com"
+      "Western Alliance Bank": [
+        "www.westernalliancebancorp.com"
+      ],
+      "Wintrust Financial United States": [
+        "www.wintrust.com"
+      ],
+      "Zions Bancorporation": [
+        "www.zionsbancorporation.com"
       ]
     },
     "Uruguay": {
@@ -4902,8 +7874,32 @@
       ]
     },
     "Vanuatu": {
+      "ANZ Bank Vanuatu": [
+        "www.anz.com"
+      ],
+      "Asia Merchant Bank Vanuatu": [
+        "www.asiamerchantbank.com"
+      ],
+      "Bred Bank Vanuatu": [
+        "www.bred.vu"
+      ],
+      "National Bank of Vanuatu": [
+        "www.nbv.vu"
+      ],
+      "Pacific Private Bank Vanuatu": [
+        "www.pacificprivatebank.com"
+      ],
       "Reserve Bank of Vanuatu": [
         "www.rbv.gov.vu"
+      ],
+      "United Development Bank of Pacific": [
+        "www.udbpbank.com"
+      ],
+      "Vantu Bank": [
+        "www.vantubank.com"
+      ],
+      "Westpac Banking Corporation Vanuatu": [
+        "www.westpac.vu"
       ]
     },
     "Vatican City": {
@@ -4934,38 +7930,26 @@
       ]
     },
     "Yemen": {
+      "Arab Bank": [
+        "www.arabbank.com"
+      ],
       "Central Bank of Yemen": [
         "www.centralbank.gov.ye"
-      ],
-      "The Yemen Bank for Reconstruction And Development": [
-        "www.ybrd.com.ye"
-      ],
-      "National Bank Of Yemen": [
-        "www.natbankofyemen.com"
       ],
       "Cooperative & Agricultural Credit Bank": [
         "www.cacbank.com.ye"
       ],
-      "International Bank Of Yemen": [
-        "www.ibyemen.com"
-      ],
-      "Yemen Kuwait Bank ForTrade & Investment": [
-        "www.yk-bank.com"
-      ],
-      "Yemen Commercial Bank": [
-        "www.ycb.com.ye"
-      ],
-      "Yemen Gulf Bank": [
-        "www.yg-bank.com"
-      ],
-      "Arab Bank": [
-        "www.arabbank.com"
-      ],
       "Credit Agricole Corporate & Investment Bank": [
         "www.calyon.com"
       ],
-      "United Bank LTD": [
-        "www.ubl.com.pk"
+      "International Bank Of Yemen": [
+        "www.ibyemen.com"
+      ],
+      "Islamic Bank Of Yemen for Finance and Investment": [
+        "www.iby-bank.com"
+      ],
+      "National Bank Of Yemen": [
+        "www.natbankofyemen.com"
       ],
       "Qatar National Bank (QNB)": [
         "www.qnb.com.qa"
@@ -4973,24 +7957,32 @@
       "Rafidan Bank": [
         "www.rafidain-bank.org"
       ],
-      "Islamic Bank Of Yemen for Finance and Investment": [
-        "www.iby-bank.com"
-      ],
-      "Tadhamon International Islamic Bank": [
-        "www.tiib.com"
-      ],
       "Saba Islamic Bank": [
         "www.sababank.com"
       ],
       "Shamil Bank Of Yemen & Bahrain": [
         "www.sbyb.net"
+      ],
+      "Tadhamon International Islamic Bank": [
+        "www.tiib.com"
+      ],
+      "The Yemen Bank for Reconstruction And Development": [
+        "www.ybrd.com.ye"
+      ],
+      "United Bank LTD": [
+        "www.ubl.com.pk"
+      ],
+      "Yemen Commercial Bank": [
+        "www.ycb.com.ye"
+      ],
+      "Yemen Gulf Bank": [
+        "www.yg-bank.com"
+      ],
+      "Yemen Kuwait Bank ForTrade & Investment": [
+        "www.yk-bank.com"
       ]
     },
     "Zambia": {
-      "Bank of Zambia": [
-        "www.boz.zm"
-      ],
-      "International Commercial Bank": [],
       "AB Bank Zambia Limited": [
         "www.abbank.co.zm"
       ],
@@ -5002,6 +7994,9 @@
       ],
       "Bank of China Zambia": [
         "www.bankofchina.com"
+      ],
+      "Bank of Zambia": [
+        "www.boz.zm"
       ],
       "Barclays Bank Zambia": [
         "zm.barclays.com"
@@ -5030,6 +8025,7 @@
       "Intermarket Bank Zambia": [
         "www.intermarket.co.zm"
       ],
+      "International Commercial Bank": [],
       "Investrust Bank Zambia": [
         "www.investrustbank.com"
       ],
@@ -5044,16 +8040,9 @@
       ],
       "Zambia National Commercial Bank": [
         "www.zanaco.co.zm"
-      ],
-      "Bank of Zambia": [
-        "www.boz.zm"
       ]
     },
     "Zimbabwe": {
-      "Reserve Bank of Zimbabwe": [
-        "www.rbz.co.zw"
-      ],
-      "People's Own Savings Bank": [],
       "Agricultural Development Bank of Zimbabwe": [
         "www.agribank.co.zw"
       ],
@@ -5075,9 +8064,6 @@
       "FBC Bank Zimbabwe": [
         "www.fbc.co.zw"
       ],
-      "ZB Bank": [
-        "www.zb.co.zw"
-      ],
       "MBCA Bank": [
         "www.mbca.co.zw"
       ],
@@ -5090,6 +8076,10 @@
       "POSB Zimbabwe": [
         "www.posb.co.zw"
       ],
+      "People's Own Savings Bank": [],
+      "Reserve Bank of Zimbabwe": [
+        "www.rbz.co.zw"
+      ],
       "Stanbic Bank Zimbabwe": [
         "www.stanbicbank.co.zw"
       ],
@@ -5098,6 +8088,9 @@
       ],
       "Steward Bank Zimbabwe": [
         "www.stewardbank.co.zw"
+      ],
+      "ZB Bank": [
+        "www.zb.co.zw"
       ]
     }
   }
